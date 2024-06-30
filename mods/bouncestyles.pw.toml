@@ -1,0 +1,13 @@
+name = "BounceStyles"
+filename = "BounceStyles-2.5.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8z2jru2M/versions/IIgiXiNQ/BounceStyles-2.5.1-forge.jar"
+hash-format = "sha1"
+hash = "ffcd1f8e4c7583beaee5c08589409d487ec7ada1"
+
+[update]
+[update.modrinth]
+mod-id = "8z2jru2M"
+version = "IIgiXiNQ"

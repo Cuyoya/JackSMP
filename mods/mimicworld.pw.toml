@@ -1,0 +1,13 @@
+name = "MimicWorld"
+filename = "MimicWorld-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cOEb9NMw/versions/w8aCGYFO/MimicWorld-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "7d71ecf28da0bb2cd2cce74d8af2296a3866fa45"
+
+[update]
+[update.modrinth]
+mod-id = "cOEb9NMw"
+version = "w8aCGYFO"

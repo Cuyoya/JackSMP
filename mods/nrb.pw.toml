@@ -1,0 +1,13 @@
+name = "No Report Button"
+filename = "no-report-button-forge-1.5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9WJeSpTH/versions/5TLOa6VS/no-report-button-forge-1.5.0.jar"
+hash-format = "sha1"
+hash = "d05c3ed9409e02cd5c0285bbcf54844505eccf37"
+
+[update]
+[update.modrinth]
+mod-id = "9WJeSpTH"
+version = "5TLOa6VS"

@@ -1,0 +1,13 @@
+name = "UnionLib"
+filename = "UnionLib-1.20.1-10.2.5-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EkkPwdCY/versions/yoSqbzxs/UnionLib-1.20.1-10.2.5-Forge.jar"
+hash-format = "sha1"
+hash = "dcd2f4e87b4668b4305361a4ddeafc3ac668b562"
+
+[update]
+[update.modrinth]
+mod-id = "EkkPwdCY"
+version = "yoSqbzxs"

@@ -1,0 +1,13 @@
+name = "Minecards [Forge]"
+filename = "minecards-1.0.4_Forge_MC1.20.1-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LJAafm1W/versions/ys9qZnup/minecards-1.0.4_Forge_MC1.20.1-1.20.4.jar"
+hash-format = "sha1"
+hash = "0d5c820edccbc37fc834f16be5b24607b992d433"
+
+[update]
+[update.modrinth]
+mod-id = "LJAafm1W"
+version = "ys9qZnup"

@@ -1,0 +1,13 @@
+name = "Illager Raid Music"
+filename = "illagerraidmusic-1.20-1.20.1-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WZCboGDd/versions/NbeqixmY/illagerraidmusic-1.20-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "192feafce1304d9bcb2a827c6a55601df1e59482"
+
+[update]
+[update.modrinth]
+mod-id = "WZCboGDd"
+version = "NbeqixmY"

@@ -1,0 +1,13 @@
+name = "Glowing Illagers"
+filename = "glowingraidillagers-1.20-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AdgLkXjp/versions/oep1l361/glowingraidillagers-1.20-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "ecb871a4ea8b14b0bae95d01a2dcefea99d98f49"
+
+[update]
+[update.modrinth]
+mod-id = "AdgLkXjp"
+version = "oep1l361"

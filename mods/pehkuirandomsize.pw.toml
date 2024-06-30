@@ -1,0 +1,13 @@
+name = "PehkuiRandomSize"
+filename = "PehkuiRandomSize-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cOPiH1FX/versions/zhIzXwFq/PehkuiRandomSize-1.2.1.jar"
+hash-format = "sha1"
+hash = "f55600cc4b5a366282f5e5c1f93932a806f841b6"
+
+[update]
+[update.modrinth]
+mod-id = "cOPiH1FX"
+version = "zhIzXwFq"

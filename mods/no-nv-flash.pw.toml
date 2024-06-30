@@ -1,0 +1,13 @@
+name = "No More Night Vision Flashing!"
+filename = "no_nv_flash-1.20.1-1.6.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o9s5PfpG/versions/7MiXcVcK/no_nv_flash-1.20.1-1.6.0.4.jar"
+hash-format = "sha1"
+hash = "cc3b48da1d463b11b16bf19c7d075d4942f25e94"
+
+[update]
+[update.modrinth]
+mod-id = "o9s5PfpG"
+version = "7MiXcVcK"

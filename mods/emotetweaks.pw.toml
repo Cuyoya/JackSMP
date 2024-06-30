@@ -1,0 +1,13 @@
+name = "EmoteTweaks"
+filename = "EmoteTweaks-4.0.2.27-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QfXPAsap/versions/Hgf01bgl/EmoteTweaks-4.0.2.27-forge.jar"
+hash-format = "sha1"
+hash = "1da97a9eff154d7a863be94f5d7163f340bb34e8"
+
+[update]
+[update.modrinth]
+mod-id = "QfXPAsap"
+version = "Hgf01bgl"

@@ -1,0 +1,13 @@
+name = "Tiered"
+filename = "Tiered-1.20.1-6.0.5-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQL9oTmq/versions/zd5fHqAy/Tiered-1.20.1-6.0.5-Forge.jar"
+hash-format = "sha1"
+hash = "202d89855ef16ba154b9714e46afca78fb9a345e"
+
+[update]
+[update.modrinth]
+mod-id = "fQL9oTmq"
+version = "zd5fHqAy"

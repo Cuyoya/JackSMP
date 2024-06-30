@@ -1,0 +1,13 @@
+name = "WebDisplays"
+filename = "webdisplays-2.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRa1UAVZ/versions/yzdrcFok/webdisplays-2.0.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "38d8c3605e2260d4a7116f3754a32c0bb241742c"
+
+[update]
+[update.modrinth]
+mod-id = "bRa1UAVZ"
+version = "yzdrcFok"

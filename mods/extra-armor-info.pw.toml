@@ -1,0 +1,13 @@
+name = "Extra Armor Info"
+filename = "extra_armor_info-mc1.20-1.0.0-build.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qoXI03ct/versions/S63LVvph/extra_armor_info-mc1.20-1.0.0-build.6.jar"
+hash-format = "sha1"
+hash = "229c1c5d3b536bc773947d348d0d16135a20558d"
+
+[update]
+[update.modrinth]
+mod-id = "qoXI03ct"
+version = "S63LVvph"

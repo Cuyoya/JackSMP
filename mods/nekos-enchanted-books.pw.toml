@@ -1,0 +1,13 @@
+name = "Neko's Enchanted Books"
+filename = "NekosEnchantedBooks-1.20.1-1.8.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VZWuyRVr/versions/LEXIMrpP/NekosEnchantedBooks-1.20.1-1.8.0.jar"
+hash-format = "sha1"
+hash = "9888aef9f23d466ad957d54e1d047d7947b8530d"
+
+[update]
+[update.modrinth]
+mod-id = "VZWuyRVr"
+version = "LEXIMrpP"

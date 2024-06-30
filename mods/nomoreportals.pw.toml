@@ -1,0 +1,13 @@
+name = "No More Portals"
+filename = "nomoreportals-forge-1.20-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gQeZmycy/versions/Q7ZS0Krb/nomoreportals-forge-1.20-1.1.1.jar"
+hash-format = "sha1"
+hash = "254693cec8c46b373bcdd37259f72e5c808643a4"
+
+[update]
+[update.modrinth]
+mod-id = "gQeZmycy"
+version = "Q7ZS0Krb"

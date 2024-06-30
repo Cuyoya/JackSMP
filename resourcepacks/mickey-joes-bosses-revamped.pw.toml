@@ -1,0 +1,13 @@
+name = "MJ's Bosses Revamped"
+filename = "MJsBossesRevamped.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zkyq7fVs/versions/7C0Jcj4z/MJsBossesRevamped.zip"
+hash-format = "sha1"
+hash = "a6b63e06434600fa0b23cc15af23da2ab868c244"
+
+[update]
+[update.modrinth]
+mod-id = "Zkyq7fVs"
+version = "7C0Jcj4z"

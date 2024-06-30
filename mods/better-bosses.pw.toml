@@ -1,0 +1,13 @@
+name = "Better Bosses"
+filename = "better-bosses-0.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mAFM2l2N/versions/EMb9vXPb/better-bosses-0.2.3.jar"
+hash-format = "sha1"
+hash = "cb726171afc38047344fa8fedb59b856011ed9eb"
+
+[update]
+[update.modrinth]
+mod-id = "mAFM2l2N"
+version = "EMb9vXPb"

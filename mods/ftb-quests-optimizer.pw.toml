@@ -1,0 +1,13 @@
+name = "FTB Quests Optimizer"
+filename = "FTBQuestsOptimizer-forge-2.0.2-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oPwMsrcf/versions/flz4E2LX/FTBQuestsOptimizer-forge-2.0.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "93fbb615f3c0c01f990d9254fd483340795dd2ea"
+
+[update]
+[update.modrinth]
+mod-id = "oPwMsrcf"
+version = "flz4E2LX"

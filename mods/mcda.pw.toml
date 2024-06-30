@@ -1,0 +1,13 @@
+name = "MC Dungeons Armors"
+filename = "mcda-5.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oMitr7dU/versions/kOZVEfRn/mcda-5.0.2.jar"
+hash-format = "sha1"
+hash = "b65ccedcc1323b02eb66433e0c8c99c7ddcfe7b9"
+
+[update]
+[update.modrinth]
+mod-id = "oMitr7dU"
+version = "kOZVEfRn"

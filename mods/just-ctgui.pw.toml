@@ -1,0 +1,13 @@
+name = "Just CTGUI"
+filename = "Just_CTGUI_0.1.0_alpha_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uQorKjjW/versions/L9ChGjY0/Just_CTGUI_0.1.0_alpha_1.20.1.jar"
+hash-format = "sha1"
+hash = "9fa3e6fd7519d91de7d31d210484b957f0ed7494"
+
+[update]
+[update.modrinth]
+mod-id = "uQorKjjW"
+version = "L9ChGjY0"

@@ -1,0 +1,13 @@
+name = "Simple Quiver"
+filename = "quiver-1.0.0-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MuorW7lm/versions/OO7s8epq/quiver-1.0.0-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "56d8fd0fdd1d56d3d856e0c2a2ada8b7e5e029ad"
+
+[update]
+[update.modrinth]
+mod-id = "MuorW7lm"
+version = "OO7s8epq"
