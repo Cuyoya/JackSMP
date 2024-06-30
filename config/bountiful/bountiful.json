@@ -1,0 +1,14 @@
+{
+  "boardUpdateFrequency": 45,
+  "boardGenFrequency": 0,
+  "flatBonusTimePerBounty": 0,
+  "shouldReputationDecreaseOnFail": false,
+  "shouldBountiesHaveTimersAndExpire": true,
+  "dataPackExclusions": [
+
+  ],
+  "objectiveModifier": 0,
+  "maxNumRewards": 2,
+  "showCompletionToast": true,
+  "allowMultipleCopies": false
+}

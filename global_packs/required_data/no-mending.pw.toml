@@ -1,0 +1,7 @@
+name = "no-mending"
+filename = "NoMending.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/m8CfbHq7/versions/ViYhSL9v/NoMending.zip"
+hash-format = "sha256"
+hash = "e39046819c0df0aa2332b559f1cf81bfd9086b15c00bc1c74d22993afd0d427a"

@@ -9,16 +9,357 @@ file = "config/alexsmobs.toml"
 hash = "8b7791bee8611f4062ef42a702b5589fd84f60e3137078ae9f8e34c3f383e5d8"
 
 [[files]]
+file = "config/bountiful/bountiful.json"
+hash = "1158136d56415420939caf28d25f4748966e9e7822f8bc06727348842717c1c5"
+
+[[files]]
+file = "config/mcda/mcda_loot_tables.json5"
+hash = "ac282347960a7a492e7105f4f5c71095f190b9b8df14c8f08d28f171e24c4f59"
+
+[[files]]
+file = "config/mcdw/mcdw_loot_config.json5"
+hash = "69a5466c65e942dee4261d53a26086eabb43e8e9e8b10f76fc72113abb6f68e7"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "50a81e9a67eb6e5956423b95129d7d2ea5440a4f9f7abe46dc399311edf17d55"
+
+[[files]]
 file = "config/theoneprobe-common.toml"
 hash = "3f90ed931884b7b5f4772dc08b0a2773abed119a701f115acfb1c0d5fda67a37"
 
 [[files]]
-file = "config/yosbr/config/quark-common.toml"
-hash = "282292ca22dd55998aaaee917c85d890d0349a1b18c12e7b381a49e869358e60"
+file = "config/veinmining-common.toml"
+hash = "aec550038184d62fd96e2c7ca5e2f9761599ad54c752bc762838afc6349ddf68"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "d9b7b42f4271eac22cd0f258f9e8d90eb9208bc498f1db12056c7db802ca8078"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/abandoned_mineshaft.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/bastion_treasure.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/buried_treasure.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/desert_pyramid.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/elder_guardian.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/evoker.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/igloo_chest.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/jungle_temple.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/nether_bridge.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/pillager_outpost.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/shipwreck_treasure.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/simple_dungeon.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/skeleton_horse.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/witch.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/wither.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_modifiers/woodland_mansion.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/abandoned_mineshaft.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/bastion_treasure.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/buried_treasure.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/desert_pyramid.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/igloo_chest.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/jungle_temple.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/nether_bridge.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/pillager_outpost.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/shipwreck_treasure.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/simple_dungeon.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/chests/woodland_mansion.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/entities/elder_guardian.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/entities/evoker.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/entities/skeleton_horse.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/entities/witch.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/loot_tables/minecraft/entities/wither.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/recipes/exotic_eye.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/recipes/undead_eye.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/endrem/recipes/witch_eye.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/dimension_type/the_nether.json"
+hash = "9a22a455645c0e6fdb88f9f5ee590d471a9d524f7d2281132170b7a4358917ca"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/archaeology/ocean_ruin_cold.json"
+hash = "55363092d5583e7f1d57321e47b5b17dc4c981e2c03b28327c7a473e71a013e5"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/archaeology/ocean_ruin_warm.json"
+hash = "eb56e745327e171d838c57f9ff1426c7ec44a6d3e8b5d4cc31605dbf72114b81"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/archaeology/trail_ruins_common.json"
+hash = "4efe23c56e191d54e6a064abed26d29e2100378ce0719c414196c2746acadc68"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/abandoned_mineshaft.json"
+hash = "7afa9f70a90bb61aeb01913dac92982534af1e90c5083796a70a440d3429b19c"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/ancient_city.json"
+hash = "b93c6b45a6d427e9f48b9c83e8a9d56e8860aecc5151410cfdf6f95435cbce99"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/bastion_bridge.json"
+hash = "15e42c211a7afe11d6bde8c075b5a5e94a7e0680425fe7dc2ea13a7d240c469f"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/bastion_hoglin_stable.json"
+hash = "acdd4f5969278ddb8b304b44118bc23958ceb2673a4b376084a354f013ae0428"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/bastion_other.json"
+hash = "277384c5e31758a353527274cf5b1f5e24d28f63a465cbb9752b5a57aeddb9f7"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/bastion_treasure.json"
+hash = "f12b9c32ecea5aa5c9b191cdaa2a2bd60e38ade9f672909f10946284f28b5de3"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/buried_treasure.json"
+hash = "fe74f2f60b475f1f0d9502e32ce0b18ebcf487653fd30ffb9db30041a6eeb0f8"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/end_city_treasure.json"
+hash = "687eed28e7d26b3637ecb8d230ca87a7c8529a7569f10e60c0c92af3b67eea79"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/igloo_chest.json"
+hash = "64a71640e6703c338528e17f2fecba8a23d615bac37a3f04fbc34048bdce9757"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/nether_bridge.json"
+hash = "18780a1b86930198ee537ac3558674ade3cf187a665b080db8a31ae3b9ff6c8d"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/pillager_outpost.json"
+hash = "dc2b7a2db317f64e7f2d2086321f7524c18d08ffe080a94bb0af29a22bfc11b7"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/ruined_portal.json"
+hash = "9fc656414507f9184e6892fe2decffe3f06212bb3e750a7e71c8f2c581cb9638"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/shipwreck_supply.json"
+hash = "ca6f4ac93734007f87a9ad108bdb5ca4e48a97a2bb21c948e21ba9f867e20d65"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/spawn_bonus_chest.json"
+hash = "1dfc2dad4d5cf92882acce17a43177cef066533132cee67075c09d088dcc56b6"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/stronghold_corridor.json"
+hash = "a3a9721196bd12805c596c460e86001847418bc7f0170389543f36b75efdfd16"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/underwater_ruin_big.json"
+hash = "449feb1b4832afa0105ce122e0f9276a6b535afff9c993bbe3c605de2c9636e2"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/underwater_ruin_small.json"
+hash = "79aee365f1eabd790ac4b757a4d25ca64459eb1ac9eddffdff9757d432a533b9"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/village/village_armorer.json"
+hash = "45c780f558a7ed95ef1dc24ed10bd41913f305c49dbcedd4d9acdf6300476deb"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/village/village_shepherd.json"
+hash = "376a4e5953c5a94b162dbc9e06e8374e891eba0fd8de03ad79e06764fa0b2ec4"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/village/village_tannery.json"
+hash = "9f09ca93bde9f5488761e7bd04df2e5a26f0ea28db471cb296872d8aebfcacd1"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/village/village_toolsmith.json"
+hash = "a236ca560fcad0267d83b9b651ad689a1a39937e7583a33f671d196a7eedd551"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/village/village_weaponsmith.json"
+hash = "76e48c2a3e67388463a89c1067fbda026d74f53c845682b54a5a0899a81f169f"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/chests/woodland_mansion.json"
+hash = "e7c048a7c75392ef0fd62246b83777bf8e3deb77697b0e8204fe6cc7d615abfd"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/gameplay/fishing/junk.json"
+hash = "e5740bb99bbca74b942615ecb1c981117dedb942b450743bd1a17a54e7df5123"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/gameplay/fishing/treasure.json"
+hash = "64c7523875256ddb0f28cd1d2b5cb2a7a2f7a408a20839393b4d27a0a5c88f2f"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/gameplay/hero_of_the_village/armorer_gift.json"
+hash = "c9142a2395cc232fb233bb54397b6825536eeea2db01fc20267e466819302e0d"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/gameplay/hero_of_the_village/toolsmith_gift.json"
+hash = "9126ad86a617fd36c530a3418635bf2e723f4b4f7521225b132f5229f0d5014a"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/gameplay/hero_of_the_village/weaponsmith_gift.json"
+hash = "7a6e3de553257c34bec2975d0c1ea3b56a8e69280b521b68df0e902543a92f7d"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/loot_tables/gameplay/piglin_bartering.json"
+hash = "f91347470e4e07acbf5da27319a8db9f4c92103c942820979ed69461a832bd6b"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/worldgen/placed_feature/ore_lapis.json"
+hash = "dfa2d9f564cecfb526944df60e3e858ed5a607321ee536be01979e1642118f13"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/minecraft/worldgen/placed_feature/ore_lapis_buried.json"
+hash = "87af2023be2ce5a3459312c95e3e7009549c34e05dc3fce28c4d0cd92a560a6c"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/nuo/advancements/bottom_overworld.json"
+hash = "dcb2ebc4b5c79024644e2bde3521d5bcadf331774d32bf4412bf5d60bc373fae"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/nuo/advancements/top_nether.json"
+hash = "61727cfe5bcd67c9a6826cfca0b4360964b62ccff3334de05e644afa2e592022"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/nuo/functions/platform/create.mcfunction"
+hash = "b19c30cf851509f6d8d155010048d0396067665ed647bc405cb7abcf8ce0ac78"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/nuo/functions/platform/schedule.mcfunction"
+hash = "5dbacc55ab59a31ee8e123697770eede7ddf420b76479dccbfadcecb064ed402"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/nuo/functions/teleport/effects.mcfunction"
+hash = "8f49765413ac1b12494c3f25d4d4d238c4e07d93189435a761a7cda9dfed18cf"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/nuo/functions/teleport/nether.mcfunction"
+hash = "c9f1c43a655e50a676f3a3e21d0a1c66b563082928a4bb66398681e2b89613b0"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/nuo/functions/teleport/overworld.mcfunction"
+hash = "79a90d9bdbd8064e45c319118c4561b4f04f103534027ba264d5b0efc68f9609"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/nuo/predicates/bottom_overworld.json"
+hash = "3a54722288275cbb2652bd101c8406b4d7c178bab05264bab8cb3d22938ceafa"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/data/nuo/predicates/top_nether.json"
+hash = "91c906a7a755cdf676daa88f981a62aa0ed04aaf7f4c44af0e69de00b7bd8652"
+
+[[files]]
+file = "global_packs/required_data/YIAY SMP Tweaks/pack.mcmeta"
+hash = "2639ae18bc02ad7f8a47bac31d63e44a692ec19aaf2bcf5d12b700a807edc31a"
+
+[[files]]
+file = "global_packs/required_data/no-mending.pw.toml"
+hash = "b4f622159cfa5a5ba623943bbea2192b308b15a4cd9938d20d68fba396085879"
+metafile = true
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
@@ -158,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/bouncestyles.pw.toml"
 hash = "9017fe9b9f014c59142f95d373e3210751e59fc2e1a036e50949f1cfc25e8af9"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "5c682c3e7dd7ebf523d5b3485340d84a60bd7cf9ebfca21f371a946621ceb494"
 metafile = true
 
 [[files]]
@@ -396,6 +742,11 @@ hash = "25fa919ea97a60c39737bdd490e3a8f78361f42416453d83bd9a291908b821b2"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "9afa18269996bcaa57899af3175ad0bef142363c3c863b1ed7206089677fcd3d"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
 metafile = true
@@ -578,6 +929,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "2bc2974c8a78fbb020c5ed1d568e2539d090803cedc1fe9ac3a64b9ba8e06cef"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "02d62680362984af051a1fa301c4f3f7c36037f0253f96187ad4016e04907961"
 metafile = true
 
 [[files]]
