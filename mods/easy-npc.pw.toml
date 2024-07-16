@@ -1,13 +1,13 @@
 name = "Easy NPC"
-filename = "easy_npc_1.20.1-4.5.1.jar"
+filename = "easy_npc-forge-1.20.1-5.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CgGEe1h3/versions/5EosYtIW/easy_npc_1.20.1-4.5.1.jar"
+url = "https://cdn.modrinth.com/data/CgGEe1h3/versions/R2Kjc28U/easy_npc-forge-1.20.1-5.1.1.jar"
 hash-format = "sha1"
-hash = "e725ee2083d85f1b6bd1d5467fb66a34e7eba378"
+hash = "69885846da552172ee3ee756c53a24a88c2023c1"
 
 [update]
 [update.modrinth]
 mod-id = "CgGEe1h3"
-version = "5EosYtIW"
+version = "R2Kjc28U"

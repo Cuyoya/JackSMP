@@ -1,0 +1,13 @@
+name = "Explosive Breeding"
+filename = "explosive-breeding-1.1.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/b3wRm2nS/versions/FVsqiyEx/explosive-breeding-1.1.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "c6690fd48a7d026d60b5c3b5596cd58fb07b0a88"
+
+[update]
+[update.modrinth]
+mod-id = "b3wRm2nS"
+version = "FVsqiyEx"

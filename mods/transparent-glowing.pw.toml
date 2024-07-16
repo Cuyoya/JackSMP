@@ -1,0 +1,13 @@
+name = "Transparent Glowing"
+filename = "transparent_glowing-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Id3l0ZS7/versions/jCNL7WrD/transparent_glowing-1.0.0.jar"
+hash-format = "sha1"
+hash = "8854b2ddcd222352e358160d29735eb3110a0aab"
+
+[update]
+[update.modrinth]
+mod-id = "Id3l0ZS7"
+version = "jCNL7WrD"

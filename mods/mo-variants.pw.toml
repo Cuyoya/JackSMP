@@ -1,13 +1,13 @@
 name = "Mo-Variants"
-filename = "mo-variants-7.5.1J.jar"
+filename = "mo-variants-7.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/alk9mtOr/versions/pKzOXIBt/mo-variants-7.5.1J.jar"
+url = "https://cdn.modrinth.com/data/alk9mtOr/versions/AH1Z46EU/mo-variants-7.6.1.jar"
 hash-format = "sha1"
-hash = "a981e88ed4d526102b7231190dd1835ad22a2aa9"
+hash = "5ed7a6966355d3cdaf170a1db11c57fa919ecadd"
 
 [update]
 [update.modrinth]
 mod-id = "alk9mtOr"
-version = "pKzOXIBt"
+version = "AH1Z46EU"

@@ -1,0 +1,13 @@
+name = "Terrariums And Cages"
+filename = "terrariumsandcages-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pUKIhlim/versions/ByLUFMzk/terrariumsandcages-1.0.1.jar"
+hash-format = "sha1"
+hash = "8712c5941f255dac37f2d50af401868666d7399c"
+
+[update]
+[update.modrinth]
+mod-id = "pUKIhlim"
+version = "ByLUFMzk"
