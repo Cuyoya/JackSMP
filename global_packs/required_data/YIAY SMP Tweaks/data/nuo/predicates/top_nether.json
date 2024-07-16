@@ -1,16 +1,17 @@
 {
-  "condition": "minecraft:entity_properties",
-  "entity": "this",
-  "predicate": {
-    "type": "minecraft:player",
-    "location": {
-      "position": {
-        "y": {
-          "min": 186,
-          "max": 190
-        }
-      },
-      "dimension": "minecraft:the_nether"
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "minecraft:player",
+      "location": {
+        "position": {
+          "y": {
+            "min": 186,
+            "max": 190
+          }
+        },
+        "dimension": "minecraft:the_nether"
+      }
     }
   }
-}
+  

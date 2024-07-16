@@ -1,18 +1,18 @@
 {
-  "criteria": {
-    "player": {
-      "trigger": "minecraft:location",
-      "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:reference",
-            "name": "nuo:bottom_overworld"
-          }
-        ]
+    "criteria": {
+      "player": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:reference",
+              "name": "nuo:bottom_overworld"
+            }
+          ]
+        }
       }
+    },
+    "rewards": {
+      "function": "nuo:teleport/nether"
     }
-  },
-  "rewards": {
-    "function": "nuo:teleport/nether"
   }
-}

@@ -10,22 +10,55 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:saddle"
+          "name": "minecraft:coast_armor_trim_smithing_template"
         },
         {
           "type": "minecraft:item",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 30.0,
-              "treasure": true
-            }
-          ],
-          "name": "minecraft:book"
+          "name": "minecraft:tide_armor_trim_smithing_template"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "additionallanterns:prismarine_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mythicmetals:raw_aquarium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "yiay_smp:synthwave_solves_everything"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "yiay_smp:twitter_for_chiptune"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "yiay_smp:assholes_record"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "yiay_smp:drama_content_chiptune"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "yiay_smp:thanksgivings_chiptune"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "etched:blank_music_disc"
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:nautilus_shell"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:debug_stick"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tanukidecor:alarm_clock"
         }
       ],
       "rolls": 1.0
