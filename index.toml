@@ -17,12 +17,20 @@ file = "config/bountiful/bountiful.json"
 hash = "1158136d56415420939caf28d25f4748966e9e7822f8bc06727348842717c1c5"
 
 [[files]]
+file = "config/irons_rpg_tweaks-server.toml"
+hash = "9c4acdd22e0a00d8e2fa7df54c26590b2d96bcfdabdf0188cf36ac80e12ebdc4"
+
+[[files]]
 file = "config/mcda/mcda_loot_tables.json5"
 hash = "ac282347960a7a492e7105f4f5c71095f190b9b8df14c8f08d28f171e24c4f59"
 
 [[files]]
+file = "config/mcdw/mcdw_enchantment_settings_config.json5"
+hash = "0153b28b2dcab0f3a4622a552a232860c3f05e8bf35e0ad63239526473daa2ff"
+
+[[files]]
 file = "config/mcdw/mcdw_loot_config.json5"
-hash = "69a5466c65e942dee4261d53a26086eabb43e8e9e8b10f76fc72113abb6f68e7"
+hash = "7f56ec8a35479ea55f699cf57d9cdf753707afd451d05cf0e09bdd759870559c"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -33,8 +41,16 @@ file = "config/theoneprobe-common.toml"
 hash = "3f90ed931884b7b5f4772dc08b0a2773abed119a701f115acfb1c0d5fda67a37"
 
 [[files]]
+file = "config/veinmining-client.toml"
+hash = "c6204c13fbeb37db57bb5e3c03049704c692246c7cf195514e4ae608047b5f77"
+
+[[files]]
 file = "config/veinmining-common.toml"
-hash = "aec550038184d62fd96e2c7ca5e2f9761599ad54c752bc762838afc6349ddf68"
+hash = "33ce396abe1730075209407330ffd9e0c13a5daf22e6671532b5415d79cd04b2"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "00149aeec1ddcbd65777b17c2973a5bf4f3a6b73f844204e8a6247d2e28fe8c1"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -458,6 +474,11 @@ hash = "ded75a2dd4ee0ea57454d080652099f759ff222a17c6f7daa86df944daf5ad04"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
 metafile = true
@@ -520,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "db682d3c387eff10ff70087bdee0e13bb97f8616c49a8f4c7bb0e3146034a663"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
@@ -688,6 +714,11 @@ hash = "5f64aa9d7e7e9411c1b9a6388c249da8782d911f790146b057a5be615fa8bacc"
 metafile = true
 
 [[files]]
+file = "mods/enigmatic-graves-fork.pw.toml"
+hash = "4a362c02618c1661f08f0aedad55ae43cfbb9fb00862a347c27007031899a1a1"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "8abf1256f66e369ab03f3e4a46c235eb9a4a2ebeeaf9393a810a649592f8b0dc"
 metafile = true
@@ -750,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "83e5ef8ddf5f41c33cde52de9b4991067e8701ecb89353c3a5219a55f6ff04d5"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
 metafile = true
 
 [[files]]
@@ -1053,6 +1089,11 @@ hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
 metafile = true
 
 [[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "62cbc36bcadc18478adcbd138ed6f976f9625ec75c687acdb83b26fbda8d08b2"
+metafile = true
+
+[[files]]
 file = "mods/mimicworld.pw.toml"
 hash = "d1db86634271d51b8df5eeee9e1af9b56ccb3b0e21227d64827b0713b10fa791"
 metafile = true
@@ -1263,6 +1304,11 @@ hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
 metafile = true
 
 [[files]]
+file = "mods/quests-additions.pw.toml"
+hash = "ebc3223694c91300ac0a49201880a7950f34f833d552d15ee4aa444cca9a504d"
+metafile = true
+
+[[files]]
 file = "mods/quicker-connect-button.pw.toml"
 hash = "c0928fbabcbdc8a03f6f6a2e75ed32fc4442c2b157947216495490fd9bdd0e65"
 metafile = true
@@ -1388,6 +1434,11 @@ hash = "3b4c84225b3025c7b16e3a9634afd13bac4f1f8dd3091600cd020cb31d27fc93"
 metafile = true
 
 [[files]]
+file = "mods/structure-control-utility.pw.toml"
+hash = "317dad27ef74e6a362c97f7ef53129247b3f95f27186580d9b3632036a5b3426"
+metafile = true
+
+[[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "f9966c3e2ba050306b8c96f610ed705931cc48fedca54fb4270af875aa54dff3"
 metafile = true
@@ -1405,6 +1456,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "35ac53f97504b5d71b607335d8560d41d11b4adba0f93db1fa1204132661be56"
+metafile = true
+
+[[files]]
+file = "mods/tanukidecor.pw.toml"
+hash = "39696f16a951a19b8c8418353b4d598a9f684d6e0bf53dec2ce2bbd8979b378f"
 metafile = true
 
 [[files]]
@@ -1520,6 +1576,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "fc3b414060d61cdd7fa43523789533c64eb31271b1f579933de899338de08e3f"
+metafile = true
+
+[[files]]
+file = "mods/yiaysmp.pw.toml"
+hash = "461ad7594cd4c3b1f7712217a66425eef7606c2df855a0dfdfbcdaf9a439255f"
 metafile = true
 
 [[files]]
