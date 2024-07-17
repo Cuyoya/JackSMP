@@ -1,0 +1,7 @@
+name = "yiaysmp"
+filename = "yiay_smp-1.0.0-forge-1.20.1.jar"
+
+[download]
+url = "https://maven.martmists.com/snapshots/net/mcreator/yiay_smp-1.0.0-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "d5ac5994acab02845083666c519f4e8f395c1d0f0a86e7c134bb2e669945a640"
