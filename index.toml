@@ -1344,6 +1344,11 @@ hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
 metafile = true
 
 [[files]]
+file = "mods/resquake.pw.toml"
+hash = "6ec3009e6405fb5da626295bf25268dfac802a34da9fcea458c98b4d47d795ce"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
 metafile = true
@@ -1575,7 +1580,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "fc3b414060d61cdd7fa43523789533c64eb31271b1f579933de899338de08e3f"
+hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
 
 [[files]]
