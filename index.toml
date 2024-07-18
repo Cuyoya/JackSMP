@@ -404,6 +404,11 @@ hash = "527293070de4db71d7d1acf375ff487c8adb7f0ad0cb0732bc8f0dd51fb12a1b"
 metafile = true
 
 [[files]]
+file = "mods/bendy-lib.pw.toml"
+hash = "4054a9477e9bb31b238a4a77dc79cd4b1668220cf566ab6345e9565d0d92dd90"
+metafile = true
+
+[[files]]
 file = "mods/better-bosses.pw.toml"
 hash = "f6ac7bff9ed14ab9f8dacf0807cd8dceca48b84f36faadc7599faf29c68f465f"
 metafile = true
