@@ -1434,6 +1434,11 @@ hash = "6090690dd09d31f814e38cbeb7e34bc37073242edcf0e6f802f3dc94168b3d8a"
 metafile = true
 
 [[files]]
+file = "mods/stagelight.pw.toml"
+hash = "0c00932edb5ac6cdfe2be90bd83db1ab73b27bf0685652b14677c1eca0847c2f"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
 metafile = true
@@ -1586,11 +1591,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
-metafile = true
-
-[[files]]
-file = "mods/yiaysmp.pw.toml"
-hash = "461ad7594cd4c3b1f7712217a66425eef7606c2df855a0dfdfbcdaf9a439255f"
 metafile = true
 
 [[files]]
