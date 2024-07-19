@@ -1325,6 +1325,11 @@ hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "d013302f28b40676734df3b6fed35c1e0748c3452ed26508343a6d9656533ff1"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
