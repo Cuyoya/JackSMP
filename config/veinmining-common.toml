@@ -1,6 +1,6 @@
 #The rarity of the enchantment.
 #Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
-rarity = "RARE"
+rarity = "VERY_RARE"
 #The number of levels of the enchantment.
 #Range: 1 ~ 5
 levels = 1
@@ -16,7 +16,7 @@ canApplyAtEnchantingTable = false
 canApplyOnBooks = true
 #The minimum enchantability required for the first enchantment level.
 #Range: 1 ~ 100
-minEnchantabilityBase = 15
+minEnchantabilityBase = 50
 #The additional enchantability required for each enchantment level after the first.
 #Range: 1 ~ 100
 minEnchantabilityPerLevel = 5
