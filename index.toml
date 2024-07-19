@@ -9,10 +9,6 @@ file = "config/Advancedperipherals/world.toml"
 hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
 
 [[files]]
-file = "config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
 file = "config/MythicMountsConfig.json"
 hash = "e30c792e9e73473aa9bf50ab50e3a83875e92cb57c7e94914cc33a2c27643527"
 
@@ -35,10 +31,6 @@ hash = "1158136d56415420939caf28d25f4748966e9e7822f8bc06727348842717c1c5"
 [[files]]
 file = "config/carryon-common.toml"
 hash = "cb3e8465a82ee3b5ddf7722d1fe05519a5b11291066aee58b986ff591d4e88d9"
-
-[[files]]
-file = "config/emi.css"
-hash = "3f281d6b0b81354495c36475d536643880f64986a8aaed78c0f3e283f2a45d31"
 
 [[files]]
 file = "config/endrem.toml"
@@ -77,10 +69,6 @@ file = "config/regions_unexplored/ru-common.toml"
 hash = "ddf9b9f63a453060823a35b13ce52125998ec01754e20b67330ae7c14046563f"
 
 [[files]]
-file = "config/resquake.json"
-hash = "7138fd05c555e8f15c697b817db6622209efed63ec2ad4535e43d1076f74c50f"
-
-[[files]]
 file = "config/sawmill-common.toml"
 hash = "44c17dea9b5613e2ed243d2782088dd88b1d35ad91db21a0c4e6a3809e565a72"
 
@@ -105,10 +93,6 @@ file = "config/travelersbackpack-common.toml"
 hash = "e4010af1da19456053be77e16c98b6893633addf941a0b3dc529b114cee7b1e1"
 
 [[files]]
-file = "config/veinmining-client.toml"
-hash = "22bf73ba5e168ffca17b4b0465b803bfe65109d8414eab0f9fa16228483e38c3"
-
-[[files]]
 file = "config/veinmining-common.toml"
 hash = "91625e324594eef2d5e40c6d796a0cc3109881a0a25e30c0825b13eadda0139d"
 
@@ -117,15 +101,31 @@ file = "config/veinmining-server.toml"
 hash = "00149aeec1ddcbd65777b17c2973a5bf4f3a6b73f844204e8a6247d2e28fe8c1"
 
 [[files]]
-file = "config/xaerominimap.txt"
+file = "config/yosbr/config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/yosbr/config/emi.css"
+hash = "3f281d6b0b81354495c36475d536643880f64986a8aaed78c0f3e283f2a45d31"
+
+[[files]]
+file = "config/yosbr/config/resquake.json"
+hash = "7138fd05c555e8f15c697b817db6622209efed63ec2ad4535e43d1076f74c50f"
+
+[[files]]
+file = "config/yosbr/config/veinmining-client.toml"
+hash = "22bf73ba5e168ffca17b4b0465b803bfe65109d8414eab0f9fa16228483e38c3"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
 hash = "97494cd76fe01407df2ad3e25206eef5b0027ae0276e9f9e812930c91583b55c"
 
 [[files]]
-file = "config/xaerominimap_entities.json"
+file = "config/yosbr/config/xaerominimap_entities.json"
 hash = "9711f904fad73c98a4d258d22740bbcc5a4c49ce6a4d4ef17f69399a7b8e7873"
 
 [[files]]
-file = "config/xaeroworldmap.txt"
+file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
@@ -1212,6 +1212,11 @@ metafile = true
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "51293e548b070b3654fb1d30f12e9ef11febafdab9d68830e5ca783003180233"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
 metafile = true
 
 [[files]]
