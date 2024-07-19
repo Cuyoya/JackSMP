@@ -26,23 +26,27 @@
         },
         {
           "type": "minecraft:item",
-          "name": "yiay_smp:synthwave_solves_everything"
+          "name": "stagelight:synthwave_solves_everything"
         },
         {
           "type": "minecraft:item",
-          "name": "yiay_smp:twitter_for_chiptune"
+          "name": "stagelight:twitter_for_chiptune"
         },
         {
           "type": "minecraft:item",
-          "name": "yiay_smp:assholes_record"
+          "name": "stagelight:assholes_record"
         },
         {
           "type": "minecraft:item",
-          "name": "yiay_smp:drama_content_chiptune"
+          "name": "stagelight:drama_content_chiptune"
         },
         {
           "type": "minecraft:item",
-          "name": "yiay_smp:thanksgivings_chiptune"
+          "name": "stagelight:thanksgivings_chiptune"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stagelight:mansion_disc"
         },
         {
           "type": "minecraft:item",
