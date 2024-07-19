@@ -1,6 +1,6 @@
 
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#How many advancements deep you can see in the advancement screen. Vanilla is 2.
@@ -24,7 +24,7 @@
 	#This will have various knock-on effects but might make the Weald more common, or appear closer to modded biomes. Who knows?
 	"Terrablender Modify Vanilla Anyway" = false
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = false
+	"Enable Onboarding" = true
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not generate the Quark Programmer Art resource pack
@@ -253,7 +253,7 @@
 		"Ignore Anti Overlap" = false
 
 	[building.variant_chests]
-		"Enable Reverting Wooden Chests" = true
+		"Enable Reverting Wooden Chests" = false
 		"Replace Worldgen Chests" = false
 		#Chests to put in structures. It's preferred to use worldgen tags for this. The format per entry is "structure=chest", where "structure" is a structure ID, and "chest" is a block ID, which must correspond to a standard chest block.
 		"Structure Chests" = []
@@ -519,7 +519,7 @@
 	"Double Door Opening" = true
 	"Dragon Scales" = true
 	"Dyeable Item Frames" = true
-	Emotes = true
+	Emotes = false
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
 	"Gold Tools Have Fortune" = true
@@ -1343,7 +1343,7 @@
 	Foxhound = true
 	Shiba = true
 	Stonelings = true
-	Toretoise = true
+	Toretoise = false
 	Wraith = true
 
 	[mobs.crabs]
