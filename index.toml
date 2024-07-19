@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".editorconfig"
-hash = "ddf70607def0041c40944755a4721b85fe5848b7244ef98dfbc74d0ac2462c46"
-
-[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
 
