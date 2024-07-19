@@ -126,7 +126,7 @@ hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d9b7b42f4271eac22cd0f258f9e8d90eb9208bc498f1db12056c7db802ca8078"
+hash = "0e66ff14048012e89bc3110e8a3787b8e8612193478b3c3f7dc8f71297d3bb36"
 
 [[files]]
 file = "global_packs/required_data/Stagelight SMP Tweaks/data/custom_structures/data/structure_effects/tags/woldgen/structure/applies_effects.json"
