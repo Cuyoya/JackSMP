@@ -1,0 +1,1 @@
+craftingTable.addShaped("soulelgg", <item:mcda:soul_robe_leggings> * 1, [[<item:mcda:fabric_bolt_gray>, <item:mcda:fabric_bolt_gray>, <item:mcda:fabric_bolt_gray>], [<item:mcda:fabric_bolt_gray>, <item:minecraft:soul_sand>, <item:mcda:fabric_bolt_gray>], [<item:minecraft:soul_sand>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:soul_sand>]]);

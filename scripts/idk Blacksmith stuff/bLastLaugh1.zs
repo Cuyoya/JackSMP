@@ -1,0 +1,1 @@
+craftingTable.addShaped("lastlaughtwo", <item:mcdw:sickle_last_laugh_gold> * 1, [[<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:air>], [<item:minecraft:gold_ingot>, <item:minecraft:diamond>, <item:minecraft:gold_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:blade_hilt>]]);

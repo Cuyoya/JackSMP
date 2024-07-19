@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("trumpetdoor", MirrorAxis.HORIZONTAL, <item:quark:blossom_door> * 1, [[<item:quark:blossom_log>, <item:quark:blossom_log>, <item:minecraft:air>], [<item:quark:blossom_log>, <item:quark:blossom_log>, <item:minecraft:air>], [<item:quark:blossom_log>, <item:quark:blossom_log>, <item:minecraft:air>]]);

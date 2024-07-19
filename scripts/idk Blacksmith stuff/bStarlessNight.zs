@@ -1,0 +1,1 @@
+craftingTable.addShaped("starlessnight", <item:mcdw:sword_the_starless_night> * 1, [[<item:minecraft:air>, <item:minecraft:crying_obsidian>, <item:mythicmetals:star_platinum>], [<item:minecraft:echo_shard>, <item:mythicmetals:star_platinum>, <item:minecraft:crying_obsidian>], [<item:mcdw:sword_obsidian_claymore>, <item:minecraft:echo_shard>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("maulers", <item:mcdw:gauntlet_maulers> * 1, [[<item:minecraft:leather>, <item:minecraft:leather>, <item:dungeonnowloading:spikes>], [<item:minecraft:air>, <item:mcdw:gauntlet_gauntlet>, <item:dungeonnowloading:spikes>], [<item:minecraft:leather>, <item:minecraft:leather>, <item:dungeonnowloading:spikes>]]);

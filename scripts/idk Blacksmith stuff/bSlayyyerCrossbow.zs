@@ -1,0 +1,1 @@
+craftingTable.addShaped("slayyyyyercrossbow", <item:mcdw:crossbow_slayer_crossbow> * 1, [[<item:mythicmetals:platinum_ingot>, <item:mythicmetals:kyber_ingot>, <item:minecraft:air>], [<item:mythicmetals:kyber_ingot>, <item:minecraft:crossbow>, <item:minecraft:string>], [<item:minecraft:air>, <item:minecraft:string>, <item:minecraft:air>]]);

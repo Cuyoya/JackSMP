@@ -1,0 +1,1 @@
+craftingTable.remove(<item:travelersbackpack:diamond_tier_upgrade>);

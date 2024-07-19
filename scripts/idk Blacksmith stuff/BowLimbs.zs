@@ -1,0 +1,1 @@
+craftingTable.addShaped("bowlimbs", <item:stagelight:bow_limbs> * 1, [[<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>], [<item:minecraft:copper_ingot>, <item:stagelight:smithing_stone>.anyDamage().transformDamage(), <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);

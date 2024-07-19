@@ -1,0 +1,1 @@
+craftingTable.addShaped("stonetoppedgrass", <item:mcwfences:stone_grass_topped_wall> * 6, [[<item:minecraft:cobblestone>, <item:minecraft:dirt>, <item:minecraft:cobblestone>], [<item:minecraft:stone_bricks>, <item:minecraft:stone_bricks>, <item:minecraft:stone_bricks>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

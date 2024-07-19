@@ -1,0 +1,1 @@
+craftingTable.addShaped("battlestaffofterror", <item:mcdw:staff_battlestaff_of_terror> * 1, [[<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:fire_charge>], [<item:minecraft:iron_ingot>, <item:mcdw:staff_battlestaff>, <item:minecraft:iron_ingot>], [<item:minecraft:gunpowder>, <item:minecraft:iron_ingot>, <item:minecraft:air>]]);

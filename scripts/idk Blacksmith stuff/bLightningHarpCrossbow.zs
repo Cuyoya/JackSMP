@@ -1,0 +1,1 @@
+craftingTable.addShaped("lightningharpcrossbow", <item:mcdw:crossbow_lightning_harp_crossbow> * 1, [[<item:mythicmetals:steel_ingot>, <item:minecraft:lightning_rod>, <item:mythicmetals:steel_ingot>], [<item:minecraft:lightning_rod>, <item:mcdw:crossbow_harp_crossbow>, <item:minecraft:air>], [<item:mythicmetals:steel_ingot>, <item:minecraft:air>, <item:minecraft:creeper_head>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("lgrayawning", <item:mcwroofs:light_gray_striped_awning> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:light_gray_carpet>, <item:minecraft:white_carpet>, <item:minecraft:light_gray_carpet>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("warriorchest", <item:immersive_armors:warrior_chestplate> * 1, [[<item:minecraft:iron_ingot>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:leather>, <item:minecraft:iron_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

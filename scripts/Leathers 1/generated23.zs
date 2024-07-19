@@ -1,0 +1,1 @@
+craftingTable.addShaped("shieldstrap", <item:stagelight:shield_strap> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:stagelight:leather_fittings>.anyDamage().transformDamage(), <item:minecraft:leather>, <item:minecraft:leather>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

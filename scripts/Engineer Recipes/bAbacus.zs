@@ -1,0 +1,1 @@
+craftingTable.addShaped("abacus", <item:quark:abacus> * 1, [[<tag:items:minecraft:planks>, <item:minecraft:stick>, <tag:items:minecraft:planks>], [<item:stagelight:engineers_tools>.anyDamage().transformDamage(), <item:minecraft:calcite>, <item:minecraft:redstone>], [<tag:items:minecraft:planks>, <item:minecraft:stick>, <tag:items:minecraft:planks>]]);

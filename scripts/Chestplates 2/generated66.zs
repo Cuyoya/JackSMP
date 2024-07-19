@@ -1,0 +1,1 @@
+craftingTable.remove(<item:mcda:battle_robe_chestplate>);

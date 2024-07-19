@@ -1,0 +1,1 @@
+craftingTable.addShaped("bronzepick", <item:mythicmetals:bronze_pickaxe> * 1, [[<item:mythicmetals:bronze_ingot>, <item:mythicmetals:bronze_ingot>, <item:minecraft:air>], [<item:mythicmetals:bronze_ingot>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

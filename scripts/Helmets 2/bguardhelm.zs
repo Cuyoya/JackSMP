@@ -1,0 +1,1 @@
+craftingTable.addShaped("guardhelm", <item:mcda:guards_armor_helmet> * 1, [[<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:iron_ingot>, <item:stagelight:helmet_inner_cap>, <item:minecraft:iron_ingot>], [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>]]);

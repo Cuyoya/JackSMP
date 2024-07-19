@@ -1,0 +1,1 @@
+craftingTable.addShaped("entertainersvest", <item:mcda:entertainer_garb_chestplate> * 1, [[<item:mcda:fabric_bolt_purple>, <item:minecraft:air>, <item:mcda:fabric_bolt_purple>], [<item:mcda:fabric_bolt_cyan>, <item:minecraft:golden_chestplate>, <item:mcda:fabric_bolt_cyan>], [<item:mcda:fabric_bolt_cyan>, <item:mcda:fabric_bolt_purple>, <item:mcda:fabric_bolt_cyan>]]);

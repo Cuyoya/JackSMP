@@ -1,0 +1,1 @@
+craftingTable.addShaped("sawmilly", <item:sawmill:sawmill> * 1, [[<item:minecraft:redstone>, <item:minecraft:chain>, <item:minecraft:redstone>], [<item:minecraft:stick>, <item:furnitureexpanded:saw>.transformDamage(64), <item:minecraft:stick>], [<tag:items:minecraft:logs>, <tag:items:minecraft:logs>, <tag:items:minecraft:logs>]]);

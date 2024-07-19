@@ -1,0 +1,1 @@
+craftingTable.addShaped("durasteelsword", <item:mythicmetals:durasteel_sword> * 1, [[<item:mythicmetals:durasteel_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:mythicmetals:durasteel_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:blade_hilt>]]);

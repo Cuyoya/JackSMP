@@ -1,0 +1,1 @@
+craftingTable.addShaped("meshdoorsyum", <item:mcwdoors:print_bamboo> * 4, [[<item:minecraft:air>, <item:minecraft:paper>, <item:minecraft:air>], [<item:minecraft:paper>, <item:minecraft:bamboo_door>, <item:minecraft:paper>], [<item:minecraft:air>, <item:minecraft:paper>, <item:minecraft:air>]]);

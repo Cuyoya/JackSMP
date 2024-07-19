@@ -1,0 +1,1 @@
+craftingTable.addShaped("dragonegg", <item:minecraft:dragon_egg> * 1, [[<item:quark:dragon_scale>, <item:quark:dragon_scale>, <item:quark:dragon_scale>], [<item:quark:dragon_scale>, <item:minecraft:egg>, <item:quark:dragon_scale>], [<item:quark:dragon_scale>, <item:quark:dragon_scale>, <item:quark:dragon_scale>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("prompick", <item:mythicmetals:prometheum_pickaxe> * 1, [[<item:mythicmetals:prometheum_ingot>, <item:mythicmetals:prometheum_ingot>, <item:minecraft:air>], [<item:mythicmetals:prometheum_ingot>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

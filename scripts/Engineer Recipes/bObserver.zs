@@ -1,0 +1,1 @@
+craftingTable.addShaped("observer", <item:minecraft:observer> * 1, [[<tag:items:forge:cobblestone>, <tag:items:forge:cobblestone>, <tag:items:forge:cobblestone>], [<item:minecraft:redstone>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <item:minecraft:quartz>], [<tag:items:forge:cobblestone>, <tag:items:forge:cobblestone>, <tag:items:forge:cobblestone>]]);

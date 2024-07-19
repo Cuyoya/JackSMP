@@ -1,0 +1,1 @@
+craftingTable.addShaped("sprouthelm", <item:mcda:sprout_armor_helmet> * 1, [[<item:minecraft:twisting_vines>, <item:minecraft:twisting_vines>, <item:minecraft:twisting_vines>], [<item:minecraft:nether_sprouts>, <item:stagelight:helmet_inner_cap>, <item:minecraft:nether_sprouts>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("kyberpick", <item:mythicmetals:kyber_pickaxe> * 1, [[<item:mythicmetals:kyber_ingot>, <item:mythicmetals:kyber_ingot>, <item:minecraft:air>], [<item:mythicmetals:kyber_ingot>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

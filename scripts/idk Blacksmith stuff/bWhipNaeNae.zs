@@ -1,0 +1,1 @@
+craftingTable.addShaped("whip", <item:mcdw:whip_whip> * 1, [[<item:minecraft:string>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:string>, <item:minecraft:string>, <item:minecraft:air>], [<item:minecraft:leather>, <item:minecraft:string>, <item:stagelight:blade_hilt>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("haubergeon", <item:stagelight:chestplate_haubergeon> * 1, [[<tag:items:minecraft:wool>, <item:minecraft:air>, <tag:items:minecraft:wool>], [<item:minecraft:leather>, <item:stagelight:leather_fittings>.anyDamage().transformDamage(), <item:minecraft:leather>], [<item:minecraft:leather>, <tag:items:minecraft:wool>, <item:minecraft:leather>]]);

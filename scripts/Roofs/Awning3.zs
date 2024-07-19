@@ -1,0 +1,1 @@
+craftingTable.addShaped("brownawning", <item:mcwroofs:brown_striped_awning> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:brown_carpet>, <item:minecraft:white_carpet>, <item:minecraft:brown_carpet>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

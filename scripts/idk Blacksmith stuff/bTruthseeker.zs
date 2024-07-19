@@ -1,0 +1,1 @@
+craftingTable.addShaped("truthseeker", <item:mcdw:soul_dagger_truthseeker> * 1, [[<item:minecraft:netherite_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:iron_ingot>, <item:minecraft:ender_eye>, <item:minecraft:iron_ingot>], [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:stagelight:blade_hilt>]]);

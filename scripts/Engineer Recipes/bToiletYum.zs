@@ -1,0 +1,1 @@
+craftingTable.addShaped("toiletyum", <item:furnitureexpanded:toilet> * 1, [[<item:minecraft:stone_button>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:quartz_block>, <item:minecraft:oak_log>, <item:minecraft:air>], [<item:stagelight:engineers_tools>.anyDamage().transformDamage(), <item:minecraft:quartz_block>, <item:minecraft:air>]]);

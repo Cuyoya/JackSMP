@@ -1,0 +1,1 @@
+craftingTable.addShaped("winterstouch", <item:mcdw:bow_winters_touch>.withTag({Enchantments: [{lvl: 2, id: "mcdw:freezing"}]}) * 1, [[<item:minecraft:blue_ice>, <item:minecraft:blue_ice>, <item:minecraft:string>], [<item:minecraft:blue_ice>, <item:mcdw:bow_snow_bow>, <item:minecraft:string>], [<item:minecraft:blue_ice>, <item:minecraft:blue_ice>, <item:minecraft:string>]]);

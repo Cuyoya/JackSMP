@@ -1,0 +1,1 @@
+craftingTable.addShaped("hallowsword", <item:mythicmetals:hallowed_sword>.withTag({Enchantments: [{lvl: 3, id: "minecraft:smite"}]}) * 1, [[<item:mythicmetals:hallowed_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:mythicmetals:hallowed_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:blade_hilt>]]);

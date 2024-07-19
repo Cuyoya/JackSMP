@@ -1,0 +1,1 @@
+craftingTable.addShaped("beestinger", <item:mcdw:sword_beestinger> * 1, [[<item:minecraft:air>, <item:mythicmetals:silver_nugget>, <item:mythicmetals:silver_nugget>], [<item:minecraft:gold_ingot>, <item:mcdw:sword_rapier>, <item:mythicmetals:silver_nugget>], [<item:mcdw:item_bee_stinger>, <item:minecraft:gold_ingot>, <item:minecraft:air>]]);

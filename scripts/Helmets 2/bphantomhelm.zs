@@ -1,0 +1,1 @@
+craftingTable.addShaped("phantomhelm", <item:mcda:phantom_armor_helmet> * 1, [[<item:mcda:phantom_bones>, <item:minecraft:air>, <item:mcda:phantom_bones>], [<item:mcda:phantom_bones>, <item:mcda:phantom_skin>, <item:mcda:phantom_bones>], [<item:minecraft:air>, <item:stagelight:helmet_inner_cap>, <item:minecraft:air>]]);

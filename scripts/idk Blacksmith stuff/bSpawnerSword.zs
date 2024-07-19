@@ -1,0 +1,1 @@
+craftingTable.addShaped("spawnersword", <item:dungeonnowloading:spawner_sword> * 1, [[<item:dungeonnowloading:spawner_blade>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:dungeonnowloading:spawner_blade>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:blade_hilt>]]);

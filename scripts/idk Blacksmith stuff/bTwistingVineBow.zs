@@ -1,0 +1,1 @@
+craftingTable.addShaped("twistvinebow", <item:mcdw:bow_twisting_vine_bow> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:twisting_vines>], [<item:minecraft:warped_fungus>, <item:stagelight:bow_limbs>, <item:minecraft:twisting_vines>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:twisting_vines>]]);

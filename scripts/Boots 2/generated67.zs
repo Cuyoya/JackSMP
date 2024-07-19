@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("goatbooting", MirrorAxis.VERTICAL, <item:mcda:goat_gear_boots> * 1, [[<item:mcda:goat_pelt>, <item:mcda:fabric_bolt_light_gray>, <item:mcda:goat_pelt>], [<item:mcda:goat_pelt>, <item:stagelight:boot_lasts>, <item:mcda:goat_pelt>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

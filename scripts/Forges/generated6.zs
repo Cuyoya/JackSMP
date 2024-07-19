@@ -1,0 +1,1 @@
+craftingTable.addShaped("scrolls", <item:irons_rpg_tweaks:identification_scroll> * 1, [[<item:minecraft:paper>, <item:minecraft:air>, <item:minecraft:paper>], [<item:minecraft:paper>, <item:stagelight:sorcery_stone>.anyDamage().transformDamage(), <item:minecraft:paper>], [<item:minecraft:paper>, <item:minecraft:air>, <item:minecraft:paper>]]);

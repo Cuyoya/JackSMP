@@ -1,0 +1,1 @@
+craftingTable.addShaped("burstgalebow", <item:mcdw:bow_burst_gale_bow> * 1, [[<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:string>], [<item:mythicmetals:midas_gold_ingot>, <item:mcdw:bow_wind_bow>, <item:minecraft:sugar>], [<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:string>]]);

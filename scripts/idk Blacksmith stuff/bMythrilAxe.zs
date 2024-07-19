@@ -1,0 +1,1 @@
+craftingTable.addShaped("mythrilaxe", <item:mythicmetals:mythril_axe> * 1, [[<item:minecraft:air>, <item:mythicmetals:mythril_ingot>, <item:mythicmetals:mythril_ingot>], [<item:minecraft:air>, <item:stagelight:axe_haft>, <item:mythicmetals:mythril_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

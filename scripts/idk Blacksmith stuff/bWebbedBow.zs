@@ -1,0 +1,1 @@
+craftingTable.addShaped("webbedbow", <item:mcdw:bow_web_bow> * 1, [[<item:minecraft:air>, <item:minecraft:fermented_spider_eye>, <item:minecraft:cobweb>], [<item:minecraft:fermented_spider_eye>, <item:stagelight:bow_limbs>, <item:minecraft:cobweb>], [<item:minecraft:air>, <item:minecraft:fermented_spider_eye>, <item:minecraft:cobweb>]]);

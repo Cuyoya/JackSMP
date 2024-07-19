@@ -1,0 +1,1 @@
+craftingTable.addShaped("glovbee", <item:stagelight:glove_padding> * 1, [[<item:minecraft:air>, <item:minecraft:leather>, <item:minecraft:air>], [<item:minecraft:leather>, <tag:items:minecraft:wool>, <item:minecraft:leather>], [<item:minecraft:air>, <item:stagelight:leather_fittings>.anyDamage().transformDamage(), <item:minecraft:air>]]);

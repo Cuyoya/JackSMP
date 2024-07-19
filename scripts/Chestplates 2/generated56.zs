@@ -1,0 +1,1 @@
+craftingTable.addShaped("bonchest", <item:immersive_armors:bone_chestplate> * 1, [[<item:minecraft:bone>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:minecraft:bone>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:minecraft:bone>, <item:minecraft:bone>]]);

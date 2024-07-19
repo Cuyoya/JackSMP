@@ -1,0 +1,1 @@
+craftingTable.addShaped("dimensionalcarver", <item:alexsmobs:dimensional_carver> * 1, [[<item:alexsmobs:void_worm_mandible>, <item:alexsmobs:void_worm_eye>, <item:alexsmobs:void_worm_mandible>], [<item:minecraft:air>, <item:quark:iron_rod>, <item:minecraft:air>], [<item:minecraft:air>, <item:stagelight:sorcery_stone>.anyDamage().transformDamage(), <item:minecraft:air>]]);

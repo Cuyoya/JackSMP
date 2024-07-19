@@ -1,0 +1,1 @@
+craftingTable.addShaped("turdlechestplate", <item:mcda:turtle_armor_chestplate> * 1, [[<item:minecraft:scute>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:scute>], [<item:minecraft:scute>, <item:minecraft:scute>, <item:minecraft:scute>], [<item:minecraft:scute>, <item:minecraft:scute>, <item:minecraft:scute>]]);

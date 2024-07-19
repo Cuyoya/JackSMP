@@ -1,0 +1,1 @@
+craftingTable.addShaped("highlandaxe", <item:mcdw:axe_highland> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:iron_ingot>, <item:mcdw:axe_axe>, <item:minecraft:air>], [<item:minecraft:air>, <item:mythicmetals:runite_ingot>, <item:minecraft:air>]]);

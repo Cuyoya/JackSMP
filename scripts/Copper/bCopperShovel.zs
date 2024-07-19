@@ -1,0 +1,1 @@
+craftingTable.addShaped("coppershovel", <item:mythicmetals:copper_shovel>.withTag({Enchantments: [{lvl: 10, id: "biomemakeover:conductivity_curse"}]}) * 1, [[<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);

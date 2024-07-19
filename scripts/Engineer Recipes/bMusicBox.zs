@@ -1,0 +1,1 @@
+craftingTable.addShaped("musicbox", <item:xercamusic:music_box> * 1, [[<tag:items:minecraft:planks>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <tag:items:minecraft:planks>], [<tag:items:minecraft:planks>, <item:minecraft:gold_ingot>, <tag:items:minecraft:planks>], [<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>]]);

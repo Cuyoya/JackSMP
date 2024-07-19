@@ -1,0 +1,1 @@
+craftingTable.addShaped("shulkerhelm", <item:mcda:shulker_armor_helmet> * 1, [[<item:minecraft:air>, <item:minecraft:shulker_shell>, <item:minecraft:air>], [<item:minecraft:air>, <item:stagelight:helmet_inner_cap>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

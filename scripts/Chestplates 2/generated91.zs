@@ -1,0 +1,1 @@
+craftingTable.addShaped("battlerobers", <item:mcda:battle_robe_chestplate> * 1, [[<item:minecraft:iron_ingot>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:iron_ingot>], [<item:mcda:fabric_bolt_black>, <item:minecraft:gold_ingot>, <item:mcda:fabric_bolt_black>], [<item:mcda:fabric_bolt_black>, <item:minecraft:gold_ingot>, <item:mcda:fabric_bolt_black>]]);

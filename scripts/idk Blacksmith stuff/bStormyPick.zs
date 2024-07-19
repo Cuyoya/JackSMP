@@ -1,0 +1,1 @@
+craftingTable.addShaped("stromypick", <item:mythicmetals:stormyx_pickaxe> * 1, [[<item:mythicmetals:stormyx_ingot>, <item:mythicmetals:stormyx_ingot>, <item:minecraft:air>], [<item:mythicmetals:stormyx_ingot>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("spongestriker", <item:mcdw:sword_sponge_striker> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:mythicmetals:platinum_ingot>], [<item:minecraft:sponge>, <item:mythicmetals:kyber_ingot>, <item:minecraft:air>], [<item:mcdw:sword_coral_blade>, <item:minecraft:sponge>, <item:minecraft:air>]]);

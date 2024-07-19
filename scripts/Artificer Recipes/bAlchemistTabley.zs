@@ -1,0 +1,1 @@
+craftingTable.addShaped("alchemytabkle", <item:chipped:alchemy_bench> * 1, [[<item:minecraft:air>, <item:minecraft:brewing_stand>, <item:minecraft:air>], [<tag:items:minecraft:wooden_slabs>, <item:minecraft:crafting_table>, <tag:items:minecraft:wooden_slabs>], [<tag:items:minecraft:wooden_slabs>, <item:handcrafted:stackable_book>, <tag:items:minecraft:wooden_slabs>]]);

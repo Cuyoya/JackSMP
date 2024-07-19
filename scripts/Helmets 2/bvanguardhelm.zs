@@ -1,0 +1,1 @@
+craftingTable.addShaped("vanguardhelm", <item:mcda:vanguard_armor_helmet> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:iron_ingot>], [<item:mcda:iron_plate>, <item:stagelight:helmet_inner_cap>, <item:mcda:iron_plate>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("helmcap", <item:stagelight:helmet_inner_cap> * 1, [[<item:minecraft:leather>, <tag:items:minecraft:wool>, <item:minecraft:leather>], [<tag:items:minecraft:wool>, <item:stagelight:leather_fittings>.anyDamage().transformDamage(), <tag:items:minecraft:wool>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

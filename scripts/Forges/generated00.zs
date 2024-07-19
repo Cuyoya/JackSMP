@@ -1,0 +1,1 @@
+craftingTable.remove(<item:endrem:undead_eye>);

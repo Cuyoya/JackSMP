@@ -1,0 +1,1 @@
+craftingTable.addShaped("shield4", <item:mcdw:shield_vanguard> * 1, [[<tag:items:minecraft:planks>, <item:minecraft:gold_ingot>, <tag:items:minecraft:planks>], [<item:minecraft:gold_ingot>, <item:stagelight:shield_strap>, <item:minecraft:gold_ingot>], [<tag:items:minecraft:planks>, <item:minecraft:gold_ingot>, <tag:items:minecraft:planks>]]);

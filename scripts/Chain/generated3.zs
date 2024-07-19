@@ -1,0 +1,1 @@
+craftingTable.addShaped("chains", <item:minecraft:chain> * 1, [[<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:minecraft:air>]]);

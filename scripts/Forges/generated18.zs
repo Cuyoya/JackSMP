@@ -1,0 +1,1 @@
+craftingTable.addShaped("brickblast", <item:alloy_forgery:bricks_forge_controller> * 1, [[<item:minecraft:bricks>, <item:minecraft:bricks>, <item:minecraft:bricks>], [<item:minecraft:bricks>, <item:minecraft:blast_furnace>, <item:minecraft:bricks>], [<item:minecraft:bricks>, <item:minecraft:bricks>, <item:minecraft:bricks>]]);

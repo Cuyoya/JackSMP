@@ -1,0 +1,1 @@
+craftingTable.addShaped("thebegin", <item:mcdw:dagger_the_beginning> * 1, [[<item:minecraft:purpur_block>, <item:minecraft:gold_ingot>, <item:minecraft:air>], [<item:minecraft:gold_ingot>, <item:minecraft:ender_pearl>, <item:minecraft:gold_ingot>], [<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:stagelight:blade_hilt>]]);

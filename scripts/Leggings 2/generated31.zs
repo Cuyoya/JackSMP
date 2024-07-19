@@ -1,0 +1,1 @@
+craftingTable.addShaped("wolflegg", <item:mcda:wolf_armor_leggings> * 1, [[<item:mcda:wolf_pelt>, <item:mcda:wolf_pelt>, <item:mcda:wolf_pelt>], [<item:mcda:wolf_pelt>, <item:stagelight:legging_cuisses_and_poleyns>, <item:mcda:wolf_pelt>], [<item:mcda:wolf_pelt>, <item:minecraft:air>, <item:mcda:wolf_pelt>]]);

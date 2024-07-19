@@ -1,0 +1,1 @@
+craftingTable.addShaped("soulbow", <item:mcdw:bow_soul_bow> * 1, [[<item:minecraft:iron_nugget>, <item:minecraft:soul_sand>, <item:minecraft:string>], [<item:minecraft:iron_nugget>, <item:stagelight:bow_limbs>, <item:minecraft:string>], [<item:minecraft:iron_nugget>, <item:minecraft:soul_sand>, <item:minecraft:string>]]);

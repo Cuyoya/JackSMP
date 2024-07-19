@@ -1,0 +1,1 @@
+craftingTable.addShaped("handcraftedcouch4", <item:handcrafted:spruce_couch> * 1, [[<tag:items:minecraft:wool>, <tag:items:handcrafted:cushions>, <tag:items:minecraft:wool>], [<item:minecraft:air>, <item:handcrafted:spruce_bench>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

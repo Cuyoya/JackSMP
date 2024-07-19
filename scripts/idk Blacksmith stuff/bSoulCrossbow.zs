@@ -1,0 +1,1 @@
+craftingTable.addShaped("soulcrossbow", <item:mcdw:crossbow_soul_crossbow> * 1, [[<item:bosses_of_mass_destruction:soul_star>, <item:minecraft:soul_sand>, <item:minecraft:air>], [<item:minecraft:soul_sand>, <item:minecraft:crossbow>, <item:mcda:iron_plate>], [<item:minecraft:air>, <item:mcda:iron_plate>, <item:minecraft:string>]]);

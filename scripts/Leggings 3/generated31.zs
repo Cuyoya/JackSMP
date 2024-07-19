@@ -1,0 +1,1 @@
+craftingTable.addShaped("darklegg", <item:mcda:dark_armor_leggings> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>], [<item:minecraft:netherite_scrap>, <item:mcda:fabric_bolt_black>, <item:minecraft:netherite_scrap>], [<item:mcda:fabric_bolt_black>, <item:stagelight:legging_cuisses_and_poleyns>, <item:mcda:fabric_bolt_black>]]);

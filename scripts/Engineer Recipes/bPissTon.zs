@@ -1,0 +1,1 @@
+craftingTable.addShaped("pisstonm", <item:minecraft:piston> * 1, [[<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>], [<tag:items:forge:cobblestone>, <item:minecraft:iron_ingot>, <tag:items:forge:cobblestone>], [<tag:items:forge:cobblestone>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <tag:items:forge:cobblestone>]]);

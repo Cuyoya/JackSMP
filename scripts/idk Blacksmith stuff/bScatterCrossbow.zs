@@ -1,0 +1,1 @@
+craftingTable.addShaped("scattercrossbow", <item:mcdw:crossbow_scatter_crossbow> * 1, [[<item:minecraft:air>, <item:mythicmetals:midas_gold_ingot>, <item:minecraft:string>], [<item:mythicmetals:midas_gold_ingot>, <item:minecraft:crossbow>, <item:mcda:iron_plate>], [<item:minecraft:string>, <item:mcda:iron_plate>, <item:minecraft:air>]]);

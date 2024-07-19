@@ -1,0 +1,1 @@
+craftingTable.remove(<item:simple_quiver:quiver>);

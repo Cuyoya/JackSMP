@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("wolfingboots", MirrorAxis.VERTICAL, <item:mcda:wolf_armor_boots> * 1, [[<item:mcda:wolf_pelt>, <item:stagelight:boot_lasts>, <item:mcda:wolf_pelt>], [<item:mcda:wolf_pelt>, <item:minecraft:air>, <item:mcda:wolf_pelt>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

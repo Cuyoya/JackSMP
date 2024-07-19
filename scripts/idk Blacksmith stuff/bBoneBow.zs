@@ -1,0 +1,1 @@
+craftingTable.addShaped("bonebow", <item:mcdw:bow_bonebow> * 1, [[<item:minecraft:gold_ingot>, <item:minecraft:bone>, <item:minecraft:string>], [<item:minecraft:bone>, <item:stagelight:bow_limbs>, <item:minecraft:string>], [<item:minecraft:gold_ingot>, <item:minecraft:bone>, <item:minecraft:string>]]);

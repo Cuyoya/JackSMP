@@ -1,0 +1,1 @@
+craftingTable.addShaped("starplatinumsword", <item:mythicmetals:star_platinum_sword> * 1, [[<item:mythicmetals:star_platinum>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:mythicmetals:star_platinum>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:blade_hilt>]]);

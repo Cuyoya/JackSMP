@@ -1,0 +1,1 @@
+craftingTable.addShaped("dankboots", <item:mcda:dark_armor_boots> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:iron_ingot>], [<item:minecraft:netherite_scrap>, <item:stagelight:boot_lasts>, <item:minecraft:netherite_scrap>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

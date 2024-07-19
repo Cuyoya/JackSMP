@@ -1,0 +1,1 @@
+craftingTable.addShaped("greenmenace", <item:mcdw:bow_green_menace> * 1, [[<item:minecraft:air>, <item:minecraft:emerald>, <item:minecraft:string>], [<item:minecraft:poisonous_potato>, <item:mcdw:bow_trickbow>, <item:minecraft:string>], [<item:minecraft:air>, <item:minecraft:fermented_spider_eye>, <item:minecraft:string>]]);

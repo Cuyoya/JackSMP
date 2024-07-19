@@ -1,0 +1,1 @@
+craftingTable.addShaped("endcrystal", <item:minecraft:end_crystal> * 1, [[<item:minecraft:glass>, <item:stagelight:sorcery_stone>.anyDamage().transformDamage(), <item:minecraft:glass>], [<item:minecraft:glass>, <item:minecraft:ender_eye>, <item:minecraft:glass>], [<item:minecraft:glass>, <item:minecraft:ghast_tear>, <item:minecraft:glass>]]);

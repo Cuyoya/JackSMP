@@ -1,0 +1,1 @@
+craftingTable.addShaped("starrts", <item:mythicmetals:star_platinum_helmet> * 1, [[<item:mythicmetals:star_platinum>, <item:mythicmetals:star_platinum>, <item:mythicmetals:star_platinum>], [<item:mythicmetals:star_platinum>, <item:stagelight:helmet_inner_cap>, <item:mythicmetals:star_platinum>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

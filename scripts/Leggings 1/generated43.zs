@@ -1,0 +1,1 @@
+craftingTable.addShaped("goldlegg", <item:minecraft:golden_leggings> * 1, [[<item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>], [<item:minecraft:gold_ingot>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:gold_ingot>], [<item:minecraft:gold_ingot>, <item:minecraft:air>, <item:minecraft:gold_ingot>]]);

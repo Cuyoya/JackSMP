@@ -1,0 +1,1 @@
+craftingTable.addShaped("greathammer", <item:mcdw:hammer_great_hammer> * 1, [[<item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>], [<item:minecraft:air>, <item:stagelight:hammer_shaft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:leather>, <item:minecraft:air>]]);

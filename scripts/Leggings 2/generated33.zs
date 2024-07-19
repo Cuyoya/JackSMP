@@ -1,0 +1,1 @@
+craftingTable.addShaped("splunkylegg", <item:mcda:spelunker_armor_leggings> * 1, [[<item:mcda:fabric_bolt_blue>, <item:mcda:fabric_bolt_blue>, <item:mcda:fabric_bolt_blue>], [<item:mcda:fabric_bolt_blue>, <item:stagelight:legging_cuisses_and_poleyns>, <item:mcda:fabric_bolt_blue>], [<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:iron_ingot>]]);

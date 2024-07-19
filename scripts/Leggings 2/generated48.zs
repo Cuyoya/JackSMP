@@ -1,0 +1,1 @@
+craftingTable.addShaped("divineboots", <item:immersive_armors:divine_boots> * 1, [[<item:minecraft:air>, <item:immersive_armors:robe_boots>, <item:minecraft:air>], [<item:minecraft:gold_ingot>, <item:stagelight:boot_lasts>, <item:minecraft:gold_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

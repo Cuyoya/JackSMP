@@ -1,0 +1,1 @@
+craftingTable.addShaped("scaleychestplate", <item:mcda:scale_mail_chestplate> * 1, [[<item:minecraft:air>, <item:mcda:iron_scale>, <item:minecraft:air>], [<item:mcda:iron_scale>, <item:stagelight:chestplate_haubergeon>, <item:mcda:iron_scale>], [<item:minecraft:air>, <item:mcda:iron_scale>, <item:minecraft:air>]]);

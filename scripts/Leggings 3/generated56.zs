@@ -1,0 +1,1 @@
+craftingTable.addShaped("bluemysterylegg", <item:mcda:blue_mystery_armor_leggings> * 1, [[<item:minecraft:iron_block>, <item:mcda:gemstone_blue>, <item:minecraft:iron_block>], [<item:minecraft:iron_ingot>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:iron_ingot>]]);

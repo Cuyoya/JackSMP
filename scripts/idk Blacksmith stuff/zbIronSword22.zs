@@ -1,0 +1,1 @@
+craftingTable.addShaped("ironsword2", <item:minecraft:iron_sword> * 1, [[<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:stagelight:blade_hilt>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("diapants", <item:minecraft:diamond_leggings> * 1, [[<item:minecraft:diamond>, <item:minecraft:diamond>, <item:minecraft:diamond>], [<item:minecraft:diamond>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:diamond>], [<item:minecraft:diamond>, <item:minecraft:air>, <item:minecraft:diamond>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("woodenspikecheval", <item:mcwfences:wooden_cheval_de_frise> * 4, [[<item:minecraft:oak_log>, <item:minecraft:stick>, <item:minecraft:oak_log>], [<item:minecraft:oak_log>, <item:minecraft:air>, <item:minecraft:oak_log>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

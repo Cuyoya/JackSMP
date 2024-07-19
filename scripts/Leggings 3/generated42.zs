@@ -1,0 +1,1 @@
+craftingTable.addShaped("ghostypant", <item:mcda:ghostly_armor_leggings> * 1, [[<item:mcda:fabric_bolt_blue>, <item:mcda:fabric_bolt_blue>, <item:mcda:fabric_bolt_blue>], [<item:mcda:fabric_bolt_black>, <item:stagelight:legging_cuisses_and_poleyns>, <item:mcda:fabric_bolt_black>], [<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:iron_ingot>]]);

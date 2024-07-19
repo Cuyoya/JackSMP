@@ -1,0 +1,1 @@
+craftingTable.addShapeless("hallowedcrown", <item:mythicmetals_decorations:hallowed_crown>.withTag({Enchantments: [{lvl: 2, id: "mcda:heal_allies"}]}) * 1, [<item:mythicmetals:hallowed_helmet>, <item:mythicmetals_decorations:crown_chisel>.anyDamage().transformDamage()]);

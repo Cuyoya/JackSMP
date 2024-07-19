@@ -1,0 +1,1 @@
+craftingTable.addShaped("platelefg", <item:mcda:plate_armor_leggings> * 1, [[<item:mcda:iron_plate>, <item:mcda:iron_plate>, <item:mcda:iron_plate>], [<item:mcda:iron_plate>, <item:stagelight:legging_cuisses_and_poleyns>, <item:mcda:iron_plate>], [<item:mcda:iron_plate>, <item:minecraft:air>, <item:mcda:iron_plate>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("thiefvest", <item:mcda:thief_armor_chestplate> * 1, [[<item:mcda:fabric_bolt_black>, <item:stagelight:chestplate_haubergeon>, <item:mcda:fabric_bolt_black>], [<item:mcda:fabric_bolt_black>, <item:minecraft:iron_ingot>, <item:mcda:fabric_bolt_black>], [<item:mcda:fabric_bolt_black>, <item:minecraft:iron_ingot>, <item:mcda:fabric_bolt_black>]]);

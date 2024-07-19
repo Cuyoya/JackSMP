@@ -1,0 +1,1 @@
+craftingTable.addShaped("entertainershat", <item:mcda:entertainer_garb_helmet> * 1, [[<item:minecraft:air>, <item:mcda:fabric_bolt_purple>, <item:minecraft:air>], [<item:mcda:fabric_bolt_cyan>, <item:minecraft:golden_helmet>, <item:mcda:fabric_bolt_cyan>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

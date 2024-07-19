@@ -1,0 +1,1 @@
+craftingTable.addShaped("ironaxeone", <item:minecraft:iron_axe> * 1, [[<item:mcda:iron_plate>, <item:mcda:iron_plate>, <item:mcda:iron_plate>], [<item:mcda:iron_plate>, <item:minecraft:stick>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);

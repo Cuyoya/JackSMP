@@ -1,0 +1,1 @@
+craftingTable.addShaped("slimehelm", <item:immersive_armors:slime_helmet> * 1, [[<item:minecraft:slime_ball>, <item:minecraft:slime_ball>, <item:minecraft:slime_ball>], [<item:minecraft:slime_ball>, <item:stagelight:helmet_inner_cap>, <item:minecraft:slime_ball>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

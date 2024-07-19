@@ -1,0 +1,1 @@
+craftingTable.addShaped("claymore", <item:mcdw:sword_claymore> * 1, [[<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>], [<item:mythicmetals:steel_ingot>, <item:minecraft:iron_block>, <item:minecraft:iron_ingot>], [<item:mcdw:sword_broadsword>, <item:mythicmetals:steel_ingot>, <item:minecraft:air>]]);

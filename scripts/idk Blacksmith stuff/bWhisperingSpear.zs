@@ -1,0 +1,1 @@
+craftingTable.addShaped("whisperingspear", <item:mcdw:spear_whispering_spear> * 1, [[<item:minecraft:air>, <item:mythicmetals:runite_ingot>, <item:minecraft:iron_ingot>], [<item:minecraft:echo_shard>, <item:mcdw:spear_spear>, <item:mythicmetals:runite_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:echo_shard>, <item:minecraft:air>]]);

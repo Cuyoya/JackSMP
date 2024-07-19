@@ -1,0 +1,2 @@
+<tag:items:forge:ironplating>.add(<item:quark:iron_plate>, <item:blockus:iron_plating>);
+<tag:items:forge:furnace>.add(<item:quark:blackstone_furnace>, <item:quark:deepslate_furnace>, <item:minecraft:furnace>, <item:pridefurnaces:lesbian_furnace>, <item:pridefurnaces:nonbinary_furnace>, <item:pridefurnaces:genderqueer_furnace>, <item:pridefurnaces:bi_furnace>, <item:pridefurnaces:gay_furnace>, <item:pridefurnaces:aro_furnace>, <item:pridefurnaces:agender_furnace>, <item:pridefurnaces:ace_furnace>, <item:pridefurnaces:pan_furnace>, <item:pridefurnaces:trans_furnace>);

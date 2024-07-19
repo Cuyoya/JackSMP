@@ -1,0 +1,1 @@
+craftingTable.remove(<item:mythicmetals_decorations:midas_gold_chest>);

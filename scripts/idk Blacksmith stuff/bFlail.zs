@@ -1,0 +1,1 @@
+craftingTable.addShaped("flail", <item:mcdw:hammer_flail> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:mcdw:hammer_mace>], [<item:minecraft:air>, <item:minecraft:chain>, <item:minecraft:air>], [<item:mythicmetals:durasteel_ingot>, <item:minecraft:air>, <item:minecraft:air>]]);

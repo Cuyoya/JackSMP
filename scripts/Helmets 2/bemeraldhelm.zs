@@ -1,0 +1,1 @@
+craftingTable.addShaped("emeraldhelm", <item:mcda:emerald_gear_helmet> * 1, [[<item:minecraft:emerald>, <item:minecraft:emerald>, <item:minecraft:emerald>], [<item:minecraft:emerald>, <item:stagelight:helmet_inner_cap>, <item:minecraft:emerald>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

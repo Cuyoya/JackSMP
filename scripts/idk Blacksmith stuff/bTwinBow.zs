@@ -1,0 +1,1 @@
+craftingTable.addShaped("twinbow", <item:mcdw:bow_twin_bow> * 1, [[<item:minecraft:air>, <item:mythicmetals:runite_ingot>, <item:minecraft:string>], [<item:mythicmetals:runite_ingot>, <item:stagelight:bow_limbs>, <item:minecraft:string>], [<item:minecraft:air>, <item:mythicmetals:runite_ingot>, <item:minecraft:string>]]);

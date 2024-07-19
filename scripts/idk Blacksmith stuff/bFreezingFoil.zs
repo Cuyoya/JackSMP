@@ -1,0 +1,1 @@
+craftingTable.addShaped("freezingfoil", <item:mcdw:sword_freezing_foil> * 1, [[<item:minecraft:air>, <item:mythicmetals:runite_nugget>, <item:regions_unexplored:icicle>], [<item:chipped:prismal_blue_ice_remnants>, <item:mcdw:sword_rapier>, <item:mythicmetals:runite_nugget>], [<item:mythicmetals:aquarium_ingot>, <item:chipped:prismal_blue_ice_remnants>, <item:minecraft:air>]]);

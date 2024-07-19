@@ -1,0 +1,1 @@
+craftingTable.addShaped("ironhelm", <item:minecraft:iron_helmet> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:stagelight:helmet_inner_cap>, <item:minecraft:iron_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

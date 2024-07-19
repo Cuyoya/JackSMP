@@ -1,0 +1,1 @@
+craftingTable.addShaped("carpentertable", <item:chipped:carpenters_table> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:stagelight:carpenters_tools>.anyDamage().transformDamage()], [<tag:items:minecraft:logs>, <tag:items:minecraft:planks>, <tag:items:minecraft:logs>], [<tag:items:minecraft:logs>, <item:minecraft:stone_axe>, <tag:items:minecraft:logs>]]);

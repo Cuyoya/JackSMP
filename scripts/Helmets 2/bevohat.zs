@@ -1,0 +1,1 @@
+craftingTable.addShaped("evohat", <item:mcda:evocation_robe_helmet> * 1, [[<item:mcda:fabric_bolt_blue>, <item:mcda:fabric_bolt_blue>, <item:mcda:fabric_bolt_blue>], [<item:mcda:fabric_bolt_blue>, <item:minecraft:gold_ingot>, <item:mcda:fabric_bolt_blue>], [<item:minecraft:leather>, <item:stagelight:helmet_inner_cap>, <item:minecraft:leather>]]);

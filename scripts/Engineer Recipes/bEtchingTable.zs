@@ -1,0 +1,1 @@
+craftingTable.addShaped("etchingtable", <item:etched:etching_table> * 1, [[<item:minecraft:air>, <item:minecraft:diamond>, <item:minecraft:iron_ingot>], [<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>], [<item:minecraft:air>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <item:minecraft:air>]]);

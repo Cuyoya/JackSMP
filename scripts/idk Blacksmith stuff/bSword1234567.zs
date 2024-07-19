@@ -1,0 +1,1 @@
+craftingTable.addShaped("palsword", <item:mythicmetals:palladium_sword> * 1, [[<item:mythicmetals:palladium_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:mythicmetals:palladium_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:blade_hilt>]]);

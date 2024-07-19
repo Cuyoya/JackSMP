@@ -1,0 +1,1 @@
+craftingTable.addShaped("voidbow", <item:mcdw:bow_void_bow> * 1, [[<item:minecraft:air>, <item:minecraft:amethyst_shard>, <item:minecraft:string>], [<item:mythicmetals:kyber_ingot>, <item:stagelight:bow_limbs>, <item:minecraft:string>], [<item:minecraft:air>, <item:minecraft:amethyst_shard>, <item:minecraft:string>]]);

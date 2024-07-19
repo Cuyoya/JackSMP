@@ -1,0 +1,1 @@
+craftingTable.addShaped("climingleggings", <item:mcda:climbing_gear_leggings> * 1, [[<item:mcda:fabric_bolt_blue>, <item:mcda:fabric_bolt_gray>, <item:mcda:fabric_bolt_blue>], [<item:mcda:fabric_bolt_gray>, <item:stagelight:legging_cuisses_and_poleyns>, <item:mcda:fabric_bolt_gray>], [<item:mcda:fabric_bolt_blue>, <item:minecraft:air>, <item:mcda:fabric_bolt_blue>]]);

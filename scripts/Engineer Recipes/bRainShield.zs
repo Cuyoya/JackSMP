@@ -1,0 +1,1 @@
+craftingTable.addShaped("rainshield", <item:rainshield:rain_shield> * 1, [[<item:minecraft:air>, <item:minecraft:flint>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:blaze_rod>, <item:minecraft:air>], [<item:minecraft:netherrack>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <item:minecraft:netherrack>]]);

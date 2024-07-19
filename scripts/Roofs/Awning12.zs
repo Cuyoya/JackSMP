@@ -1,0 +1,1 @@
+craftingTable.addShaped("limeawning", <item:mcwroofs:lime_striped_awning> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:lime_carpet>, <item:minecraft:white_carpet>, <item:minecraft:lime_carpet>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

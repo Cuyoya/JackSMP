@@ -1,0 +1,1 @@
+craftingTable.addShaped("aquasword", <item:mythicmetals:aquarium_sword> * 1, [[<item:mythicmetals:aquarium_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:mythicmetals:aquarium_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:blade_hilt>]]);

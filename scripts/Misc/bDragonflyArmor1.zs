@@ -1,0 +1,1 @@
+craftingTable.addShaped("dragonflyarmors", <item:crittersandcompanions:diamond_dragonfly_armor> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:diamond>], [<item:minecraft:air>, <item:minecraft:diamond>, <item:minecraft:air>], [<item:minecraft:diamond>, <item:minecraft:air>, <item:stagelight:horse_armor_padding>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("dancerssword", <item:mcdw:sword_dancers_sword> * 1, [[<item:minecraft:string>, <item:minecraft:air>, <item:mcdw:sword_cutlass>], [<item:minecraft:air>, <item:minecraft:rabbit_hide>, <item:minecraft:air>], [<item:mcdw:sword_cutlass>, <item:minecraft:air>, <item:minecraft:slime_ball>]]);

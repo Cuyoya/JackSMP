@@ -1,0 +1,1 @@
+craftingTable.addShaped("bridgetorch", <item:mcwbridges:bridge_torch> * 2, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:torch>, <item:minecraft:torch>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

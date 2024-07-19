@@ -1,0 +1,1 @@
+craftingTable.addShaped("jukebox", <item:minecraft:jukebox> * 1, [[<tag:items:minecraft:planks>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <tag:items:minecraft:planks>], [<tag:items:minecraft:planks>, <item:minecraft:diamond>, <tag:items:minecraft:planks>], [<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>]]);

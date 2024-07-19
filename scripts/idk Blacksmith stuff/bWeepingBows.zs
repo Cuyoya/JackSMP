@@ -1,0 +1,1 @@
+craftingTable.addShaped("weepingvinebow", <item:mcdw:bow_weeping_vine_bow> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:weeping_vines>], [<item:minecraft:crimson_fungus>, <item:stagelight:bow_limbs>, <item:minecraft:weeping_vines>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:weeping_vines>]]);

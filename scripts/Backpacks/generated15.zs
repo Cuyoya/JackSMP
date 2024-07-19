@@ -1,0 +1,1 @@
+craftingTable.addShaped("lasts", <item:stagelight:boot_lasts> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:leather>, <item:stagelight:leather_fittings>.anyDamage().transformDamage(), <item:minecraft:leather>], [<tag:items:minecraft:wool_carpets>, <item:minecraft:air>, <tag:items:minecraft:wool_carpets>]]);

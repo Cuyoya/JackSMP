@@ -1,0 +1,1 @@
+craftingTable.addShaped("guardlegg", <item:mcda:guards_armor_leggings> * 1, [[<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:iron_ingot>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:iron_ingot>], [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>]]);

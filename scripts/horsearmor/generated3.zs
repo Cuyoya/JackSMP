@@ -1,0 +1,1 @@
+craftingTable.addShaped("goldhorse", <item:minecraft:golden_horse_armor> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:gold_ingot>], [<item:minecraft:gold_ingot>, <item:stagelight:horse_armor_padding>, <item:minecraft:gold_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

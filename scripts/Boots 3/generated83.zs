@@ -1,0 +1,1 @@
+craftingTable.addShaped("teleportationzoowapbootss", <item:mcda:teleportation_robe_boots> * 1, [[<item:mcda:fabric_bolt_yellow>, <item:stagelight:boot_lasts>, <item:mcda:fabric_bolt_yellow>], [<item:mcda:fabric_bolt_purple>, <item:minecraft:air>, <item:mcda:fabric_bolt_purple>], [<item:minecraft:ender_eye>, <item:minecraft:air>, <item:minecraft:ender_eye>]]);

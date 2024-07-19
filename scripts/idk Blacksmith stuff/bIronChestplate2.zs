@@ -1,0 +1,1 @@
+craftingTable.addShaped("ironchestplate1", <item:minecraft:iron_chestplate> * 1, [[<item:minecraft:heavy_weighted_pressure_plate>, <item:minecraft:air>, <item:minecraft:heavy_weighted_pressure_plate>], [<item:mcda:iron_plate>, <item:mcda:iron_plate>, <item:mcda:iron_plate>], [<item:mcda:iron_plate>, <item:mcda:iron_plate>, <item:mcda:iron_plate>]]);

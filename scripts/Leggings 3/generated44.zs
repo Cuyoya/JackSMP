@@ -1,0 +1,1 @@
+craftingTable.addShaped("yummypant", <item:mcda:sweet_tooth_leggings> * 1, [[<item:minecraft:diamond>, <item:minecraft:cake>, <item:minecraft:diamond>], [<item:minecraft:cake>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:cake>], [<item:minecraft:cake>, <item:minecraft:air>, <item:minecraft:cake>]]);

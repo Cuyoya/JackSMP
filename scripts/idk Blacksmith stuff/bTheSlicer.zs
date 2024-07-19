@@ -1,0 +1,1 @@
+craftingTable.addShaped("theslicer", <item:mcdw:crossbow_the_slicer> * 1, [[<item:minecraft:air>, <item:mcda:iron_plate>, <item:minecraft:air>], [<item:mcda:iron_plate>, <item:minecraft:crossbow>, <item:minecraft:green_dye>], [<item:minecraft:air>, <item:minecraft:green_dye>, <item:minecraft:string>]]);

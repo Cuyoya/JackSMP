@@ -1,0 +1,1 @@
+craftingTable.addShaped("goatlegg", <item:mcda:goat_gear_leggings> * 1, [[<item:mcda:goat_pelt>, <item:mcda:goat_pelt>, <item:mcda:goat_pelt>], [<item:mcda:goat_pelt>, <item:stagelight:legging_cuisses_and_poleyns>, <item:mcda:goat_pelt>], [<item:mcda:goat_pelt>, <item:minecraft:air>, <item:mcda:goat_pelt>]]);

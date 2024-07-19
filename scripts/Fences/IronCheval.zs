@@ -1,0 +1,1 @@
+craftingTable.addShaped("ironcheval", <item:mcwfences:iron_cheval_de_frise> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:iron_nugget>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:iron_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

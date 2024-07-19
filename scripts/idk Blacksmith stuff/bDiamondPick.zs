@@ -1,0 +1,1 @@
+craftingTable.addShaped("diamondpick", <item:minecraft:diamond_pickaxe> * 1, [[<item:minecraft:diamond>, <item:minecraft:diamond>, <item:minecraft:air>], [<item:minecraft:diamond>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

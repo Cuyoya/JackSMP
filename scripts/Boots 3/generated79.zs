@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("tortleboots", MirrorAxis.VERTICAL, <item:mcda:turtle_armor_boots> * 1, [[<item:minecraft:scute>, <item:stagelight:boot_lasts>, <item:minecraft:scute>], [<item:minecraft:scute>, <item:minecraft:air>, <item:minecraft:scute>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

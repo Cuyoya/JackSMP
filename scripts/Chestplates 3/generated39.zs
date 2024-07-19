@@ -1,0 +1,1 @@
+craftingTable.addShaped("soulrobes", <item:mcda:soul_robe_chestplate> * 1, [[<item:mcda:fabric_bolt_gray>, <item:stagelight:chestplate_haubergeon>, <item:mcda:fabric_bolt_gray>], [<item:mcda:fabric_bolt_gray>, <item:mcda:fabric_bolt_black>, <item:mcda:fabric_bolt_gray>], [<item:minecraft:soul_sand>, <item:mcda:fabric_bolt_black>, <item:minecraft:soul_sand>]]);

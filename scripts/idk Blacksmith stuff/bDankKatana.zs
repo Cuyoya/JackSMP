@@ -1,0 +1,1 @@
+craftingTable.addShaped("darkkatana", <item:mcdw:sword_dark_katana> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:mythicmetals:durasteel_ingot>], [<item:mythicmetals:star_platinum>, <item:minecraft:netherite_ingot>, <item:minecraft:air>], [<item:mcdw:sword_masters_katana>, <item:mythicmetals:star_platinum>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.remove(<item:alexsmobs:shield_of_the_deep>);

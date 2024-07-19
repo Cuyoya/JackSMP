@@ -1,0 +1,1 @@
+craftingTable.addShaped("warriorhelm", <item:immersive_armors:warrior_helmet> * 1, [[<item:minecraft:bone>, <item:minecraft:iron_ingot>, <item:minecraft:bone>], [<item:minecraft:iron_ingot>, <item:stagelight:helmet_inner_cap>, <item:minecraft:iron_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

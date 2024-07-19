@@ -1,0 +1,1 @@
+craftingTable.addShaped("piglinhelm", <item:mcda:piglin_armor_helmet> * 1, [[<item:mcda:fabric_bolt_brown>, <item:mcda:fabric_bolt_gray>, <item:mcda:fabric_bolt_brown>], [<item:minecraft:bone>, <item:mcda:fabric_bolt_brown>, <item:minecraft:bone>], [<item:mcda:fabric_bolt_brown>, <item:stagelight:helmet_inner_cap>, <item:mcda:fabric_bolt_brown>]]);

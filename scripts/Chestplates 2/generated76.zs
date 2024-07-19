@@ -1,0 +1,1 @@
+craftingTable.addShaped("goatchestplate", <item:mcda:goat_gear_chestplate> * 1, [[<item:mcda:goat_pelt>, <item:mcda:goat_pelt>, <item:mcda:goat_pelt>], [<item:mcda:fabric_bolt_blue>, <item:stagelight:chestplate_haubergeon>, <item:mcda:fabric_bolt_blue>], [<item:mcda:goat_pelt>, <item:mcda:fabric_bolt_red>, <item:mcda:goat_pelt>]]);

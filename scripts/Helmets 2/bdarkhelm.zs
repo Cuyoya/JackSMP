@@ -1,0 +1,1 @@
+craftingTable.addShaped("darkhelm", <item:mcda:dark_armor_helmet> * 1, [[<item:minecraft:netherite_scrap>, <item:minecraft:redstone_block>, <item:minecraft:netherite_scrap>], [<item:minecraft:iron_ingot>, <item:mcda:fabric_bolt_black>, <item:minecraft:iron_ingot>], [<item:mcda:fabric_bolt_black>, <item:stagelight:helmet_inner_cap>, <item:mcda:fabric_bolt_black>]]);

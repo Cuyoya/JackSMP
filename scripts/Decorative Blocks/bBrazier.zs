@@ -1,0 +1,1 @@
+craftingTable.addShaped("brazier", <item:decorative_blocks:brazier> * 1, [[<item:minecraft:iron_bars>, <tag:items:minecraft:coals>, <item:minecraft:iron_bars>], [<item:minecraft:air>, <item:minecraft:iron_bars>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

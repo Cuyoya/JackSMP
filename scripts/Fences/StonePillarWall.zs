@@ -1,0 +1,1 @@
+craftingTable.addShaped("stronepillerwalls", <item:mcwfences:stone_pillar_wall> * 5, [[<item:minecraft:stone_bricks>, <item:minecraft:stone_bricks>, <item:minecraft:stone_bricks>], [<item:minecraft:cobblestone>, <item:minecraft:air>, <item:minecraft:cobblestone>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

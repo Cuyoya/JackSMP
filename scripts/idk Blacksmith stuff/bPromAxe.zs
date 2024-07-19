@@ -1,0 +1,1 @@
+craftingTable.addShaped("prometheumaxe", <item:mythicmetals:prometheum_axe> * 1, [[<item:minecraft:air>, <item:mythicmetals:prometheum_ingot>, <item:mythicmetals:prometheum_ingot>], [<item:minecraft:air>, <item:stagelight:axe_haft>, <item:mythicmetals:prometheum_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

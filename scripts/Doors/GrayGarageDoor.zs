@@ -1,0 +1,1 @@
+craftingTable.addShaped("greygaragedoor", <item:mcwdoors:garage_gray_door> * 6, [[<item:mythicmetals:osmium_ingot>, <item:minecraft:glass>, <item:mythicmetals:osmium_ingot>], [<item:mythicmetals:osmium_ingot>, <item:mythicmetals:osmium_ingot>, <item:mythicmetals:osmium_ingot>], [<item:minecraft:air>, <item:stagelight:carpenters_tools>, <item:minecraft:air>]]);

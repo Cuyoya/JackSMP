@@ -1,0 +1,1 @@
+craftingTable.addShaped("diamondstaffofbuild", <item:staffofbuilding:diamond_builder_staff> * 1, [[<item:minecraft:air>, <item:minecraft:diamond>, <item:minecraft:air>], [<item:minecraft:diamond>, <item:staffofbuilding:golden_builder_staff>.anyDamage(), <item:minecraft:diamond>], [<item:minecraft:air>, <item:minecraft:diamond>, <item:minecraft:air>]]);

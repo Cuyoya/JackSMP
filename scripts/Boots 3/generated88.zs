@@ -1,0 +1,1 @@
+craftingTable.addShaped("scalemailtassetweirdchamp", <item:mcda:scale_mail_boots> * 1, [[<item:minecraft:air>, <item:mcda:iron_scale>, <item:minecraft:air>], [<item:mcda:iron_scale>, <item:stagelight:boot_lasts>, <item:mcda:iron_scale>], [<item:minecraft:air>, <item:mcda:iron_scale>, <item:minecraft:air>]]);

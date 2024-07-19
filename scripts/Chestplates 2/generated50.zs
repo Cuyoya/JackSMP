@@ -1,0 +1,1 @@
+craftingTable.remove(<item:immersive_armors:heavy_chestplate>);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("adamanpick", <item:mythicmetals:adamantite_pickaxe> * 1, [[<item:mythicmetals:adamantite_ingot>, <item:mythicmetals:adamantite_ingot>, <item:minecraft:air>], [<item:mythicmetals:adamantite_ingot>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

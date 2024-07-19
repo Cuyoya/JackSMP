@@ -1,0 +1,1 @@
+craftingTable.addShaped("moondagger", <item:mcdw:dagger_moon> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:leather>], [<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:stagelight:blade_hilt>]]);

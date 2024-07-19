@@ -1,0 +1,1 @@
+craftingTable.addShaped("dualcrossbow", <item:mcdw:crossbow_dual_crossbow> * 1, [[<item:minecraft:air>, <item:stagelight:bow_limbs>, <item:minecraft:air>], [<item:minecraft:string>, <item:minecraft:tripwire_hook>, <item:minecraft:string>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

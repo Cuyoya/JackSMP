@@ -1,0 +1,1 @@
+craftingTable.remove(<item:alloy_forgery:prismarine_bricks_forge_controller>);

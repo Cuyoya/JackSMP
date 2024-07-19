@@ -1,0 +1,1 @@
+craftingTable.addShaped("runitepick", <item:mythicmetals:runite_pickaxe> * 1, [[<item:mythicmetals:runite_ingot>, <item:mythicmetals:runite_ingot>, <item:minecraft:air>], [<item:mythicmetals:runite_ingot>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

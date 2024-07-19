@@ -1,0 +1,1 @@
+craftingTable.addShaped("guardchest", <item:mcda:guards_armor_chestplate> * 1, [[<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:iron_ingot>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:iron_ingot>], [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>]]);

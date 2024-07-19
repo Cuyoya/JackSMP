@@ -1,0 +1,1 @@
+craftingTable.addShaped("whirlwind", <item:mcdw:double_axe_whirlwind> * 1, [[<item:minecraft:feather>, <item:mcdw:double_axe_double>, <item:minecraft:feather>], [<item:minecraft:air>, <item:mythicmetals:quadrillum_ingot>, <item:minecraft:phantom_membrane>], [<item:minecraft:phantom_membrane>, <item:mythicmetals:quadrillum_ingot>, <item:minecraft:air>]]);

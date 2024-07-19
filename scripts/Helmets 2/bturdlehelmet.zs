@@ -1,0 +1,1 @@
+craftingTable.addShaped("turdlehelmet", <item:mcda:turtle_armor_helmet> * 1, [[<item:minecraft:scute>, <item:minecraft:scute>, <item:minecraft:scute>], [<item:minecraft:scute>, <item:stagelight:helmet_inner_cap>, <item:minecraft:scute>], [<item:minecraft:leather>, <item:minecraft:air>, <item:minecraft:leather>]]);

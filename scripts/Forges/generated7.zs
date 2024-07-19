@@ -1,0 +1,1 @@
+craftingTable.remove(<item:alloy_forgery:end_stone_bricks_forge_controller>);

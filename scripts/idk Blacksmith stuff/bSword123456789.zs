@@ -1,0 +1,1 @@
+craftingTable.addShaped("stormyxswrod", <item:mythicmetals:stormyx_sword> * 1, [[<item:mythicmetals:stormyx_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:mythicmetals:stormyx_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:blade_hilt>]]);

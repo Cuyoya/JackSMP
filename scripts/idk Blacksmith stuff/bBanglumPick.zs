@@ -1,0 +1,1 @@
+craftingTable.addShaped("bangpick", <item:mythicmetals:banglum_pickaxe> * 1, [[<item:mythicmetals:banglum_ingot>, <item:mythicmetals:banglum_ingot>, <item:minecraft:air>], [<item:mythicmetals:banglum_ingot>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

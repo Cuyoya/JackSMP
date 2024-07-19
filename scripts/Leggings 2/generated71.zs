@@ -1,0 +1,1 @@
+craftingTable.addShaped("grimlegg", <item:mcda:grim_armor_leggings> * 1, [[<item:minecraft:bone>, <item:mcda:bone_rib_cage>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:minecraft:air>, <item:minecraft:bone>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("baseraingutter", <item:mcwroofs:rain_gutter> * 1, [[<item:minecraft:iron_nugget>, <item:minecraft:air>, <item:minecraft:iron_nugget>], [<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

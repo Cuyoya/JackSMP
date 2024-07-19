@@ -1,0 +1,1 @@
+craftingTable.addShaped("adamanhelm", <item:mythicmetals:adamantite_helmet> * 1, [[<item:mythicmetals:adamantite_ingot>, <item:mythicmetals:adamantite_ingot>, <item:mythicmetals:adamantite_ingot>], [<item:mythicmetals:adamantite_ingot>, <item:stagelight:helmet_inner_cap>, <item:mythicmetals:adamantite_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

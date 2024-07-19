@@ -1,0 +1,1 @@
+craftingTable.addShaped("token3", <item:stagelight:leather_fittings> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:stagelight:yiay_token>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

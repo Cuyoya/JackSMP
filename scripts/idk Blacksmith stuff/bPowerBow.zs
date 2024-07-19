@@ -1,0 +1,1 @@
+craftingTable.addShaped("powerbow", <item:mcdw:bow_power_bow> * 1, [[<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:string>], [<item:minecraft:redstone_block>, <item:stagelight:bow_limbs>, <item:minecraft:string>], [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:string>]]);

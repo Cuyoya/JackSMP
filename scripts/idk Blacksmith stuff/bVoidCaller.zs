@@ -1,0 +1,1 @@
+craftingTable.addShaped("voidcaller", <item:mcdw:crossbow_voidcaller_crossbow> * 1, [[<item:mythicmetals:quadrillum_ingot>, <item:minecraft:ender_eye>, <item:minecraft:air>], [<item:minecraft:ender_eye>, <item:minecraft:crossbow>, <item:minecraft:string>], [<item:minecraft:air>, <item:minecraft:string>, <item:minecraft:air>]]);

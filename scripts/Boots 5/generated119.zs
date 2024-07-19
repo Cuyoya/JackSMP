@@ -1,0 +1,1 @@
+craftingTable.addShaped("soulbelt", <item:mcda:soul_robe_boots> * 1, [[<item:mcda:fabric_bolt_gray>, <item:stagelight:leather_fittings>.anyDamage().transformDamage(), <item:mcda:fabric_bolt_gray>], [<item:minecraft:soul_sand>, <item:minecraft:air>, <item:minecraft:soul_sand>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

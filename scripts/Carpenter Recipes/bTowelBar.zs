@@ -1,0 +1,1 @@
+craftingTable.addShaped("towelbar", <item:furnitureexpanded:towel_bar> * 1, [[<tag:items:forge:ironplating>, <item:minecraft:stick>, <tag:items:forge:ironplating>], [<tag:items:minecraft:wool>, <tag:items:minecraft:wool>, <tag:items:minecraft:wool>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

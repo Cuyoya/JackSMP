@@ -1,0 +1,1 @@
+craftingTable.addShaped("babycrossbow", <item:mcdw:crossbow_baby_crossbow> * 1, [[<item:minecraft:air>, <item:mythicmetals:stormyx_ingot>, <item:minecraft:air>], [<item:mythicmetals:stormyx_ingot>, <item:mcdw:crossbow_dual_crossbow>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:amethyst_cluster>]]);

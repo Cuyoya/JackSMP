@@ -1,0 +1,1 @@
+craftingTable.addShaped("burstcrossbow", <item:mcdw:crossbow_burst_crossbow> * 1, [[<item:minecraft:dark_oak_planks>, <item:minecraft:iron_ingot>, <item:minecraft:dark_oak_planks>], [<item:minecraft:iron_ingot>, <item:minecraft:crossbow>, <item:minecraft:string>], [<item:minecraft:dark_oak_planks>, <item:minecraft:string>, <item:minecraft:iron_ingot>]]);

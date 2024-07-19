@@ -1,0 +1,1 @@
+craftingTable.addShaped("squibhelm", <item:mcda:squid_armor_helmet> * 1, [[<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>], [<item:minecraft:leather>, <item:minecraft:ink_sac>, <item:minecraft:leather>], [<item:minecraft:ink_sac>, <item:stagelight:helmet_inner_cap>, <item:minecraft:ink_sac>]]);

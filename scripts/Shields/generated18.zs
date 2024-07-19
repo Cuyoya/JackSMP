@@ -1,0 +1,1 @@
+craftingTable.addShaped("shield3", <item:mcdw:shield_tower_guard> * 1, [[<item:minecraft:gold_ingot>, <item:minecraft:copper_ingot>, <item:minecraft:gold_ingot>], [<item:minecraft:gold_ingot>, <item:stagelight:shield_strap>, <item:minecraft:gold_ingot>], [<item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>]]);

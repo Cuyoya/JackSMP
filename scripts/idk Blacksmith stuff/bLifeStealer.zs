@@ -1,0 +1,1 @@
+craftingTable.addShaped("lifestealers", <item:dungeonnowloading:life_stealer> * 1, [[<item:dungeonnowloading:soul_silk>, <item:dungeonnowloading:spawner_blade>, <item:dungeonnowloading:spawner_blade>], [<item:dungeonnowloading:spawner_blade>, <item:stagelight:long_shaft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

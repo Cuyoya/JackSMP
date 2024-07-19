@@ -1,0 +1,1 @@
+craftingTable.addShaped("heartstealer", <item:mcdw:sword_heartstealer> * 1, [[<item:minecraft:air>, <item:minecraft:diamond>, <item:mythicmetals:adamantite_ingot>], [<item:regions_unexplored:pointed_redstone>, <item:mcdw:sword_claymore>, <item:minecraft:diamond>], [<item:mythicmetals:durasteel_ingot>, <item:regions_unexplored:pointed_redstone>, <item:minecraft:air>]]);

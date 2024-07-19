@@ -1,0 +1,1 @@
+craftingTable.addShaped("venomglavie", <item:mcdw:glaive_venom_glaive> * 1, [[<item:minecraft:air>, <item:minecraft:poisonous_potato>, <item:mythicmetals:orichalcum_ingot>], [<item:minecraft:air>, <item:mcdw:glaive_glaive>, <item:minecraft:poisonous_potato>], [<item:minecraft:spider_eye>, <item:minecraft:air>, <item:minecraft:air>]]);

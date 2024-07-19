@@ -1,0 +1,1 @@
+craftingTable.addShaped("corruptedcrossbow", <item:mcdw:crossbow_corrupted_crossbow> * 1, [[<item:minecraft:nether_star>, <item:mythicmetals:stormyx_ingot>, <item:minecraft:nether_brick>], [<item:mythicmetals:stormyx_ingot>, <item:mcdw:crossbow_burst_crossbow>, <item:minecraft:string>], [<item:minecraft:nether_brick>, <item:minecraft:string>, <item:minecraft:air>]]);

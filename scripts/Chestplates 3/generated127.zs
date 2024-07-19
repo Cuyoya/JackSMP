@@ -1,0 +1,1 @@
+craftingTable.addShaped("purlvnchestsss", <item:mcda:purple_mystery_armor_chestplate> * 1, [[<item:minecraft:iron_block>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:iron_block>], [<item:minecraft:iron_ingot>, <item:mcda:gemstone_purple>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>]]);

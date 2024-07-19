@@ -1,0 +1,1 @@
+craftingTable.addShaped("oakwiredfence", <item:mcwfences:oak_wired_fence> * 3, [[<item:minecraft:stick>, <item:minecraft:iron_bars>, <item:minecraft:stick>], [<item:minecraft:stick>, <item:minecraft:oak_log>, <item:minecraft:stick>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

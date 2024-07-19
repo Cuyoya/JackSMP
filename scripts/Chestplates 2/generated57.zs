@@ -1,0 +1,1 @@
+craftingTable.addShaped("rockychest", <item:alexsmobs:rocky_chestplate> * 1, [[<item:alexsmobs:rocky_shell>, <item:stagelight:chestplate_haubergeon>, <item:alexsmobs:rocky_shell>], [<item:alexsmobs:rocky_shell>, <item:alexsmobs:rocky_shell>, <item:alexsmobs:rocky_shell>], [<item:alexsmobs:rocky_shell>, <item:alexsmobs:rocky_shell>, <item:alexsmobs:rocky_shell>]]);

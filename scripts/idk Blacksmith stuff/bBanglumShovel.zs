@@ -1,0 +1,1 @@
+craftingTable.addShaped("bangshovel", <item:mythicmetals:banglum_shovel> * 1, [[<item:mythicmetals:banglum_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:stagelight:shovel_shaft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

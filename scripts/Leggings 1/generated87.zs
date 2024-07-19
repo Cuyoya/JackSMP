@@ -1,0 +1,1 @@
+craftingTable.addShaped("slimeylegg", <item:immersive_armors:slime_leggings> * 1, [[<item:minecraft:slime_ball>, <item:minecraft:slime_ball>, <item:minecraft:slime_ball>], [<item:minecraft:slime_ball>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:slime_ball>], [<item:minecraft:slime_ball>, <item:minecraft:air>, <item:minecraft:slime_ball>]]);

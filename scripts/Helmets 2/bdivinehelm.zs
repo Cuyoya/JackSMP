@@ -1,0 +1,1 @@
+craftingTable.addShaped("divinehelm", <item:immersive_armors:divine_helmet> * 1, [[<item:minecraft:gold_ingot>, <item:minecraft:emerald>, <item:minecraft:gold_ingot>], [<item:minecraft:gold_ingot>, <item:stagelight:helmet_inner_cap>, <item:minecraft:gold_ingot>], [<item:minecraft:air>, <item:immersive_armors:robe_helmet>, <item:minecraft:air>]]);

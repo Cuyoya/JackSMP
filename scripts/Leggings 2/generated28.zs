@@ -1,0 +1,1 @@
+craftingTable.addShaped("squidlegg", <item:mcda:squid_armor_leggings> * 1, [[<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>], [<item:minecraft:leather>, <item:minecraft:ink_sac>, <item:minecraft:leather>], [<item:minecraft:leather>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:leather>]]);

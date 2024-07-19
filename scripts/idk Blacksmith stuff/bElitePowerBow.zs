@@ -1,0 +1,1 @@
+craftingTable.addShaped("elitepowerbow", <item:mcdw:bow_elite_power_bow> * 1, [[<item:minecraft:air>, <item:mythicmetals:bronze_ingot>, <item:minecraft:string>], [<item:mythicmetals:bronze_ingot>, <item:mcdw:bow_power_bow>, <item:minecraft:string>], [<item:minecraft:air>, <item:mythicmetals:bronze_ingot>, <item:minecraft:string>]]);

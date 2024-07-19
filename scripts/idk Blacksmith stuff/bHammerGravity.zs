@@ -1,0 +1,1 @@
+craftingTable.addShaped("hammergrivity", <item:mcdw:hammer_gravity> * 1, [[<item:minecraft:purpur_block>, <item:minecraft:ender_eye>, <item:minecraft:purpur_block>], [<item:minecraft:anvil>, <item:mcdw:hammer_great_hammer>, <item:minecraft:anvil>], [<item:minecraft:anvil>, <item:stagelight:hammer_shaft>, <item:minecraft:anvil>]]);

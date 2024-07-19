@@ -1,0 +1,1 @@
+craftingTable.addShaped("mace", <item:mcdw:hammer_mace> * 1, [[<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:minecraft:air>], [<item:minecraft:iron_nugget>, <item:minecraft:iron_block>, <item:minecraft:iron_nugget>], [<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:stagelight:hammer_shaft>]]);

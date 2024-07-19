@@ -1,0 +1,1 @@
+craftingTable.addShaped("durasteelhelm", <item:mythicmetals:durasteel_helmet> * 1, [[<item:mythicmetals:durasteel_ingot>, <item:mythicmetals:durasteel_ingot>, <item:mythicmetals:durasteel_ingot>], [<item:mythicmetals:durasteel_ingot>, <item:stagelight:helmet_inner_cap>, <item:mythicmetals:durasteel_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

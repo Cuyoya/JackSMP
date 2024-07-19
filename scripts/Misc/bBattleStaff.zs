@@ -1,0 +1,1 @@
+craftingTable.addShaped("battlestaff", <item:mcdw:staff_battlestaff> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:stick>], [<item:minecraft:air>, <item:stagelight:long_shaft>, <item:minecraft:air>], [<item:minecraft:stick>, <item:minecraft:air>, <item:minecraft:air>]]);

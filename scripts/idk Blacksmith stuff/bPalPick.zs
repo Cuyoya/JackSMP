@@ -1,0 +1,1 @@
+craftingTable.addShaped("palllpick", <item:mythicmetals:palladium_pickaxe> * 1, [[<item:mythicmetals:palladium_ingot>, <item:mythicmetals:palladium_ingot>, <item:minecraft:air>], [<item:mythicmetals:palladium_ingot>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

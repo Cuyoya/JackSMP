@@ -1,0 +1,1 @@
+craftingTable.remove(<item:mythicmetals_decorations:platinum_chestplate>);

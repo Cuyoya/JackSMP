@@ -1,0 +1,1 @@
+craftingTable.addShaped("hauntedbow", <item:mcdw:bow_haunted_bow> * 1, [[<item:minecraft:soul_sand>, <item:mythicmetals:silver_ingot>, <item:minecraft:string>], [<item:minecraft:soul_sand>, <item:stagelight:bow_limbs>, <item:minecraft:string>], [<item:minecraft:soul_sand>, <item:mythicmetals:silver_ingot>, <item:minecraft:string>]]);

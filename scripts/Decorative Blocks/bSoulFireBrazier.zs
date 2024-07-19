@@ -1,0 +1,1 @@
+craftingTable.addShaped("soulfirebrazier", <item:decorative_blocks:soul_brazier> * 1, [[<item:minecraft:air>, <tag:items:minecraft:coals>, <item:minecraft:air>], [<item:minecraft:iron_bars>, <tag:items:minecraft:soul_fire_base_blocks>, <item:minecraft:iron_bars>], [<item:minecraft:air>, <item:minecraft:iron_bars>, <item:minecraft:air>]]);

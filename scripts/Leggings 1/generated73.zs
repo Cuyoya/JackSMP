@@ -1,0 +1,1 @@
+craftingTable.addShaped("bonelegg", <item:immersive_armors:bone_leggings> * 1, [[<item:minecraft:bone>, <item:minecraft:bone>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:minecraft:air>, <item:minecraft:bone>]]);

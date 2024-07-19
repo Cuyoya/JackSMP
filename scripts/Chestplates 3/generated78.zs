@@ -1,0 +1,1 @@
+craftingTable.addShaped("spookyshecshs", <item:mcda:ghostly_armor_chestplate> * 1, [[<item:minecraft:iron_ingot>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:iron_ingot>], [<item:mcda:fabric_bolt_blue>, <item:mcda:fabric_bolt_blue>, <item:mcda:fabric_bolt_blue>], [<item:minecraft:leather>, <item:minecraft:iron_ingot>, <item:minecraft:leather>]]);

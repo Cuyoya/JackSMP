@@ -1,0 +1,1 @@
+craftingTable.addShaped("beepants", <item:mcda:beenest_armor_leggings> * 1, [[<item:minecraft:honey_block>, <item:minecraft:bee_nest>, <item:minecraft:honey_block>], [<item:minecraft:honey_block>, <item:stagelight:legging_cuisses_and_poleyns>, <item:minecraft:honey_block>], [<item:minecraft:honey_block>, <item:minecraft:air>, <item:minecraft:honey_block>]]);

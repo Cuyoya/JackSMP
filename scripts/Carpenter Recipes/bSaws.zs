@@ -1,0 +1,1 @@
+craftingTable.addShaped("sawyum", <item:furnitureexpanded:saw> * 1, [[<item:minecraft:stick>, <item:minecraft:stick>, <tag:items:minecraft:planks>], [<item:mythicmetals:steel_ingot>, <item:mythicmetals:steel_ingot>, <tag:items:minecraft:planks>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:carpenters_tools>.transformDamage(8)]]);

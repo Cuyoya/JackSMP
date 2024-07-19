@@ -1,0 +1,1 @@
+craftingTable.addShaped("goathood", <item:mcda:goat_gear_helmet> * 1, [[<item:minecraft:iron_ingot>, <item:mcda:goat_pelt>, <item:minecraft:iron_ingot>], [<item:mcda:goat_pelt>, <item:stagelight:helmet_inner_cap>, <item:mcda:goat_pelt>], [<item:mcda:goat_pelt>, <item:mcda:goat_pelt>, <item:mcda:goat_pelt>]]);

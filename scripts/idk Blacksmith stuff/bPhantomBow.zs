@@ -1,0 +1,1 @@
+craftingTable.addShaped("phantombow", <item:mcdw:bow_phantom_bow> * 1, [[<item:mcda:phantom_skin>, <item:mcda:phantom_bones>, <item:minecraft:string>], [<item:minecraft:emerald>, <item:stagelight:bow_limbs>, <item:minecraft:string>], [<item:mcda:phantom_skin>, <item:mcda:phantom_bones>, <item:minecraft:string>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("diamondhelm", <item:minecraft:diamond_helmet> * 1, [[<item:minecraft:diamond>, <item:minecraft:diamond>, <item:minecraft:diamond>], [<item:minecraft:diamond>, <item:stagelight:helmet_inner_cap>, <item:minecraft:diamond>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

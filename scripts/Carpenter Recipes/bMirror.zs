@@ -1,0 +1,1 @@
+craftingTable.addShaped("mirror", <item:furnitureexpanded:mirror> * 1, [[<tag:items:forge:ironplating>, <tag:items:forge:ironplating>, <tag:items:forge:ironplating>], [<tag:items:forge:ironplating>, <item:minecraft:glass>, <tag:items:forge:ironplating>], [<tag:items:forge:ironplating>, <tag:items:forge:ironplating>, <tag:items:forge:ironplating>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("gauntlet", <item:mcdw:gauntlet_gauntlet> * 1, [[<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>], [<item:minecraft:air>, <item:stagelight:glove_padding>, <item:minecraft:iron_ingot>], [<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>]]);

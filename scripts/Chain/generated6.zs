@@ -1,0 +1,1 @@
+craftingTable.addShaped("chainboot", <item:minecraft:chainmail_boots> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:chain>, <item:minecraft:air>, <item:minecraft:chain>], [<item:minecraft:chain>, <item:minecraft:air>, <item:minecraft:chain>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("cursedaxe", <item:mcdw:double_axe_cursed> * 1, [[<item:minecraft:rotten_flesh>, <item:mythicmetals:steel_ingot>, <item:minecraft:rotten_flesh>], [<item:minecraft:air>, <item:mcdw:axe_axe>, <item:mythicmetals:steel_ingot>], [<item:mythicmetals:platinum_ingot>, <item:minecraft:air>, <item:minecraft:rotten_flesh>]]);

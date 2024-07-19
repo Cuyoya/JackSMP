@@ -1,0 +1,1 @@
+craftingTable.addShaped("hailingpick", <item:mcdw:pick_hailing_pinnacle> * 1, [[<item:minecraft:diamond>, <item:minecraft:diamond>, <item:minecraft:diamond>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:axe_haft>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

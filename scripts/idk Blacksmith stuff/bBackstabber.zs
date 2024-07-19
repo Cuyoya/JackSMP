@@ -1,0 +1,1 @@
+craftingTable.addShaped("backstabber", <item:mcdw:dagger_backstabber> * 1, [[<item:minecraft:amethyst_shard>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:amethyst_shard>, <item:minecraft:gold_nugget>, <item:minecraft:obsidian>], [<item:minecraft:air>, <item:mythicmetals:kyber_ingot>, <item:stagelight:blade_hilt>]]);

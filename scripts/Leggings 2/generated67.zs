@@ -1,0 +1,1 @@
+craftingTable.addShaped("scalelegg", <item:mcda:scale_mail_leggings> * 1, [[<item:minecraft:air>, <item:mcda:iron_scale>, <item:minecraft:air>], [<item:mcda:iron_scale>, <item:stagelight:legging_cuisses_and_poleyns>, <item:mcda:iron_scale>], [<item:minecraft:air>, <item:mcda:iron_scale>, <item:minecraft:air>]]);

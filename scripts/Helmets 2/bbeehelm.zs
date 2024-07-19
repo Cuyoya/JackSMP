@@ -1,0 +1,1 @@
+craftingTable.addShaped("beehelm", <item:mcda:beenest_armor_helmet> * 1, [[<item:minecraft:honey_block>, <item:minecraft:honey_block>, <item:minecraft:honey_block>], [<item:minecraft:honey_block>, <item:minecraft:bee_nest>, <item:minecraft:honey_block>], [<item:minecraft:air>, <item:stagelight:helmet_inner_cap>, <item:minecraft:air>]]);

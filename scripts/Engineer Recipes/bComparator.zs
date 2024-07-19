@@ -1,0 +1,1 @@
+craftingTable.addShaped("comparator", <item:minecraft:comparator> * 1, [[<item:minecraft:air>, <item:minecraft:redstone_torch>, <item:minecraft:air>], [<item:minecraft:redstone_torch>, <item:minecraft:quartz>, <item:minecraft:redstone_torch>], [<tag:items:forge:stone>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <tag:items:forge:stone>]]);

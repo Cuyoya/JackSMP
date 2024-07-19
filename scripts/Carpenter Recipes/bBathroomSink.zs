@@ -1,0 +1,2 @@
+<tag:items:forge:ironplating>.add(<item:quark:iron_plate>, <item:blockus:iron_plating>);
+craftingTable.addShaped("bathroomsink", <item:furnitureexpanded:bathroom_sink> * 1, [[<tag:items:forge:ironplating>, <item:minecraft:bucket>, <tag:items:forge:ironplating>], [<tag:items:forge:ironplating>, <tag:items:forge:ironplating>, <tag:items:forge:ironplating>], [<item:minecraft:air>, <tag:items:forge:ironplating>, <item:minecraft:air>]]);

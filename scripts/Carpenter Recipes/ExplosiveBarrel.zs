@@ -1,0 +1,1 @@
+craftingTable.addShaped("explosivebarrel", <item:dungeonnowloading:explosive_barrel> * 1, [[<item:minecraft:gunpowder>, <tag:items:c:potions>, <item:minecraft:gunpowder>], [<item:minecraft:gunpowder>, <tag:items:c:wooden_barrels>, <item:minecraft:gunpowder>], [<item:minecraft:gunpowder>, <item:minecraft:gunpowder>, <item:minecraft:gunpowder>]]);

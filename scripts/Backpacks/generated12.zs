@@ -1,0 +1,1 @@
+craftingTable.addShaped("diaback", <item:travelersbackpack:diamond_tier_upgrade> * 1, [[<item:mythicmetals:star_platinum>, <item:minecraft:diamond>, <item:mythicmetals:star_platinum>], [<item:minecraft:diamond>, <item:travelersbackpack:gold_tier_upgrade>, <item:minecraft:diamond>], [<item:mythicmetals:star_platinum>, <item:minecraft:diamond>, <item:mythicmetals:star_platinum>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("harpooncrossbow", <item:mcdw:crossbow_harpoon_crossbow> * 1, [[<item:mythicmetals:aquarium_ingot>, <item:minecraft:stick>, <item:mythicmetals:aquarium_ingot>], [<item:minecraft:stick>, <item:minecraft:crossbow>, <item:minecraft:air>], [<item:mythicmetals:aquarium_ingot>, <item:minecraft:air>, <item:minecraft:string>]]);

@@ -1,0 +1,1 @@
+craftingTable.remove(<item:mythicmetals_decorations:metallurgium_chest>);

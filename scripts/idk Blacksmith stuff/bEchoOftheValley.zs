@@ -1,0 +1,1 @@
+craftingTable.addShaped("echoofvalley", <item:mcdw:bow_echo_of_the_valley> * 1, [[<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:string>], [<item:minecraft:gold_ingot>, <item:mcdw:bow_wind_bow>, <item:minecraft:echo_shard>], [<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:string>]]);

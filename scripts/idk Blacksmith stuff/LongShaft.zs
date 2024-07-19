@@ -1,0 +1,1 @@
+craftingTable.addShaped("longshaft", <item:stagelight:long_shaft> * 1, [[<item:minecraft:copper_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:stagelight:smithing_stone>.anyDamage().transformDamage(), <item:minecraft:stick>]]);

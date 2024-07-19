@@ -1,0 +1,1 @@
+craftingTable.addShaped("lightwand", <item:lightingwand:wand> * 1, [[<item:minecraft:air>, <item:minecraft:glowstone>, <item:stagelight:sorcery_stone>.anyDamage().transformDamage()], [<item:minecraft:air>, <item:minecraft:blaze_rod>, <item:minecraft:glow_ink_sac>], [<item:minecraft:blaze_rod>, <item:minecraft:air>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("orcsword", <item:mythicmetals:orichalcum_sword> * 1, [[<item:mythicmetals:orichalcum_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:mythicmetals:orichalcum_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:blade_hilt>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("sawblade", <item:mcdw:sword_broken_sawblade> * 1, [[<item:minecraft:air>, <item:mythicmetals:steel_nugget>, <item:minecraft:polished_blackstone>], [<item:mythicmetals:steel_nugget>, <item:minecraft:polished_blackstone>, <item:mythicmetals:steel_nugget>], [<item:mythicmetals:durasteel_engine>, <item:mythicmetals:steel_nugget>, <item:minecraft:air>]]);

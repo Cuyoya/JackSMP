@@ -1,0 +1,1 @@
+craftingTable.addShaped("shovelshaft", <item:stagelight:shovel_shaft> * 1, [[<item:minecraft:stick>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:stagelight:smithing_stone>.anyDamage().transformDamage(), <item:minecraft:copper_ingot>], [<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:stick>]]);

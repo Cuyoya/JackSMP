@@ -1,0 +1,1 @@
+craftingTable.remove(<item:mcdw:shield_tower_guard>);

@@ -1,0 +1,1 @@
+craftingTable.remove(<item:mcda:squid_armor_chestplate>);

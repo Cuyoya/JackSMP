@@ -1,0 +1,1 @@
+craftingTable.addShaped("stonecutter", <item:minecraft:stonecutter> * 1, [[<item:minecraft:air>, <item:mcda:iron_scale>, <item:minecraft:air>], [<tag:items:minecraft:logs>, <item:furnitureexpanded:saw>, <tag:items:minecraft:logs>], [<tag:items:forge:stone>, <item:minecraft:chain>, <tag:items:forge:stone>]]);

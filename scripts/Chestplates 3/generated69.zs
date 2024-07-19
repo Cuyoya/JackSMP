@@ -1,0 +1,1 @@
+craftingTable.addShaped("plateplateplate", <item:mcda:plate_armor_chestplate> * 1, [[<item:mcda:iron_plate>, <item:stagelight:chestplate_haubergeon>, <item:mcda:iron_plate>], [<item:mcda:iron_plate>, <item:mcda:iron_plate>, <item:mcda:iron_plate>], [<item:mcda:iron_plate>, <item:mcda:iron_plate>, <item:mcda:iron_plate>]]);

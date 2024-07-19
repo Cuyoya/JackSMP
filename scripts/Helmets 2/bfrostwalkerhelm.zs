@@ -1,0 +1,1 @@
+craftingTable.addShaped("frostwalkerhelm", <item:alexsmobs:froststalker_helmet> * 1, [[<item:minecraft:air>, <item:alexsmobs:froststalker_horn>, <item:minecraft:air>], [<item:minecraft:packed_ice>, <item:minecraft:packed_ice>, <item:minecraft:packed_ice>], [<item:minecraft:packed_ice>, <item:stagelight:helmet_inner_cap>, <item:minecraft:packed_ice>]]);

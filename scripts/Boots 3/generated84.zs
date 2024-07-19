@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("piglinboots", MirrorAxis.VERTICAL, <item:mcda:piglin_armor_boots> * 1, [[<item:mcda:fabric_bolt_brown>, <item:stagelight:boot_lasts>, <item:mcda:fabric_bolt_brown>], [<item:minecraft:bone>, <item:minecraft:air>, <item:minecraft:bone>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

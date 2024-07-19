@@ -1,0 +1,1 @@
+craftingTable.addShaped("hawkbrand", <item:mcdw:sword_hawkbrand> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:mythicmetals:silver_ingot>], [<item:mythicmetals:orichalcum_ingot>, <item:mythicmetals:silver_ingot>, <item:minecraft:air>], [<item:mcdw:sword_iron_sword_var>, <item:mythicmetals:orichalcum_ingot>, <item:minecraft:air>]]);

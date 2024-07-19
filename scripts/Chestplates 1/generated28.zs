@@ -1,0 +1,1 @@
+craftingTable.addShaped("ironchest", <item:minecraft:iron_chestplate> * 1, [[<item:minecraft:iron_ingot>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>]]);

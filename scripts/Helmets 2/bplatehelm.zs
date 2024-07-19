@@ -1,0 +1,1 @@
+craftingTable.addShaped("platehelm", <item:mcda:plate_armor_helmet> * 1, [[<item:mcda:iron_plate>, <item:mcda:iron_plate>, <item:mcda:iron_plate>], [<item:mcda:iron_plate>, <item:stagelight:helmet_inner_cap>, <item:mcda:iron_plate>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("shulkertboxx", <item:minecraft:shulker_box> * 1, [[<item:minecraft:air>, <item:minecraft:shulker_shell>, <item:minecraft:air>], [<item:stagelight:leather_storage_composite>, <tag:items:forge:chests/wooden>, <item:stagelight:leather_storage_composite>], [<item:minecraft:air>, <item:minecraft:shulker_shell>, <item:minecraft:air>]]);

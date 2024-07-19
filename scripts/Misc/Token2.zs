@@ -1,0 +1,1 @@
+craftingTable.addShaped("token2", <item:stagelight:sorcery_stone> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:stagelight:yiay_token>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

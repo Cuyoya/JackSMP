@@ -1,0 +1,1 @@
+craftingTable.remove(<item:travelersbackpack:gold_tier_upgrade>);

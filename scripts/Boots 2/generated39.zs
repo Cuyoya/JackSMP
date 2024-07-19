@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("bootbone", MirrorAxis.VERTICAL, <item:immersive_armors:bone_boots> * 1, [[<item:minecraft:bone>, <item:stagelight:boot_lasts>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:minecraft:air>, <item:minecraft:bone>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

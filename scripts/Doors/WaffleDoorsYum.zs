@@ -1,0 +1,1 @@
+craftingTable.addShaped("waffledoorprinmt", <item:mcwdoors:print_waffle> * 4, [[<item:minecraft:air>, <item:minecraft:paper>, <item:minecraft:air>], [<item:minecraft:paper>, <item:minecraft:cherry_door>, <item:minecraft:paper>], [<item:minecraft:air>, <item:minecraft:paper>, <item:minecraft:air>]]);

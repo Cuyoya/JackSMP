@@ -1,0 +1,1 @@
+craftingTable.addShaped("chainchest", <item:minecraft:chainmail_chestplate> * 1, [[<item:minecraft:chain>, <item:minecraft:air>, <item:minecraft:chain>], [<item:minecraft:chain>, <item:minecraft:chain>, <item:minecraft:chain>], [<item:minecraft:chain>, <item:minecraft:chain>, <item:minecraft:chain>]]);

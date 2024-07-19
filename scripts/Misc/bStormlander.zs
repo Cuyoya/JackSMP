@@ -1,0 +1,1 @@
+craftingTable.addShaped("stormlander", <item:mcdw:hammer_stormlander> * 1, [[<item:minecraft:copper_block>, <item:minecraft:creeper_head>, <item:minecraft:copper_block>], [<item:minecraft:redstone_block>, <item:mcdw:hammer_great_hammer>, <item:minecraft:redstone_block>], [<item:minecraft:anvil>, <item:stagelight:hammer_shaft>, <item:minecraft:anvil>]]);

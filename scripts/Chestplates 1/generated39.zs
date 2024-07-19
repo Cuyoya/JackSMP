@@ -1,0 +1,1 @@
+craftingTable.addShaped("ocelotchest", <item:mcda:ocelot_armor_chestplate> * 1, [[<item:mcda:ocelot_pelt>, <item:stagelight:chestplate_haubergeon>, <item:mcda:ocelot_pelt>], [<item:mcda:ocelot_pelt>, <item:mcda:ocelot_pelt>, <item:mcda:ocelot_pelt>], [<item:mcda:ocelot_pelt>, <item:mcda:ocelot_pelt>, <item:mcda:ocelot_pelt>]]);

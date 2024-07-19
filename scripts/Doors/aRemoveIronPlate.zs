@@ -1,0 +1,5 @@
+craftingTable.remove(<item:quark:iron_plate>);
+craftingTable.remove(<item:blockus:iron_plating>);
+<tag:items:forge:ironplating>.add(<item:quark:iron_plate>, <item:blockus:iron_plating>);
+craftingTable.addShaped("woodportcullis", <item:mcwdoors:wooden_portcullis> * 3, [[<item:minecraft:oak_fence>, <item:minecraft:oak_fence>, <item:minecraft:oak_fence>], [<tag:items:forge:ironplating>, <tag:items:forge:ironplating>, <tag:items:forge:ironplating>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
+craftingTable.addShaped("ironportcullis", <item:mcwdoors:iron_portcullis> * 3, [[<item:minecraft:iron_bars>, <item:minecraft:iron_bars>, <item:minecraft:iron_bars>], [<tag:items:forge:ironplating>, <tag:items:forge:ironplating>, <tag:items:forge:ironplating>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

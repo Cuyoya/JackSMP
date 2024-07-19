@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("phantumpadss", MirrorAxis.VERTICAL, <item:mcda:phantom_armor_boots> * 1, [[<item:mcda:phantom_skin>, <item:stagelight:boot_lasts>, <item:mcda:phantom_skin>], [<item:mcda:phantom_skin>, <item:minecraft:air>, <item:mcda:phantom_skin>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

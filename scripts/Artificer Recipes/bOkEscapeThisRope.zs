@@ -1,0 +1,1 @@
+craftingTable.addShaped("escaperope", <item:escape_rope:escape_rope> * 2, [[<item:quark:rope>, <item:quark:rope>, <item:quark:rope>], [<item:quark:rope>, <item:stagelight:sorcery_stone>.anyDamage().transformDamage(), <item:quark:rope>], [<item:minecraft:ender_pearl>, <item:quark:rope>, <item:minecraft:ender_pearl>]]);

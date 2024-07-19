@@ -1,0 +1,1 @@
+craftingTable.addShaped("nightmaresbite", <item:mcdw:sickle_nightmares_bite> * 1, [[<item:minecraft:poisonous_potato>, <item:minecraft:iron_ingot>, <item:minecraft:spider_eye>], [<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:mcdw:item_bee_stinger>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:blade_hilt>]]);

@@ -1,0 +1,1 @@
+craftingTable.removeByModid("decorative_blocks");

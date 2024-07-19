@@ -1,0 +1,1 @@
+craftingTable.addShaped("shadowcrossbow", <item:mcdw:crossbow_shadow_crossbow> * 1, [[<item:minecraft:diamond>, <item:mythicmetals:stormyx_ingot>, <item:minecraft:amethyst_shard>], [<item:mythicmetals:stormyx_ingot>, <item:minecraft:crossbow>, <item:minecraft:string>], [<item:minecraft:amethyst_shard>, <item:minecraft:string>, <item:minecraft:air>]]);

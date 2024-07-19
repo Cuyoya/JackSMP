@@ -1,0 +1,1 @@
+craftingTable.remove(<item:alexsmobs:flying_fish_boots>);

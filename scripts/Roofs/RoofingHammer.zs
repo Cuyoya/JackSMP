@@ -1,0 +1,1 @@
+craftingTable.addShaped("roofinghammer", <item:mcwroofs:roofing_hammer> * 1, [[<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>], [<item:minecraft:stick>, <item:minecraft:air>, <item:minecraft:air>]]);

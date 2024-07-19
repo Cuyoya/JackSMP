@@ -1,0 +1,1 @@
+craftingTable.addShaped("kyberhelm", <item:mythicmetals:kyber_helmet> * 1, [[<item:mythicmetals:kyber_ingot>, <item:mythicmetals:kyber_ingot>, <item:mythicmetals:kyber_ingot>], [<item:mythicmetals:kyber_ingot>, <item:stagelight:helmet_inner_cap>, <item:mythicmetals:kyber_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

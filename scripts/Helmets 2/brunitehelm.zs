@@ -1,0 +1,1 @@
+craftingTable.addShaped("runitehelm", <item:mythicmetals:runite_helmet> * 1, [[<item:mythicmetals:runite_ingot>, <item:mythicmetals:runite_ingot>, <item:mythicmetals:runite_ingot>], [<item:mythicmetals:runite_ingot>, <item:stagelight:helmet_inner_cap>, <item:mythicmetals:runite_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

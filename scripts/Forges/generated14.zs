@@ -1,0 +1,1 @@
+craftingTable.remove(<item:alloy_forgery:adamantite_block_forge_controller>);

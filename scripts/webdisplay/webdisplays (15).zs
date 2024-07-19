@@ -1,0 +1,1 @@
+craftingTable.remove(<item:webdisplays:craftcomp_stonekey>);

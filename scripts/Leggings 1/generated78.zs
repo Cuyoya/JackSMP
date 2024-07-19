@@ -1,0 +1,1 @@
+craftingTable.addShaped("australian", <item:alexsmobs:emu_leggings> * 1, [[<item:alexsmobs:emu_feather>, <item:alexsmobs:kangaroo_hide>, <item:alexsmobs:emu_feather>], [<item:alexsmobs:kangaroo_hide>, <item:stagelight:legging_cuisses_and_poleyns>, <item:alexsmobs:kangaroo_hide>], [<item:alexsmobs:emu_feather>, <item:minecraft:air>, <item:alexsmobs:emu_feather>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("oakhedge", <item:mcwfences:oak_hedge> * 4, [[<item:minecraft:oak_leaves>, <item:minecraft:oak_leaves>, <item:minecraft:air>], [<item:minecraft:oak_leaves>, <item:minecraft:oak_leaves>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("sweeychest", <item:mcda:sweet_tooth_chestplate> * 1, [[<item:minecraft:cake>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:cake>], [<item:minecraft:cake>, <item:minecraft:diamond>, <item:minecraft:cake>], [<item:minecraft:cake>, <item:minecraft:cake>, <item:minecraft:cake>]]);

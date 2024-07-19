@@ -1,0 +1,1 @@
+craftingTable.addShaped("spear", <item:mcdw:spear_spear> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:stagelight:long_shaft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

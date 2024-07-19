@@ -1,0 +1,1 @@
+craftingTable.addShaped("ironexcavtorsss", <item:simplytools:iron_excavator> * 1, [[<item:minecraft:air>, <item:mcda:iron_plate>, <item:simplytools:iron_excavator_head>], [<item:mcda:iron_plate>, <item:minecraft:stick>, <item:mcda:iron_plate>], [<item:minecraft:stick>, <item:mcda:iron_plate>, <item:minecraft:air>]]);

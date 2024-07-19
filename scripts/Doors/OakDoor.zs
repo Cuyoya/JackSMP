@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("oakdoor", MirrorAxis.HORIZONTAL, <item:minecraft:oak_door> * 1, [[<item:minecraft:oak_log>, <item:minecraft:oak_log>, <item:minecraft:air>], [<item:minecraft:oak_log>, <item:minecraft:oak_log>, <item:minecraft:air>], [<item:minecraft:oak_log>, <item:minecraft:oak_log>, <item:minecraft:air>]]);

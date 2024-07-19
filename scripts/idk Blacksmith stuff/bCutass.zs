@@ -1,0 +1,1 @@
+craftingTable.addShaped("cutlass", <item:mcdw:sword_cutlass> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:gold_ingot>], [<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:stagelight:blade_hilt>]]);

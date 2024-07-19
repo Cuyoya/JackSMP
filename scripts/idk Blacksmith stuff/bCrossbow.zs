@@ -1,0 +1,1 @@
+craftingTable.addShaped("crossbow", <item:minecraft:crossbow> * 1, [[<item:stagelight:bow_limbs>, <item:minecraft:stick>, <item:minecraft:string>], [<item:minecraft:stick>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:string>, <item:minecraft:air>, <item:minecraft:tripwire_hook>]]);

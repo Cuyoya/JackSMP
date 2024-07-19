@@ -1,0 +1,1 @@
+craftingTable.addShaped("deepslatetoppedgrass", <item:mcwfences:deepslate_brick_grass_topped_wall> * 6, [[<item:minecraft:deepslate_tiles>, <item:minecraft:dirt>, <item:minecraft:deepslate_tiles>], [<item:minecraft:deepslate_bricks>, <item:minecraft:deepslate_bricks>, <item:minecraft:deepslate_bricks>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

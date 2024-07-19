@@ -1,0 +1,1 @@
+craftingTable.addShaped("whitemysteryhelm", <item:mcda:white_mystery_armor_helmet> * 1, [[<item:minecraft:iron_ingot>, <item:mcda:gemstone_white>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_block>, <item:stagelight:helmet_inner_cap>, <item:minecraft:iron_block>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

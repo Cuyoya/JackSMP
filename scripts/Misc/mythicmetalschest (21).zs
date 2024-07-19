@@ -1,0 +1,1 @@
+craftingTable.remove(<item:mythicmetals_decorations:star_platinum_chest>);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("plierss", <item:mcwbridges:pliers> * 1, [[<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:minecraft:air>], [<item:minecraft:iron_ingot>, <item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>], [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>]]);

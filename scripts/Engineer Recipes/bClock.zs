@@ -1,0 +1,1 @@
+craftingTable.addShaped("clock", <item:minecraft:clock> * 1, [[<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:air>], [<item:minecraft:gold_ingot>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <item:minecraft:gold_ingot>], [<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("shortbow", <item:mcdw:bow_shortbow> * 1, [[<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>], [<item:stagelight:bow_limbs>, <item:minecraft:air>, <item:minecraft:string>], [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);

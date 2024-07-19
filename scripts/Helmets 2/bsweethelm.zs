@@ -1,0 +1,1 @@
+craftingTable.addShaped("sweethelm", <item:mcda:sweet_tooth_helmet> * 1, [[<item:minecraft:diamond>, <item:minecraft:cake>, <item:minecraft:diamond>], [<item:minecraft:cake>, <item:stagelight:helmet_inner_cap>, <item:minecraft:cake>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

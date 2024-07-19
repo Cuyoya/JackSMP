@@ -1,0 +1,1 @@
+craftingTable.addShaped("phantomlegg", <item:mcda:phantom_armor_leggings> * 1, [[<item:mcda:phantom_skin>, <item:mcda:phantom_skin>, <item:mcda:phantom_skin>], [<item:mcda:phantom_skin>, <item:stagelight:legging_cuisses_and_poleyns>, <item:mcda:phantom_skin>], [<item:mcda:phantom_skin>, <item:minecraft:air>, <item:mcda:phantom_skin>]]);

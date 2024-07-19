@@ -1,0 +1,1 @@
+craftingTable.addShaped("bathtub", <item:furnitureexpanded:bathtub> * 1, [[<tag:items:forge:ironplating>, <item:minecraft:bucket>, <tag:items:forge:ironplating>], [<tag:items:forge:ironplating>, <tag:items:forge:ironplating>, <tag:items:forge:ironplating>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("goldpick", <item:minecraft:golden_pickaxe> * 1, [[<item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:air>], [<item:minecraft:gold_ingot>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

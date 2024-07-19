@@ -1,0 +1,1 @@
+craftingTable.addShaped("cherryhedge", <item:mcwfences:cherry_hedge> * 4, [[<item:minecraft:cherry_leaves>, <item:minecraft:cherry_leaves>, <item:minecraft:air>], [<item:minecraft:cherry_leaves>, <item:minecraft:cherry_leaves>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

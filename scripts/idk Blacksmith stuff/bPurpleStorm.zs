@@ -1,0 +1,1 @@
+craftingTable.addShaped("purplestorm", <item:mcdw:bow_purple_storm> * 1, [[<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:mythicmetals:kyber_ingot>], [<item:minecraft:iron_ingot>, <item:mcdw:bow_shortbow>, <item:minecraft:air>], [<item:mythicmetals:kyber_ingot>, <item:minecraft:air>, <item:minecraft:air>]]);

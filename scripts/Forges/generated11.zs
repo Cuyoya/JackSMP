@@ -1,0 +1,1 @@
+craftingTable.remove(<item:alloy_forgery:bricks_forge_controller>);

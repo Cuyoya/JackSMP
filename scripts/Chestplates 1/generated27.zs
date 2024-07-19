@@ -1,0 +1,1 @@
+craftingTable.addShaped("diachest", <item:minecraft:diamond_chestplate> * 1, [[<item:minecraft:diamond>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:diamond>], [<item:minecraft:diamond>, <item:minecraft:diamond>, <item:minecraft:diamond>], [<item:minecraft:diamond>, <item:minecraft:diamond>, <item:minecraft:diamond>]]);

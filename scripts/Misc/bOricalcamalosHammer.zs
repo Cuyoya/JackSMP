@@ -1,0 +1,1 @@
+craftingTable.addShaped("oracalcumhammer", <item:mythicmetals:orichalcum_hammer> * 1, [[<item:minecraft:air>, <item:mythicmetals:orichalcum_block>, <item:minecraft:air>], [<item:mythicmetals:orichalcum_block>, <item:stagelight:hammer_shaft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

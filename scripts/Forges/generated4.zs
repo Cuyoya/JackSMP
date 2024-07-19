@@ -1,0 +1,1 @@
+craftingTable.remove(<item:irons_rpg_tweaks:identification_scroll>);

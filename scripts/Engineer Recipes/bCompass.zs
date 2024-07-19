@@ -1,0 +1,1 @@
+craftingTable.addShaped("compass", <item:minecraft:compass> * 1, [[<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:iron_ingot>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <item:minecraft:iron_ingot>], [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>]]);

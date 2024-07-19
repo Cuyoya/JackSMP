@@ -1,0 +1,1 @@
+craftingTable.addShaped("tendonwhip", <item:alexsmobs:tendon_whip> * 1, [[<item:alexsmobs:dropbear_claw>, <item:alexsmobs:dropbear_claw>, <item:minecraft:air>], [<item:alexsmobs:dropbear_claw>, <item:alexsmobs:elastic_tendon>, <item:alexsmobs:elastic_tendon>], [<item:minecraft:air>, <item:alexsmobs:elastic_tendon>, <item:stagelight:blade_hilt>]]);

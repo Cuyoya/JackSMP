@@ -1,0 +1,1 @@
+craftingTable.addShaped("coppersword", <item:mythicmetals:copper_sword>.withTag({Enchantments: [{lvl: 10, id: "biomemakeover:conductivity_curse"}]}) * 1, [[<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);

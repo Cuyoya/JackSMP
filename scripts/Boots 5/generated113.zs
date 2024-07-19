@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("platecuisses", MirrorAxis.VERTICAL, <item:mcda:plate_armor_boots> * 1, [[<item:mcda:iron_plate>, <item:minecraft:air>, <item:mcda:iron_plate>], [<item:mcda:iron_plate>, <item:stagelight:boot_lasts>, <item:mcda:iron_plate>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("voidtouchblade", <item:mcdw:dagger_void_touched_blade> * 1, [[<item:minecraft:diamond>, <item:minecraft:amethyst_shard>, <item:minecraft:air>], [<item:minecraft:amethyst_shard>, <item:minecraft:diamond>, <item:minecraft:amethyst_shard>], [<item:minecraft:air>, <item:minecraft:amethyst_shard>, <item:stagelight:blade_hilt>]]);

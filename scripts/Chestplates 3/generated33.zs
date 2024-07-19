@@ -1,0 +1,1 @@
+craftingTable.addShaped("piglinchest", <item:mcda:piglin_armor_chestplate> * 1, [[<item:minecraft:iron_ingot>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:iron_ingot>], [<item:mcda:fabric_bolt_brown>, <item:mcda:fabric_bolt_gray>, <item:mcda:fabric_bolt_brown>], [<item:mcda:fabric_bolt_brown>, <item:mcda:fabric_bolt_gray>, <item:mcda:fabric_bolt_brown>]]);

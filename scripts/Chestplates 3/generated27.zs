@@ -1,0 +1,1 @@
+craftingTable.addShaped("grimchestms", <item:mcda:grim_armor_chestplate> * 1, [[<item:minecraft:bone>, <item:stagelight:chestplate_haubergeon>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:mcda:bone_rib_cage>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:mcda:bone_rib_cage>, <item:minecraft:bone>]]);

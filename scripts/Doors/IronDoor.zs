@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("irondoor", MirrorAxis.HORIZONTAL, <item:minecraft:iron_door> * 1, [[<item:mcda:iron_plate>, <item:mcda:iron_plate>, <item:minecraft:air>], [<item:mcda:iron_plate>, <item:mcda:iron_plate>, <item:minecraft:air>], [<item:mcda:iron_plate>, <item:mcda:iron_plate>, <item:minecraft:air>]]);

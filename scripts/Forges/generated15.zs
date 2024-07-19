@@ -1,0 +1,1 @@
+craftingTable.addShaped("blast1", <item:minecraft:blast_furnace> * 1, [[<item:minecraft:iron_ingot>, <item:stagelight:graphite_crucible>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <tag:items:forge:furnace>, <item:minecraft:iron_ingot>], [<item:minecraft:smooth_stone>, <item:minecraft:smooth_stone>, <item:minecraft:smooth_stone>]]);

@@ -1,0 +1,1 @@
+import crafttweaker.api.recipe.MirrorAxis;craftingTable.addShapedMirrored("azaeleadoor", MirrorAxis.HORIZONTAL, <item:quark:azalea_door> * 1, [[<item:quark:azalea_log>, <item:quark:azalea_log>, <item:minecraft:air>], [<item:quark:azalea_log>, <item:quark:azalea_log>, <item:minecraft:air>], [<item:quark:azalea_log>, <item:quark:azalea_log>, <item:minecraft:air>]]);

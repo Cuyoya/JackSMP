@@ -1,0 +1,1 @@
+craftingTable.addShaped("rapidcrossbow", <item:mcdw:crossbow_rapid_crossbow> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:blue_dye>], [<item:minecraft:air>, <item:minecraft:crossbow>, <item:minecraft:air>], [<item:minecraft:blue_dye>, <item:minecraft:air>, <item:minecraft:air>]]);

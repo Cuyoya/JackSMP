@@ -1,0 +1,1 @@
+craftingTable.addShaped("rails1", <item:minecraft:rail> * 64, [[<item:minecraft:iron_ingot>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:stick>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:iron_ingot>]]);

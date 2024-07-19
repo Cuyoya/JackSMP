@@ -1,0 +1,1 @@
+craftingTable.addShaped("oceltorlegg", <item:mcda:ocelot_armor_leggings> * 1, [[<item:mcda:ocelot_pelt>, <item:mcda:ocelot_pelt>, <item:mcda:ocelot_pelt>], [<item:mcda:ocelot_pelt>, <item:stagelight:legging_cuisses_and_poleyns>, <item:mcda:ocelot_pelt>], [<item:mcda:ocelot_pelt>, <item:minecraft:air>, <item:mcda:ocelot_pelt>]]);

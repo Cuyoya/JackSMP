@@ -1,0 +1,1 @@
+craftingTable.addShaped("livingvineshood", <item:mcda:living_vines_armor_helmet> * 1, [[<item:minecraft:air>, <item:minecraft:weeping_vines>, <item:minecraft:air>], [<item:minecraft:weeping_vines>, <item:mcda:fabric_bolt_black>, <item:minecraft:weeping_vines>], [<item:minecraft:nether_wart>, <item:stagelight:helmet_inner_cap>, <item:minecraft:nether_wart>]]);

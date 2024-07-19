@@ -1,0 +1,1 @@
+craftingTable.addShaped("snowbow", <item:mcdw:bow_snow_bow> * 1, [[<item:minecraft:air>, <item:minecraft:snow_block>, <item:minecraft:string>], [<item:minecraft:snow_block>, <item:stagelight:bow_limbs>, <item:minecraft:string>], [<item:minecraft:air>, <item:minecraft:snow_block>, <item:minecraft:string>]]);

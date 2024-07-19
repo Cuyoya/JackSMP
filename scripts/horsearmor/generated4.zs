@@ -1,0 +1,1 @@
+craftingTable.addShaped("ironhorse", <item:minecraft:iron_horse_armor> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:stagelight:horse_armor_padding>, <item:minecraft:iron_ingot>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

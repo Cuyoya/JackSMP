@@ -1,0 +1,1 @@
+craftingTable.remove(<item:mythicmetals_decorations:palladium_chest>);

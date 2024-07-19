@@ -1,0 +1,1 @@
+craftingTable.addShaped("cogcrossbow", <item:mcdw:crossbow_cog_crossbow> * 1, [[<item:minecraft:air>, <item:minecraft:redstone_torch>, <item:minecraft:air>], [<item:minecraft:iron_ingot>, <item:minecraft:crossbow>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);

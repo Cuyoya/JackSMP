@@ -1,0 +1,1 @@
+craftingTable.addShaped("no_name", <item:minecraft:ender_chest> * 1, [[<item:minecraft:obsidian>, <item:minecraft:obsidian>, <item:minecraft:obsidian>], [<item:minecraft:obsidian>, <item:minecraft:ender_eye>, <item:minecraft:obsidian>], [<item:minecraft:obsidian>, <item:stagelight:sorcery_stone>.anyDamage().transformDamage(), <item:minecraft:obsidian>]]);

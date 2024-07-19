@@ -1,0 +1,1 @@
+craftingTable.addShaped("daylightsensor", <item:minecraft:daylight_detector> * 1, [[<item:minecraft:glass>, <item:minecraft:glass>, <item:minecraft:glass>], [<item:minecraft:quartz>, <item:minecraft:quartz>, <item:minecraft:quartz>], [<tag:items:minecraft:wooden_slabs>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <tag:items:minecraft:wooden_slabs>]]);

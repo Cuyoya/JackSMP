@@ -1,0 +1,1 @@
+craftingTable.addShaped("glaive", <item:mcdw:glaive_glaive> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:stagelight:long_shaft>]]);

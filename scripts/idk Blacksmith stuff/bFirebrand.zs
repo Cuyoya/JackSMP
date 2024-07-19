@@ -1,0 +1,1 @@
+craftingTable.addShaped("firebrand", <item:mcdw:axe_firebrand> * 1, [[<item:mythicmetals:palladium_ingot>, <item:minecraft:fire_charge>, <item:mythicmetals:palladium_ingot>], [<item:mythicmetals:palladium_ingot>, <item:mcdw:axe_axe>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:blaze_rod>, <item:minecraft:air>]]);

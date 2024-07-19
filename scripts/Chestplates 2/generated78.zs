@@ -1,0 +1,1 @@
+craftingTable.addShaped("wolfplate", <item:mcda:wolf_armor_chestplate> * 1, [[<item:mcda:wolf_pelt>, <item:stagelight:chestplate_haubergeon>, <item:mcda:wolf_pelt>], [<item:mcda:wolf_pelt>, <item:mcda:wolf_pelt>, <item:mcda:wolf_pelt>], [<item:mcda:wolf_pelt>, <item:mcda:wolf_pelt>, <item:mcda:wolf_pelt>]]);

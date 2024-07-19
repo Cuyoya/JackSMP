@@ -1,0 +1,1 @@
+craftingTable.addShaped("diamondhorse", <item:minecraft:diamond_horse_armor> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:diamond>], [<item:minecraft:diamond>, <item:stagelight:horse_armor_padding>, <item:minecraft:diamond>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
