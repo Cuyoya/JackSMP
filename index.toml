@@ -1215,6 +1215,11 @@ hash = "51293e548b070b3654fb1d30f12e9ef11febafdab9d68830e5ca783003180233"
 metafile = true
 
 [[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
+metafile = true
+
+[[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "6eee76254a98d89d1b6d0481ef1990e2ae92a7e97bfe5e9569bfff468b95f547"
 metafile = true
