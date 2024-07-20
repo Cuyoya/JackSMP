@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "9afa18269996bcaa57899af3175ad0bef142363c3c863b1ed7206089677fcd3d"
+hash = "ae7ba033346addd01dc16da33303dbaea2e65ffdac09deb49fdcb7bdc4f3cb49"
 metafile = true
 
 [[files]]
