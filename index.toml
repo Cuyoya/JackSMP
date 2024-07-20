@@ -931,11 +931,6 @@ hash = "23a9e82f6a661d9ee54b295315b0516bb4620829adda4568932b18803782a29b"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "fd554c207bd89ccba53ef4db8f206d804cc6d6ec766bbdddc707af2d126b9cd7"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "8567e54416753d824ede165d48fa3661dee7df82a5cee29cecebd133dd5b15bd"
 metafile = true
@@ -1203,11 +1198,6 @@ metafile = true
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
 hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
-metafile = true
-
-[[files]]
-file = "mods/mythic-mounts.pw.toml"
-hash = "6eee76254a98d89d1b6d0481ef1990e2ae92a7e97bfe5e9569bfff468b95f547"
 metafile = true
 
 [[files]]
