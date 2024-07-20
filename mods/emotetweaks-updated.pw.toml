@@ -1,0 +1,13 @@
+name = "EmoteTweaks Updated"
+filename = "EmoteTweaks-1.20.1-0.1.0-ALPHA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a6452e984a711a4b80410c2085fbcd1b65efd65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4722045
+project-id = 906702

@@ -766,8 +766,8 @@ hash = "b6ded2ce50abddbfef3f2caa70074ab5593f9deef8b1ac59a65ac7752c72bfbc"
 metafile = true
 
 [[files]]
-file = "mods/emotetweaks.pw.toml"
-hash = "3e3b6f5be05963fcee7e6dd664de110263106df1e933efefa2d4e9eed24310bb"
+file = "mods/emotetweaks-updated.pw.toml"
+hash = "077f2f4ce0ce707168a028609df94d4006779ede9e4b8df322974fa7f0e70d73"
 metafile = true
 
 [[files]]
