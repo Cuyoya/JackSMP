@@ -951,11 +951,6 @@ hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
 metafile = true
 
 [[files]]
-file = "mods/harvest-scythes.pw.toml"
-hash = "ec7aa497cbe90cce33052ec15abb9afce4ea1b3204a75e932c07cbeb3401c26f"
-metafile = true
-
-[[files]]
 file = "mods/higher-nether-max-build-height.pw.toml"
 hash = "944b5d67b6ee7a0aaa2175580c07174a568f53477cbe8eb14a001c80dfdbc867"
 metafile = true
