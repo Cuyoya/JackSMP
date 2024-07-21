@@ -153,6 +153,10 @@ file = "config/servercore/optimizations.yml"
 hash = "46063a345ebd560ed193bddf157252fdfe59f84c3933b43192751b3fc16b5dad"
 
 [[files]]
+file = "config/sidebar_buttons.json"
+hash = "ed1b9794da677030d7fbef04cb9409d481b8554194e63ed0b1584f695e7d93e9"
+
+[[files]]
 file = "config/supplementaries-common.toml"
 hash = "603172bef254bc0d278e4ba5ef0183340fbcb46f35642e141cb7d55fede82329"
 
