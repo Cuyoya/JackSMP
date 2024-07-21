@@ -10102,6 +10102,10 @@ file = "scripts/idk Blacksmith stuff/baxes.zs"
 hash = "912fa14bea7aca93aeb70b9619e8dd31680257d077eff84dc1b1ab74a65e3b6b"
 
 [[files]]
+file = "scripts/idk Blacksmith stuff/bironpick2222.zs"
+hash = "adfaebcf6a309bc456017788ff2aafed48c17d2c5d8ea08ddf9bb6c7ca38daaa"
+
+[[files]]
 file = "scripts/idk Blacksmith stuff/zbIronSword22.zs"
 hash = "f820bf3f0943f07e855aa1ecd2939f52b94f0671ee7cc26848d7062ddc628da3"
 
@@ -10239,3 +10243,111 @@ metafile = true
 file = "shaderpacks/vanillaa.pw.toml"
 hash = "b062f3d3717d82a0359fbf09472339e7080026fce69fc4a6d136ac8266b9e6ec"
 metafile = true
+
+[[files]]
+file = "styles/Doge/assets/bounce_styles/animations/doge.animation.json"
+hash = "d584cb7be18f6348310761b728197954f0b9677527cdaa09659c0716a7978d28"
+
+[[files]]
+file = "styles/Doge/assets/bounce_styles/geo/doge.geo.json"
+hash = "3f527c2aff0dbe12d54fc674e7514aed0c3a201b0e9207dfc4e0dbfc74083ae3"
+
+[[files]]
+file = "styles/Doge/assets/bounce_styles/textures/doge.png"
+hash = "5ec78449b5ed154a5b765395b3695f34b0bc17cdfb1786231e3b76c683211422"
+
+[[files]]
+file = "styles/Doge/pack.mcmeta"
+hash = "1f8e4ccdf7cbd822b841dcae3773239fc9a164ed346460978eee392440071797"
+
+[[files]]
+file = "styles/Doge/styles.json"
+hash = "e7f2c942fa3ebd3109e72908cdc6b799f1e7a15c3ca0c7378c92d1ac7ce7e29f"
+
+[[files]]
+file = "styles/Popcorn/assets/bounce_styles/animations/popcorn.animation.json"
+hash = "c23bebdd8d7698b6f9c617cc59e2f8411578c5fcfd5cdfcac43c2921c82eca97"
+
+[[files]]
+file = "styles/Popcorn/assets/bounce_styles/geo/popcorn.geo.json"
+hash = "428a6f1f9b55fa80e4669a9f8bfa20e56933069febb71ad33d2cc0e52724e0af"
+
+[[files]]
+file = "styles/Popcorn/assets/bounce_styles/textures/popcorn.png"
+hash = "2088ef9103b7514e187c943ced34c9c73ce988e4833d79d1309c64750d800b6c"
+
+[[files]]
+file = "styles/Popcorn/pack.mcmeta"
+hash = "1f8e4ccdf7cbd822b841dcae3773239fc9a164ed346460978eee392440071797"
+
+[[files]]
+file = "styles/Popcorn/styles.json"
+hash = "8c858431f881e4237be16c3de68ff946f0ab2c2c6cd749a087ab9ef552673ee7"
+
+[[files]]
+file = "styles/ShinoFox/assets/bounce_styles/animations/shinofox.animation.json"
+hash = "26a3bb55b75ecfdb5173e04745fe85f510f5b15e93bcd32dac6388d257dae54a"
+
+[[files]]
+file = "styles/ShinoFox/assets/bounce_styles/geo/shinofox.geo.json"
+hash = "27127ff006a65dbab56e6d74909b3c784c86c77f21d806ebdefd16a194214e4c"
+
+[[files]]
+file = "styles/ShinoFox/assets/bounce_styles/textures/shinofox.png"
+hash = "b6d410ae858d95ac3d33d686b31e31be2344dac4d168a4a12ab98bc54bb25ea1"
+
+[[files]]
+file = "styles/ShinoFox/pack.mcmeta"
+hash = "1f8e4ccdf7cbd822b841dcae3773239fc9a164ed346460978eee392440071797"
+
+[[files]]
+file = "styles/ShinoFox/styles.json"
+hash = "a4d942c97eb74f6228b8b9ba3003a0c4261020b017858f0feedb060d4c83ff9e"
+
+[[files]]
+file = "styles/Shinominya/assets/bounce_styles/animations/shinominya.animation.json"
+hash = "e41e0ca6d75748934011b7a0c2699b56942cd3e334e9cbe98ff41734ba9f9226"
+
+[[files]]
+file = "styles/Shinominya/assets/bounce_styles/geo/fox.geo.json"
+hash = "820e4300bcda168d8de5bf0e1efce1cd975fec32ddfe02ffea8c5c2889c10d40"
+
+[[files]]
+file = "styles/Shinominya/assets/bounce_styles/geo/shinominya.geo.json"
+hash = "1b453c0ff5fca68fa2e25bb43dfa5c9c26a0a3504b01e260163e57859e1cb850"
+
+[[files]]
+file = "styles/Shinominya/assets/bounce_styles/textures/shinoFox.png"
+hash = "b4e7e8b4625ad1c8eca1043a4748a40a03d3a5cb111babf026a0da2a39b4b914"
+
+[[files]]
+file = "styles/Shinominya/assets/bounce_styles/textures/shinominya.png"
+hash = "583b7635c6d1b618fea11e7a5f3c9672afbde7795e8165e61a8a208579311c64"
+
+[[files]]
+file = "styles/Shinominya/pack.mcmeta"
+hash = "1f8e4ccdf7cbd822b841dcae3773239fc9a164ed346460978eee392440071797"
+
+[[files]]
+file = "styles/Shinominya/styles.json"
+hash = "aa38e71637cc49544d573ec2fc73327c1cbd53e2c5a0ba54ca7dd83b57a617de"
+
+[[files]]
+file = "styles/Ushimama/assets/bounce_styles/animations/ushi.animation.json"
+hash = "d700c693833878c104960b07a7f05b9decfab777d2bd2b28fb1df13ef55267eb"
+
+[[files]]
+file = "styles/Ushimama/assets/bounce_styles/geo/ushi.geo.json"
+hash = "71252467ef939292719c1a741a937ba4891cf231a4ab7bb1517d0968c983a31e"
+
+[[files]]
+file = "styles/Ushimama/assets/bounce_styles/textures/ushi.png"
+hash = "788c0dd3c51d36b6d61a7d443329778dd4bc1fd7381f26be350f7e2d25de123d"
+
+[[files]]
+file = "styles/Ushimama/pack.mcmeta"
+hash = "1f8e4ccdf7cbd822b841dcae3773239fc9a164ed346460978eee392440071797"
+
+[[files]]
+file = "styles/Ushimama/styles.json"
+hash = "a6f3362dc4888ea7179ccd8bd05fadfb4ec1d6bcd40a335675798dd8962c949c"
