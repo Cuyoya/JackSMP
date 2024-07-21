@@ -1,0 +1,17 @@
+[  
+  {
+    "name": "ushi",
+    "model_id": "bounce_styles:ushi.geo.json",
+    "texture_id": "bounce_styles:ushi.png",
+    "animation_id": "bounce_styles:ushi.animation.json",
+    "animations": {
+      "idle": "idle",
+      "walking": "walk"
+    },
+    "slots": [
+	  "head",
+      "body"
+    ],
+    "hidden_parts": []
+  },
+]

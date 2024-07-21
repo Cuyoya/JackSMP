@@ -1,0 +1,24 @@
+[  
+  {
+    "name": "doge",
+    "animation_id": "bounce_styles:doge.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sprinting": "run",
+      "sneaking": "sneak"
+    },
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+]
