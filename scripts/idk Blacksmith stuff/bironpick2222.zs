@@ -1,0 +1,1 @@
+craftingTable.addShaped("ironpick2222", <item:minecraft:iron_pickaxe> * 1, [[<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:air>], [<item:minecraft:iron_ingot>, <item:stagelight:axe_haft>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
