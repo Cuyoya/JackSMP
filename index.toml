@@ -29,6 +29,46 @@ file = "config/carryon-common.toml"
 hash = "cb3e8465a82ee3b5ddf7722d1fe05519a5b11291066aee58b986ff591d4e88d9"
 
 [[files]]
+file = "config/defaultoptions/config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/defaultoptions/config/emi.css"
+hash = "3f281d6b0b81354495c36475d536643880f64986a8aaed78c0f3e283f2a45d31"
+
+[[files]]
+file = "config/defaultoptions/config/resquake.json"
+hash = "7138fd05c555e8f15c697b817db6622209efed63ec2ad4535e43d1076f74c50f"
+
+[[files]]
+file = "config/defaultoptions/config/supplementaries-client.toml"
+hash = "e93b8fb44d2cebc72ac2110ea28a9dfecfcf3a144ae750725f60bdc03f0f2277"
+
+[[files]]
+file = "config/defaultoptions/config/veinmining-client.toml"
+hash = "22bf73ba5e168ffca17b4b0465b803bfe65109d8414eab0f9fa16228483e38c3"
+
+[[files]]
+file = "config/defaultoptions/config/xaerominimap.txt"
+hash = "97494cd76fe01407df2ad3e25206eef5b0027ae0276e9f9e812930c91583b55c"
+
+[[files]]
+file = "config/defaultoptions/config/xaerominimap_entities.json"
+hash = "9711f904fad73c98a4d258d22740bbcc5a4c49ce6a4d4ef17f69399a7b8e7873"
+
+[[files]]
+file = "config/defaultoptions/config/xaeroworldmap.txt"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "55dc54a6d9afba1855efa2d90a9174dc68eb5ffe7977847dae928924da969c38"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "50cabff8b53e691c5cf7abe43acf76d01c5e57369f9c265c048fe92b3b848577"
+
+[[files]]
 file = "config/easy_npc/easy_npc-common.toml"
 hash = "17c61795c6d80b48b4d323a7d9ada7c0e568c34d01e6e6cfa3906bcc336b28d6"
 
@@ -177,40 +217,8 @@ file = "config/veinmining-server.toml"
 hash = "00149aeec1ddcbd65777b17c2973a5bf4f3a6b73f844204e8a6247d2e28fe8c1"
 
 [[files]]
-file = "config/yosbr/config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
-file = "config/yosbr/config/emi.css"
-hash = "3f281d6b0b81354495c36475d536643880f64986a8aaed78c0f3e283f2a45d31"
-
-[[files]]
-file = "config/yosbr/config/resquake.json"
-hash = "7138fd05c555e8f15c697b817db6622209efed63ec2ad4535e43d1076f74c50f"
-
-[[files]]
-file = "config/yosbr/config/veinmining-client.toml"
-hash = "22bf73ba5e168ffca17b4b0465b803bfe65109d8414eab0f9fa16228483e38c3"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap.txt"
-hash = "97494cd76fe01407df2ad3e25206eef5b0027ae0276e9f9e812930c91583b55c"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "9711f904fad73c98a4d258d22740bbcc5a4c49ce6a4d4ef17f69399a7b8e7873"
-
-[[files]]
-file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
-
-[[files]]
-file = "config/yosbr/emi.json"
-hash = "7d8b786b27dc8f8dcd995035bb29e67446d404c94440b46c57c85091222f19dd"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "0e66ff14048012e89bc3110e8a3787b8e8612193478b3c3f7dc8f71297d3bb36"
+file = "emi.json"
+hash = "3f968d0dc6c474c1ac1d270e074bd163fe68e927fa9057bd4499e16375bd0c0c"
 
 [[files]]
 file = "global_packs/required_data/Stagelight SMP Tweaks/data/custom_structures/data/structure_effects/tags/woldgen/structure/applies_effects.json"
@@ -757,6 +765,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "740e8bc5f6560bebe40b27bcc9fb6bc1adc2dbd489338cc70b00176427b3b5a3"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
 metafile = true
 
 [[files]]
@@ -1732,11 +1745,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
@@ -4307,11 +4315,11 @@ hash = "250ac473afdf889bda867326bfaf2857e149e70bc0fac964bb79e89322dc6837"
 
 [[files]]
 file = "scripts/Engineer Recipes/bActivatorRail.zs"
-hash = "51442ddca86eebf1e60e080d79d5b372ae8043d4dcb81032d87d1e0b6dcc85d5"
+hash = "d12f4407334fa4518fc1b9eb1510f762d15541af8cbb49143bb2d4b9ae0744f8"
 
 [[files]]
 file = "scripts/Engineer Recipes/bActivatorRail2.zs"
-hash = "248e5385062c5304609c7a35b0cad6a0e8d8a6efedea8c2e47e5e2c0260a6838"
+hash = "cd4e55abfcb4d1d5c07534a557d23bcaaf27b129da2883fcc85d028df51ce5c1"
 
 [[files]]
 file = "scripts/Engineer Recipes/bBloodSprayer.zs"
@@ -4339,11 +4347,11 @@ hash = "7bfe210fdafc0f487ed239172afe7bfe5a1f7b26bb5855c71822925a07362954"
 
 [[files]]
 file = "scripts/Engineer Recipes/bDetectorRail.zs"
-hash = "5beb3ca0a44456574a3755150b4ca9107c432780021cedef2fc956a7e197dd75"
+hash = "819feb290892fbab55b7114a10d0b2f28364f58c3afa302daa9971c1e8044cc3"
 
 [[files]]
 file = "scripts/Engineer Recipes/bDetectorRail2.zs"
-hash = "0ee2e08a320fe7667d92ef07e0f6cbcb23b47bd0ac9c9b45e5dc06455aeffdd4"
+hash = "bb8b22d3b4ff2fa2bd0505505653e0b302228d85fd05d6565e7a970f9b199359"
 
 [[files]]
 file = "scripts/Engineer Recipes/bDispenser.zs"
@@ -4399,11 +4407,11 @@ hash = "ab8e125f59d763d5306093bdfe1d4de2e184f7f7a9d5f0e502562f9c63aaf2ec"
 
 [[files]]
 file = "scripts/Engineer Recipes/bRails.zs"
-hash = "8f9f1ef990444255c36a5fb87d1b04763e76c4a26bf58b191b84e7c55532e6d7"
+hash = "2bedc3923fadf2bfcf17dabeeb4f2205fde5024af212156efe83ba5d1d18298c"
 
 [[files]]
 file = "scripts/Engineer Recipes/bRails2.zs"
-hash = "964ac6041c532b552377b31e4706816333fa93c74a69171a355d830cf8883fb4"
+hash = "91b7eaa97c439056609c5740077e2293bb04a0a98dd14deccdc92e5d8b2c1127"
 
 [[files]]
 file = "scripts/Engineer Recipes/bRainShield.zs"
@@ -10355,3 +10363,27 @@ hash = "1f8e4ccdf7cbd822b841dcae3773239fc9a164ed346460978eee392440071797"
 [[files]]
 file = "styles/Ushimama/styles.json"
 hash = "a6f3362dc4888ea7179ccd8bd05fadfb4ec1d6bcd40a335675798dd8962c949c"
+
+[[files]]
+file = "styles/Wiggler/assets/bounce_styles/animations/wiggler.animation.json"
+hash = "bf042d7dfd3d2ddc9cda38791d0e6156a1c71204c1b00546d31e3c805ec7d9d9"
+
+[[files]]
+file = "styles/Wiggler/assets/bounce_styles/geo/wiggler.geo.json"
+hash = "90cc7f9e3a14bf4c750134948d31e06313c9acc7adfb331f5117c8e66af4ba7f"
+
+[[files]]
+file = "styles/Wiggler/assets/bounce_styles/textures/wiggler.png"
+hash = "ef699623e047044db07e7cff19996ed404ed46dc10e8ee5d2ace1ac374a2374a"
+
+[[files]]
+file = "styles/Wiggler/pack.mcmeta"
+hash = "1f8e4ccdf7cbd822b841dcae3773239fc9a164ed346460978eee392440071797"
+
+[[files]]
+file = "styles/Wiggler/styles.json"
+hash = "e1008c8faf2732ef89bd96a58a6480dc25e98e55cd040903d5259e9d14bbe5b7"
+
+[[files]]
+file = "styles/styles.json"
+hash = "53b2a79d7b6d54a5aa29696cee01f8b97c8699561e7ad21463a2e063cde11101"
