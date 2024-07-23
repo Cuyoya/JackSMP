@@ -4,4 +4,4 @@ filename = "stagelight-1.0.0-forge-1.20.1.jar"
 [download]
 url = "https://maven.martmists.com/snapshots/net/mcreator/stagelight-1.0.0-forge-1.20.1.jar"
 hash-format = "sha256"
-hash = "03277c49333e757dce7945d48b53f39f5445fec0d53981e0c8f95bbf93508ee3"
+hash = "af2e9cfab829ed20071f18477eb9395334acf07ee43d552d7c16638dd4ceb224"
