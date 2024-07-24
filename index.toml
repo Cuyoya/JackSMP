@@ -218,7 +218,7 @@ hash = "00149aeec1ddcbd65777b17c2973a5bf4f3a6b73f844204e8a6247d2e28fe8c1"
 
 [[files]]
 file = "emi.json"
-hash = "3f968d0dc6c474c1ac1d270e074bd163fe68e927fa9057bd4499e16375bd0c0c"
+hash = "8253ead3099c0120856b079cff2c6f368dc791c201156f7bec54bc312d62b853"
 
 [[files]]
 file = "global_packs/required_data/Stagelight SMP Tweaks/data/custom_structures/data/structure_effects/tags/woldgen/structure/applies_effects.json"
@@ -1589,7 +1589,7 @@ metafile = true
 
 [[files]]
 file = "mods/stagelight.pw.toml"
-hash = "0c00932edb5ac6cdfe2be90bd83db1ab73b27bf0685652b14677c1eca0847c2f"
+hash = "5db895454401781db0be2a1f58ed41fbb60d67e460c1ff8fa02e71e87e9b8bf7"
 metafile = true
 
 [[files]]
@@ -3512,6 +3512,122 @@ hash = "9696842bc756af67a4c2e56d1f2c2013ac7655869f9cff63c2ea808ab8a9ead7"
 [[files]]
 file = "scripts/Chestplates 3/generated84.zs"
 hash = "c65c6cea234d7458bc151ca1a0508f64e34f81020ff1de0cd0bb26efdc49d391"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (1).zs"
+hash = "a655e0c80011ac9273b5f2d37355aa773b6b45d49863a4b40e63b5a4054607d2"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (10).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (11).zs"
+hash = "e4b925398f298e5e5f426c679f79e9d663e97d79e98b99ba334ba42a02ccae46"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (12).zs"
+hash = "24cb5a9e87d119722e32071fa39b08d5ec573d583724e1670fafd1bbad5611b5"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (13).zs"
+hash = "31ceed3604a326231035ca4fcd29899cabdc9835854278b3f948bd0a3291be6d"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (14).zs"
+hash = "2b5fba79d6192b7f74b3b33a1738c66b7a670e13db1c7d4bda14e03e51104847"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (15).zs"
+hash = "30a041fad0104454886ca70c6c967f17c2930fa2c44baf4fa590901ecb09c192"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (16).zs"
+hash = "07f641b1a13e9d43771908300ac4f722116bb75ba3afbddd0914eb0f65e1fada"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (17).zs"
+hash = "269853de97fb0c0c1e15d03e354c1dffd67bc743db55ed950746d0123ead9fa4"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (18).zs"
+hash = "bf56911aee8dd42c76ed342457a4e2258a482bd6e3db84c33817b0552d18ca90"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (19).zs"
+hash = "e751b1a94518943e0f99d9d9fde3e4bc18dd29072cfefe1372a87082b4268ec1"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (2).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (20).zs"
+hash = "06bec2ce4ef12f94927f12e8b7796b3ec9e7a91007ff3eb9e23442eb64e1e9cd"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (21).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (22).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (23).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (24).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (25).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (26).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (27).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (28).zs"
+hash = "07e3ec4f982614b3a75f53c3501d4583a84f7c356b991010a9989f91d60789de"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (29).zs"
+hash = "07e3ec4f982614b3a75f53c3501d4583a84f7c356b991010a9989f91d60789de"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (3).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (4).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (5).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (6).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (7).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (8).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
+
+[[files]]
+file = "scripts/ComputerCraft/No Computers to See Here! smile (9).zs"
+hash = "e93326b4999054b33f3d693609623905e72d952e6e57d83b02a799f319d4bd9a"
 
 [[files]]
 file = "scripts/Copper/aCopper funnies (1).zs"
