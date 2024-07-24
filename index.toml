@@ -1453,6 +1453,11 @@ hash = "54a2f2bab81dde90fe0a708926a1d687b90c9f644242df67863a0b0c2ee8b9d1"
 metafile = true
 
 [[files]]
+file = "mods/pronounmc.pw.toml"
+hash = "98a641cad46cdb34b864847e88723e376d904f45349f65be34729369d241dc42"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "706d6672573487080de5a3008b9f97a81c2405ef8aab8be82cb6416b7d84608a"
 metafile = true
