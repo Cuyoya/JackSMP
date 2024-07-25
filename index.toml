@@ -93,12 +93,20 @@ file = "config/easy_npc/skin/humanoid/SPOILER_download_3.png"
 hash = "cbbbd6911d4ab623c54afe0f93ff2c0213a697ab7c1b1fac20aea559b0c5a7f2"
 
 [[files]]
+file = "config/easy_npc/skin/humanoid/god-enel.png"
+hash = "372a9ceac6e8abcc18805fd3338a6e89f3342294ae61d151d63aa0c60606780b"
+
+[[files]]
 file = "config/easy_npc/skin/humanoid/humanoid_template.png"
 hash = "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c"
 
 [[files]]
 file = "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
 hash = "1c194da6ebe3a991146b0ef04a6000451789887a62bf7ee2d8a49b50b4bec6dd"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/sssniperwolf-20659231.png"
+hash = "12f5698974751fc6ea6cb9ba91fbd3a9cc5eb2d029f47df4fc4fc8a94da00858"
 
 [[files]]
 file = "config/easy_npc/skin/illager/illager_template.png"
@@ -171,6 +179,10 @@ hash = "7f56ec8a35479ea55f699cf57d9cdf753707afd451d05cf0e09bdd759870559c"
 [[files]]
 file = "config/naturallychargedcreepers.json5"
 hash = "d5eb72d24032c1a6bd0706f200f0c1df05a440498977b656b9dbcbba04be6f9a"
+
+[[files]]
+file = "config/numismatic-overhaul.json5"
+hash = "e562a788282b183b980ef2a5092a01363e98dcbeeec8e61c52836e39650d2b60"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -1530,6 +1542,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "f940a85f7fce47ee3228e10dfde0c7a818d5464337bb8ba0b7074b421975e359"
 metafile = true
 
 [[files]]
@@ -4331,6 +4348,10 @@ file = "scripts/Engineer Recipes/aActivatorRail.zs"
 hash = "34a87d2cf89cfd7f6de53d25f3cff6ae7770f0cfd88c405e05a590f9cac528ce"
 
 [[files]]
+file = "scripts/Engineer Recipes/aBellows.zs"
+hash = "0aa656fd2c07da322bc16f8a9123009587cfd215efee4d277f2c4fba2a046dff"
+
+[[files]]
 file = "scripts/Engineer Recipes/aBloodSprayer.zs"
 hash = "a92991ff9f8da1916937464ab90d825ececbff9fbe654824f72671e72e979453"
 
@@ -4345,6 +4366,10 @@ hash = "da935e31332e576ff5131aa2ad09e7c4e994052225433bf7aa98cdad2534657c"
 [[files]]
 file = "scripts/Engineer Recipes/aComparator.zs"
 hash = "287fe8f292b42fce9ce44bba10e883192a47292d47951d5d01eca939e456bd95"
+
+[[files]]
+file = "scripts/Engineer Recipes/aCrystalDisplay.zs"
+hash = "8001fcfffe792b3f433482325465a386ba2665655ff942f9772d6af99618a7f3"
 
 [[files]]
 file = "scripts/Engineer Recipes/aDaylightSensor.zs"
@@ -4419,6 +4444,34 @@ file = "scripts/Engineer Recipes/aRandomizer.zs"
 hash = "731f49ed1f8ae6e7db15dda7b6c294c0a0c06c1994e78eacd416ab7dd60590f2"
 
 [[files]]
+file = "scripts/Engineer Recipes/aRelayer.zs"
+hash = "e01276a743394f0d159b40f768557503844c6cf6ccfb65c1553047bd927dcc3a"
+
+[[files]]
+file = "scripts/Engineer Recipes/aRemakingThis.zs"
+hash = "b97ed9de852c41f17cd8b12cb1338cf81edd60b4e4898135390afd31bdc7a8b5"
+
+[[files]]
+file = "scripts/Engineer Recipes/aRemoval.zs"
+hash = "769efe77e9578e8114f277eada8d273f312a2c61d32314d5ed6e0bc253197a03"
+
+[[files]]
+file = "scripts/Engineer Recipes/aRemovalation.zs"
+hash = "0deb024ca382277dd71b0257e927769ef89adbfbc0d9f1789183256510bbe5c3"
+
+[[files]]
+file = "scripts/Engineer Recipes/aRemoveSomeStuff.zs"
+hash = "4f1f1160d25b782feb23d4d19b3a50f9329d9d2431a8b30464ee01f07ada6774"
+
+[[files]]
+file = "scripts/Engineer Recipes/aRemoveThis.zs"
+hash = "4f66be81ec1713882d5c971a0e1f258ef115437bd871a683598cfd1f70ff8585"
+
+[[files]]
+file = "scripts/Engineer Recipes/aRemoving.zs"
+hash = "abe399e685240c4eaaf9345c4ac343a75398e90e50bfab46afa00733fb4521ea"
+
+[[files]]
 file = "scripts/Engineer Recipes/aShittyCompanyToWorkFor.zs"
 hash = "de5d615e962e816147c7a18572f8f8a8476a574a1dd9c5bde5e4c83a3dd7f701"
 
@@ -4429,6 +4482,10 @@ hash = "395877388c1f4c2312e67e3748b9c081eddb23bef549771031bb88708061593a"
 [[files]]
 file = "scripts/Engineer Recipes/aToiletYum.zs"
 hash = "f6a557992fbb07d4561fa578063f23c497538d1d9f58435fc534326d0841ac57"
+
+[[files]]
+file = "scripts/Engineer Recipes/andIOop.zs"
+hash = "c11336a1f5dea2c0b3271670b878c661d4900a2fe0e9b6b456ea069e82261485"
 
 [[files]]
 file = "scripts/Engineer Recipes/bAbacus.zs"
@@ -4443,6 +4500,10 @@ file = "scripts/Engineer Recipes/bActivatorRail2.zs"
 hash = "cd4e55abfcb4d1d5c07534a557d23bcaaf27b129da2883fcc85d028df51ce5c1"
 
 [[files]]
+file = "scripts/Engineer Recipes/bBellows.zs"
+hash = "5ac3f733371f8b8c2bf2eb8a5856f42b227481e37405bf22d28a1c1671f940a9"
+
+[[files]]
 file = "scripts/Engineer Recipes/bBloodSprayer.zs"
 hash = "88f55d9fcd656ea2386f7d8906f4b2db32a62f6c09efccbf0866856ba847438a"
 
@@ -4455,12 +4516,20 @@ file = "scripts/Engineer Recipes/bClock.zs"
 hash = "d4599316c5ba69b7d247a158d6ce9e6aba6f32fba39b25a2590d9338c4cbc4d1"
 
 [[files]]
+file = "scripts/Engineer Recipes/bCognative.zs"
+hash = "3492b990e08e010dbc0ad1442b717dc2ec8e8b2d2ae6a2c470ef369efed4a48a"
+
+[[files]]
 file = "scripts/Engineer Recipes/bComparator.zs"
 hash = "37dee92c981316e25bf4e82cf013faa64ba48cae890b484eda40c103db3e9476"
 
 [[files]]
 file = "scripts/Engineer Recipes/bCompass.zs"
 hash = "2b85fdfd395ef0ab877e9484beb16b513e19f47a3d74b167534f2e7dcc740fe0"
+
+[[files]]
+file = "scripts/Engineer Recipes/bCrystalDisplay.zs"
+hash = "c9ef838f1163b33f220fa541bfb259a5d112782c71ea5a41c6fa94b6f0e821ea"
 
 [[files]]
 file = "scripts/Engineer Recipes/bDaylightSensor.zs"
@@ -4495,12 +4564,20 @@ file = "scripts/Engineer Recipes/bHopper.zs"
 hash = "8d69ccce62afaabbfd340310646abd8cfd9744bffff5edcce4996f10b8313133"
 
 [[files]]
+file = "scripts/Engineer Recipes/bHourglass.zs"
+hash = "f5dfcfd94ab18a2508afc13175bc5ccce06ad02d3f997723ab7121fa8f80bd0e"
+
+[[files]]
 file = "scripts/Engineer Recipes/bInventoryConnector.zs"
 hash = "30aef2f404f50bb52de9378dee1433b705903f2d0a77b08f8cbde88138d57883"
 
 [[files]]
 file = "scripts/Engineer Recipes/bJukebox.zs"
-hash = "86ec81bd09644b3ac640ee579010dad70d1e96c50289af8a1f38ad6730dec87c"
+hash = "719eedf3d904dd2ad625504c821f5b13f1fdf6a7396400858da13f1330271b56"
+
+[[files]]
+file = "scripts/Engineer Recipes/bLockblock.zs"
+hash = "7cae6edfb230d88c0db86473d39c64d7721d1f83791e2f38782d407612abcce4"
 
 [[files]]
 file = "scripts/Engineer Recipes/bMusicBox.zs"
@@ -4508,7 +4585,7 @@ hash = "1ab7dcd7d415f73e46ed3fa3bb84a3e988465ad56bc51e775911ec581865411c"
 
 [[files]]
 file = "scripts/Engineer Recipes/bNoteblock.zs"
-hash = "76234cdc09d87c43cf771afc6f889df0a2fb53160fe835ebe765205759ede5c9"
+hash = "d451f6fd85a25900621b0d3a5d0c11867679150ed114f73a36221177eaa4567e"
 
 [[files]]
 file = "scripts/Engineer Recipes/bObserver.zs"
@@ -4527,6 +4604,10 @@ file = "scripts/Engineer Recipes/bPoweredRail.zs"
 hash = "ab8e125f59d763d5306093bdfe1d4de2e184f7f7a9d5f0e502562f9c63aaf2ec"
 
 [[files]]
+file = "scripts/Engineer Recipes/bPulley.zs"
+hash = "a448006be18911dd1c395eea60a959bf54f89d555380b734895c9c08e5a3c331"
+
+[[files]]
 file = "scripts/Engineer Recipes/bRails.zs"
 hash = "2bedc3923fadf2bfcf17dabeeb4f2205fde5024af212156efe83ba5d1d18298c"
 
@@ -4543,6 +4624,10 @@ file = "scripts/Engineer Recipes/bRandomizer.zs"
 hash = "e8e5d43d06f0a208fb0258cfafb8e708fb5d4fc90a9a6cf485b2944fa711aaae"
 
 [[files]]
+file = "scripts/Engineer Recipes/bRelayer.zs"
+hash = "858b08ee0da72f52af67565ac36e71186d59ea0c0d84ce2df0fc1770130741bf"
+
+[[files]]
 file = "scripts/Engineer Recipes/bShittyCompanyToWorkFor.zs"
 hash = "813e4da75aabb5b06655c8de41688dc87d7e52a7ebb662e74dd49a3145ee4edb"
 
@@ -4555,8 +4640,16 @@ file = "scripts/Engineer Recipes/bSlideShowProjector.zs"
 hash = "d84b9a7dbaa1ed8e8584e31e5d911c5886fd3cb92a246fca007b2189b9dbf052"
 
 [[files]]
+file = "scripts/Engineer Recipes/bSpeaker.zs"
+hash = "60e533a78e3b55bbf5f71516f2ff4e1984b07f745f3390ab6021fa6299a12eb1"
+
+[[files]]
 file = "scripts/Engineer Recipes/bToiletYum.zs"
 hash = "ff7a2027ca4ac3eef4cf8c74fc689cdd49b2b3e7f9f33ed099ab4a00cc320e03"
+
+[[files]]
+file = "scripts/Engineer Recipes/bTurnTable.zs"
+hash = "e727ab0f2bf7e68f8a16a08d4e826a9643e96b32161c35a11978cb932523ac08"
 
 [[files]]
 file = "scripts/Fences/AllRemoveMacawFences.zs"
@@ -7319,10 +7412,6 @@ file = "scripts/Shields/generated25.zs"
 hash = "8d87c4939602e9b6f6a673d2c9003c2c179dd56021f849b0690326bc2ec0aed5"
 
 [[files]]
-file = "scripts/Shields/generated26.zs"
-hash = "5c6d5e46adfd69a1752626c538c6d2e4ea9fc49929e98c017a700bebf1c8cee6"
-
-[[files]]
 file = "scripts/Shields/generated27.zs"
 hash = "da84d5b36a77909f7408190779ca9d2f17ddb6a75659bc366333062ecfd3e2f3"
 
@@ -7332,7 +7421,7 @@ hash = "e3119117583f9f96cec0ea5ba04717ffd4c4e6aa42580df5d2153722b7c0675f"
 
 [[files]]
 file = "scripts/Shields/generated29.zs"
-hash = "7c46603d2cbbd152141443a706751142ed38784ada80516b31100424189dc2a8"
+hash = "5ae660fa4d7c53e5926f24dd893ea907041c0fd3be54d97cb63ca10fc1889c44"
 
 [[files]]
 file = "scripts/Trapdoors/aAzureBOAT.zs"
@@ -8721,6 +8810,10 @@ hash = "7941893c34712516bc8ae738eff10cd1a5a828b26e901d076aea4ee4a8be79d3"
 [[files]]
 file = "scripts/Walls/walls endless WALLS (99).zs"
 hash = "832b7a47f4a8bb72b04bcf68afd4a2891e14d97d7ab08b7dd2dc73bedfc49eae"
+
+[[files]]
+file = "scripts/chestfix.zs"
+hash = "bfc48b7edc9b513e2c1e0a550aecf1fbf2bceb23723800a6624e8ee045fabcc3"
 
 [[files]]
 file = "scripts/horsearmor/NoWolf.zs"
@@ -10466,6 +10559,10 @@ file = "styles/Shinominya/styles.json"
 hash = "aa38e71637cc49544d573ec2fc73327c1cbd53e2c5a0ba54ca7dd83b57a617de"
 
 [[files]]
+file = "styles/Spotlight SMP Styles - Vchiiban_Ross.zip"
+hash = "15af39f5c496b8bd7927a6127ccfe049ec338edb31a226c0d51a394d1de17245"
+
+[[files]]
 file = "styles/Ushimama/assets/bounce_styles/animations/ushi.animation.json"
 hash = "d700c693833878c104960b07a7f05b9decfab777d2bd2b28fb1df13ef55267eb"
 
@@ -10504,6 +10601,10 @@ hash = "1f8e4ccdf7cbd822b841dcae3773239fc9a164ed346460978eee392440071797"
 [[files]]
 file = "styles/Wiggler/styles.json"
 hash = "e1008c8faf2732ef89bd96a58a6480dc25e98e55cd040903d5259e9d14bbe5b7"
+
+[[files]]
+file = "styles/oversized_yiay_tshirt.zip"
+hash = "76fb290f227ae44d3ec53c4b6e42eca165ecc031d1eb7c9f2906610e36568d72"
 
 [[files]]
 file = "styles/styles.json"
