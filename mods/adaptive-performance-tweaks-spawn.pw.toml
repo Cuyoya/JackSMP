@@ -1,0 +1,13 @@
+name = "Adaptive Performance Tweaks: Spawn"
+filename = "adaptive_performance_tweaks_spawn_1.20.1-11.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "027aabd0e5655a7cdda0bf3551bb74ff88abc521"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5531591
+project-id = 573708
