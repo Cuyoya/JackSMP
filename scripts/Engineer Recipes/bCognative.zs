@@ -1,0 +1,1 @@
+craftingTable.addShaped("cogclocked", <item:supplementaries:cog_block> * 4, [[<item:minecraft:copper_ingot>, <item:minecraft:redstone>, <item:minecraft:copper_ingot>], [<item:minecraft:redstone>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <item:minecraft:redstone>], [<item:minecraft:copper_ingot>, <item:minecraft:redstone>, <item:minecraft:copper_ingot>]]);

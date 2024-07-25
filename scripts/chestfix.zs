@@ -1,0 +1,1 @@
+craftingTable.addShaped("chestfix", <item:minecraft:chest> * 1, [[<tag:items:forge:planks>, <tag:items:forge:planks>, <tag:items:forge:planks>], [<tag:items:forge:planks>, <item:minecraft:air>, <tag:items:forge:planks>], [<tag:items:forge:planks>, <tag:items:forge:planks>, <tag:items:forge:planks>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("hourglass", <item:supplementaries:hourglass> * 1, [[<item:minecraft:glass>, <item:minecraft:gold_ingot>, <item:minecraft:glass>], [<item:minecraft:air>, <item:stagelight:engineers_tools>.anyDamage().transformDamage(), <item:minecraft:air>], [<item:minecraft:glass>, <item:minecraft:gold_ingot>, <item:minecraft:glass>]]);
