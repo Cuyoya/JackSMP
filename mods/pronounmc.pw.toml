@@ -1,0 +1,13 @@
+name = "PronounMC"
+filename = "PronounMC-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2r2FDWN4/versions/E8G37Rbw/PronounMC-1.1.jar"
+hash-format = "sha1"
+hash = "05cceef9f2951d94381e49cd0d9446aa2fbe8ae6"
+
+[update]
+[update.modrinth]
+mod-id = "2r2FDWN4"
+version = "E8G37Rbw"
