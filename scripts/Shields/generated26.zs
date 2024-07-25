@@ -1,1 +1,0 @@
-craftingTable.addShaped("commandblock", <item:minecraft:command_block> * 1, [[<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>], [<tag:items:minecraft:planks>, <item:minecraft:stone_button>, <tag:items:minecraft:planks>], [<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>]]);
