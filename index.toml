@@ -490,6 +490,36 @@ file = "global_packs/required_resources/StagelightSMP/pack.png"
 hash = "cb6f0a584cba8053c0c55041e634c087c91220a981cc37116260bf03862d1ec1"
 
 [[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "9dd3563341d313147558b690e07cd6750889c914a0a5545cc3890cad69c599ba"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
+hash = "d762ef657a935ae6e5ed02b7494ebcf42d13d764151ac823e68993a348cec705"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "9a94bb3b836d1e9ece04c944df3fbdf4a651089cabc14d3be1811c13cad3576e"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-player.pw.toml"
+hash = "adeb4ffa3f104ebd93166f75828cbad4ef5673a395686a0d73b5c6b804a4df16"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
+hash = "2e5d69fb5bafd9d0caf2806b47653d9fb4ce57415aeab11cc25d032f0afece00"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks.pw.toml"
+hash = "b679e9e1defb09c9c5820c0d0ca1c3e60d72b9b6e380043336613cbd305246ea"
+metafile = true
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "e6a180ebb5b058ee15766422e6630b5aee7d10b3f33e4fd3ec8291b5d8e646b3"
 metafile = true
@@ -1135,6 +1165,11 @@ hash = "3e7972e002c83cec1c92da444fed68ec30dcc36db0c8812d0431c81d33467c00"
 metafile = true
 
 [[files]]
+file = "mods/jumpoverfences.pw.toml"
+hash = "e0624c88157da176fd7e6e8f689b07e80ec3fbadb5cc8c61d313fb54783a62a0"
+metafile = true
+
+[[files]]
 file = "mods/just-ctgui.pw.toml"
 hash = "668e66e4f6d83d42f13b4d092565f9df5d968eee75459e1007ea3441c40d5cac"
 metafile = true
@@ -1616,7 +1651,7 @@ metafile = true
 
 [[files]]
 file = "mods/stagelight.pw.toml"
-hash = "5db895454401781db0be2a1f58ed41fbb60d67e460c1ff8fa02e71e87e9b8bf7"
+hash = "2c3876f2cacf0097bf2a53955137ca278da88803c684ffc4a97dc06054049973"
 metafile = true
 
 [[files]]
