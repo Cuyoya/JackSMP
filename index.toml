@@ -1595,6 +1595,11 @@ hash = "e3f0ce6f3de5b413488fae0677a6bfb313e636c080f3bb1e20aec3de03a4d732"
 metafile = true
 
 [[files]]
+file = "mods/slsmp.pw.toml"
+hash = "d02f32a53f0ef8c3b31d4e0fbe5307c586d22ebe45fc55f215c9fa223aeb0cb7"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
 metafile = true

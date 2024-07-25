@@ -1,0 +1,7 @@
+name = "slsmp"
+filename = "slsmp-1.0-SNAPSHOT.jar"
+
+[download]
+url = "https://maven.martmists.com/snapshots/com/martmists/slsmp/slsmp-1.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "1422d67599ec245f53eb6580f63e0902f85aab84227fa4b0ad3f888460cb4ba0"
