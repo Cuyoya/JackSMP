@@ -1,7 +1,13 @@
-name = "structure-control-utility"
-filename = "structurecontrolutility-1.20-46.1.3.jar"
+name = "Structure Control Utility"
+filename = "structurecontrolutility-1.20-46.1.2.jar"
+side = "both"
 
 [download]
-url = "https://mediafilez.forgecdn.net/files/5542/544/structurecontrolutility-1.20-46.1.3.jar"
-hash-format = "sha256"
-hash = "8e3db188e307f41e69c0e702eda46f02d4a9f759715f492f527e9d33ee540461"
+hash-format = "sha1"
+hash = "784632484a2ba70946f037d7795d67176984fa2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4615066
+project-id = 766960
