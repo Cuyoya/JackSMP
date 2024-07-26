@@ -1,0 +1,1 @@
+craftingTable.addShaped("goldmachete", <item:nethersdelight:golden_machete> * 1, [[<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>], [<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:air>], [<item:stagelight:blade_hilt>, <item:minecraft:air>, <item:minecraft:air>]]);

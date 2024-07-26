@@ -309,4 +309,14 @@
       "head"
     ]
   },
+  {
+        "name": "sockshat",
+        "model_id": "bounce_styles:sockshatgeo.json",
+        "texture_id": "bounce_styles:sockshat.png",
+        "animation_id": "bounce_styles:socksv2hat_animation.json",
+        "slots": [
+            "head"
+        ],
+        "hidden_parts": []
+  },
 ]
