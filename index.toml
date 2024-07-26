@@ -10734,6 +10734,10 @@ hash = "b062f3d3717d82a0359fbf09472339e7080026fce69fc4a6d136ac8266b9e6ec"
 metafile = true
 
 [[files]]
+file = "styles/Alan.zip"
+hash = "478724bae22b6d95dd08580c7cb4a3066a7d2dbcb3cdd8eecedb40ea3b2e7b7f"
+
+[[files]]
 file = "styles/Choco.zip"
 hash = "222e285ae5e472e5d721561f577337877037de3a0fdcc1e9956044cd9df95a63"
 
@@ -10748,6 +10752,10 @@ hash = "93831b311ea1d39800d768ae0b2f3558f1cc699a1f6647005869b1c9cd126107"
 [[files]]
 file = "styles/Guts.zip"
 hash = "616cb8647b8e7bb25c84b70e7c776ee0982b372fa1aef31e04e8088fafe08307"
+
+[[files]]
+file = "styles/MyusagiiBunnyEars.zip"
+hash = "35bc71b7fdc55173a0b9afb530e53f2de36d4068699a4514c5808af5735be3ab"
 
 [[files]]
 file = "styles/Oni.zip"
@@ -10795,4 +10803,4 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "0ebb73570cfa2c04b92308128a05383c7b0caed7231bf840f6f3f87952488f7b"
+hash = "4251cb1d93f57166973fdcfaeefa7c4250652227af166a6b6c067efb3e0a1c93"
