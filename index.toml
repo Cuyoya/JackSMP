@@ -2024,7 +2024,7 @@ hash = "879fe7636896ca5ae39a4c343e548ad889b3d15527f797782fd519dc595852b0"
 
 [[files]]
 file = "scripts/Artificer Recipes/bOkEscapeThisRope.zs"
-hash = "6e7f198304aaac81d194227cccfba7727e5705527bee01fdac10011bcd686574"
+hash = "8305347faa2e0225e068ea392c1810a487aa492e07e11e54bbb1802bc9404796"
 
 [[files]]
 file = "scripts/Artificer Recipes/bOkFineBeacon.zs"
@@ -2108,11 +2108,11 @@ hash = "f30bbf290289f266e6aa766ea264922393a7b48d11c2c055bb583b8000807a25"
 
 [[files]]
 file = "scripts/Backpacks/generated3.zs"
-hash = "6d18c27966c27373877a4367ef200aa905ff458ad0f060ef7ff4057bad6ccda7"
+hash = "e3e74ffb1cce926a2efa5af930c5022e10b57cfb6a43b787bafc1031c5b58d9f"
 
 [[files]]
 file = "scripts/Backpacks/generated4.zs"
-hash = "0e18019d47dad50c859ed11b3ea0c0f2a76e62cd9d193ac41856d0313055b060"
+hash = "54aaf0f80f4397cea406f70fb32d39a92a4d3d176aab3e14f0fa787b9caeb2c3"
 
 [[files]]
 file = "scripts/Backpacks/generated6.zs"
@@ -9047,6 +9047,14 @@ file = "scripts/chestfix.zs"
 hash = "bfc48b7edc9b513e2c1e0a550aecf1fbf2bceb23723800a6624e8ee045fabcc3"
 
 [[files]]
+file = "scripts/generated0.zs"
+hash = "cb49818fc368cb7e2dc03e92c6bde2d4a8c6338e01bd427fccb6a7e0baf2896f"
+
+[[files]]
+file = "scripts/generated1.zs"
+hash = "28d999084d7e76b28b13ac8ce40c31ff0f834c1e93dd2ea028a1c7fab86a2ef2"
+
+[[files]]
 file = "scripts/horsearmor/NoWolf.zs"
 hash = "6cdb666dfd7bffa4e3a64a6bf3ba78d9528debb4e6b3714538993cd8333e41a7"
 
@@ -9227,6 +9235,10 @@ file = "scripts/idk Blacksmith stuff/aDiamondExcavator.zs"
 hash = "46dc9b0d8065b180472f52b0ebb608fca8b742b71db834ce6c7a4916e383a771"
 
 [[files]]
+file = "scripts/idk Blacksmith stuff/aDiamondMachete.zs"
+hash = "656eb8d96f5e4e8c7c8ad82c00147b895960bfa03132df85939e08725edcd6a6"
+
+[[files]]
 file = "scripts/idk Blacksmith stuff/aDiamondPick.zs"
 hash = "637404e00c662a9d679c62a1963a1bbae2f7ca8cfc90fe2f492d01b7512cd492"
 
@@ -9307,6 +9319,10 @@ file = "scripts/idk Blacksmith stuff/aGoldExcavator.zs"
 hash = "5eea514765f6ce7a2cf00e30bac723f067a7b533f01bdcedd0de9f74de04894f"
 
 [[files]]
+file = "scripts/idk Blacksmith stuff/aGoldMachete.zs"
+hash = "6eed7b4e8afcaf143c1b8578a8031f9e33191ef27cce41a4ff73ffbd560b746c"
+
+[[files]]
 file = "scripts/idk Blacksmith stuff/aGoldPick.zs"
 hash = "49cc5affd82e00aa3ac1f5db1e114de7d16c6336f786fb1d57eb491029c53724"
 
@@ -9377,6 +9393,10 @@ hash = "4d8c4aaf2b70ffdfc567c5efed976f68868914a9d1840b9eea6c42b88723f031"
 [[files]]
 file = "scripts/idk Blacksmith stuff/aIronExcavator.zs"
 hash = "5cd8df7ddd8230b946d97e7a49f8a82369ca9586d9dffe3030c04e54b9e946c1"
+
+[[files]]
+file = "scripts/idk Blacksmith stuff/aIronMachete.zs"
+hash = "ea83f36bf9fa27b076497c77e704dcf851e587a4f8ddbc5a506b0d4a65100c55"
 
 [[files]]
 file = "scripts/idk Blacksmith stuff/aIronPick.zs"
@@ -9931,6 +9951,10 @@ file = "scripts/idk Blacksmith stuff/bDiamondExcavator.zs"
 hash = "a89ce65d5923084fbc4e21a3939deb9fb6b4abc5dd430999ea88cc7b58abf22d"
 
 [[files]]
+file = "scripts/idk Blacksmith stuff/bDiamondMachete.zs"
+hash = "3ebc6aac3c547c52d9e95fa315bc0440e4295fff665792c0776dcd2c5ab93f65"
+
+[[files]]
 file = "scripts/idk Blacksmith stuff/bDiamondPick.zs"
 hash = "e7e2f12c6f9c0fee280900bf6d67a2a2169dc25c8e8e7de72667eec76aac662a"
 
@@ -10017,6 +10041,10 @@ hash = "52a6fcd48918ad3aa6400556952c8b6efa93cbb51503890dd43e2c6fea3c8a29"
 [[files]]
 file = "scripts/idk Blacksmith stuff/bGOldExcavtrors.zs"
 hash = "b2748dd6af88e7f2352f82e515b9140bbb1c816e0c687432620bc3b9990585a0"
+
+[[files]]
+file = "scripts/idk Blacksmith stuff/bGoldMachete.zs"
+hash = "02f07cf0e9521c6c8ca511f1f0338f936dbde7faaaa298acba887e9dd010838e"
 
 [[files]]
 file = "scripts/idk Blacksmith stuff/bGoldPick.zs"
@@ -10125,6 +10153,10 @@ hash = "72e817d640d75fa26b46a627c457eca6f47c77a3be3f6d809086ac8b286f98e9"
 [[files]]
 file = "scripts/idk Blacksmith stuff/bIronHelm2.zs"
 hash = "b163c0994e780814501142c5ade56f2149ffb3c66eaadfacf6674fbb248672ec"
+
+[[files]]
+file = "scripts/idk Blacksmith stuff/bIronMachete.zs"
+hash = "b76e8aa85ae2a780bb4159c51dca8ab911019b30f84a1aff836651c4b3c74aa4"
 
 [[files]]
 file = "scripts/idk Blacksmith stuff/bIronPant2.zs"
@@ -10738,6 +10770,10 @@ file = "styles/Spotlight SMP Styles - Vchiiban & Ross.zip"
 hash = "ae98624a2db0050c9849e6fc1cf1b7562b84d25ef7db05b55d7b73a4dbcaaa1c"
 
 [[files]]
+file = "styles/Stagelight SMP Styles 2.zip"
+hash = "23c8002ccb05c826dcb240c874bded4b4859de04f51464344fd0a85f6cba67d4"
+
+[[files]]
 file = "styles/Ushimama.zip"
 hash = "172afba84051d4211fbd4a926c96521fa0e89d4ce58ebdc802358dce22f02f52"
 
@@ -10754,5 +10790,9 @@ file = "styles/presets.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "styles/sockshat.zip"
+hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
+
+[[files]]
 file = "styles/styles.json"
-hash = "200628cd3cd9e6383c0b76c23cc9348ec3ab38832ad33e78d1bb98c452afeb6e"
+hash = "0ebb73570cfa2c04b92308128a05383c7b0caed7231bf840f6f3f87952488f7b"
