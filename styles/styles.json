@@ -414,4 +414,16 @@
       "legs"
     ]
   },
+  {
+    "name": "myubunnyears",
+    "animation_id": "bounce_styles:myubunnyear_idle.animation.json",
+    "animations":{
+      "idle": "idle"
+    },
+    "hidden_parts": [
+    ],
+    "slots": [
+      "head"
+    ]
+  },
 ]
