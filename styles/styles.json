@@ -319,4 +319,83 @@
         ],
         "hidden_parts": []
   },
+  {
+    "name": "giwi",
+    "model_id": "bounce_styles:giwi.geo.json",
+    "texture_id": "bounce_styles:giwi.png",
+    "animation_id": "bounce_styles:giwi.animation.json",
+    "transition_ticks": 0,
+    "animations": {
+      "idle": "idle",
+      "walking": "walking",
+      "sneaking": "idle",
+      "sprinting": "sprinting"
+    },
+    "slots": [
+      "body",
+      "head",
+      "feet"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "giwi_horns",
+    "model_id": "bounce_styles:giwi_horns.geo.json",
+    "texture_id": "bounce_styles:giwi_horns.png",
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "giwi_glasses",
+    "model_id": "bounce_styles:giwi_glasses.geo.json",
+    "texture_id": "bounce_styles:giwi_glasses.png",
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "basil",
+    "model_id": "bounce_styles:basil_woof_armour.geo.json",
+    "texture_id": "bounce_styles:basil_woof_armour.png",
+    "animation_id": "bounce_styles:basil_woof_armour.animation.json",
+    "transition_ticks": 0,
+    "animations": {
+      "idle": "animation.basilwoof.idle",
+      "walking": "animation.basilwoof.walk",
+      "sneaking": "animation.basilwoof.sneak",
+      "sprinting": "animation.basilwoof.sprint",
+      "swimming": "animation.basilwoof.swim",
+      "flying": "animation.basilwoof.fly",
+      "in_air": "animation.basilwoof.air"
+    },
+    "slots": [
+      "head",
+      "body"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "porcelainmaid",
+    "model_id": "bounce_styles:porcelainmaid.geo.json",
+    "texture_id": "bounce_styles:porcelainmaid.png",
+    "animation_id": "bounce_styles:porcelainmaid.animation.json",
+    "transition_ticks": 0,
+    "animations": {
+      "idle": "animation.porcelainmaid.idle",
+      "walking": "animation.porcelainmaid.walk",
+      "sneaking": "animation.porcelainmaid.sneak",
+      "sprinting": "animation.porcelainmaid.sprint",
+      "swimming": "animation.porcelainmaid.swim",
+      "flying": "animation.porcelainmaid.fly",
+      "in_air": "animation.porcelainmaid.air"
+    },
+    "slots": [
+      "head",
+      "body"
+    ],
+    "hidden_parts": []
+  }
 ]
