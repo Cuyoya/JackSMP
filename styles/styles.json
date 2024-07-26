@@ -398,4 +398,20 @@
     ],
     "hidden_parts": []
   }
+  {
+    "name": "alan",
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body",
+      "legs"
+    ]
+  },
 ]
