@@ -970,6 +970,11 @@ hash = "25fa919ea97a60c39737bdd490e3a8f78361f42416453d83bd9a291908b821b2"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
 file = "mods/faster-random.pw.toml"
 hash = "ae7ba033346addd01dc16da33303dbaea2e65ffdac09deb49fdcb7bdc4f3cb49"
 metafile = true
@@ -1377,6 +1382,11 @@ metafile = true
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 hash = "122054d77a8136a7bcbaaed48dbfb90cdcf14ed4e7cb11c668dd76aee37dc890"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
 metafile = true
 
 [[files]]
