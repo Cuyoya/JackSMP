@@ -1,0 +1,304 @@
+[
+  {
+    "name": "shinominya",
+    "animation_id": "bounce_styles:shinominya.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sneaking": "crouch",
+      "sprinting": "run"
+    },
+    "hidden_parts": [
+    ],
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "shinofox",
+    "animation_id": "bounce_styles:shinofox.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sprinting": "run",
+      "sneaking": "sneak",
+      "in_air": "jump",
+      "swimming": "swim"
+    },
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "popcorn",
+    "animation_id": "bounce_styles:popcorn.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sprinting": "run"
+    },
+    "hidden_parts": [],
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "doge",
+    "animation_id": "bounce_styles:doge.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sprinting": "run",
+      "sneaking": "sneak"
+    },
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "ushi",
+    "model_id": "bounce_styles:ushi.geo.json",
+    "texture_id": "bounce_styles:ushi.png",
+    "animation_id": "bounce_styles:ushi.animation.json",
+    "animations": {
+      "idle": "idle",
+      "walking": "walk"
+    },
+    "slots": [
+	  "head",
+      "body"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "wiggler",
+    "animation_id": "bounce_styles:wiggler.animation.json",
+    "animations":{
+      "walking": "walk",
+      "sprinting": "run",
+      "idle": "idle"
+    },
+    "hidden_parts": [
+      "head"
+    ],
+    "slots": [
+      "head"
+    ]
+  },
+  {
+    "name": "oni",
+    "animation_id": "bounce_styles:oni.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sprinting": "run"
+    },
+    "hidden_parts": [
+    ],
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "guts",
+    "animation_id": "bounce_styles:guts.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sprinting": "run"
+    },
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "dogears",
+    "animation_id": "bounce_styles:dogears.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk"
+    },
+    "slots": [
+      "head"
+    ]
+  },
+  {
+    "name": "oversized_yiay_tshirt",
+    "model_id": "bounce_styles:oversized_yiay_tshirt.geo.json",
+    "texture_id": "bounce_styles:oversized_yiay_tshirt.png",
+    "slots": [
+        "body"
+    ],
+        "hidden_parts": []
+    },
+	{
+    "name": "buff_nojacket",
+    "model_id": "bounce_styles:buffpupv4_nojacket.geo.json",
+    "texture_id": "bounce_styles:buffpupv4.png",
+    "animation_id": "bounce_styles:buffpup.animation.json",
+    "transition_ticks": 0,
+    "animations": {
+      "idle": "idle",
+      "walking": "walk",
+      "sneaking": "crouch",
+      "sprinting": "run",
+      "swimming": "swim",
+      "in_air": "jump"
+    },
+    "slots": [
+      "body"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "buff",
+    "model_id": "bounce_styles:buffpupv4.geo.json",
+    "texture_id": "bounce_styles:buffpupv4.png",
+    "animation_id": "bounce_styles:buffpup.animation.json",
+    "transition_ticks": 0,
+    "animations": {
+      "idle": "idle",
+      "walking": "walk",
+      "sneaking": "crouch",
+      "sprinting": "run",
+      "swimming": "swim",
+      "in_air": "jump"
+    },
+    "slots": [
+      "head",
+      "body"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "buff_wolf",
+    "model_id": "bounce_styles:buffpupv_wolfv4.geo.json",
+    "texture_id": "bounce_styles:buffpup_wolfv4.png",
+    "animation_id": "bounce_styles:buffpup.animation.json",
+    "transition_ticks": 0,
+    "animations": {
+      "idle": "idle",
+      "walking": "walk",
+      "sneaking": "crouch",
+      "sprinting": "run",
+      "swimming": "swim",
+      "in_air": "jump"
+    },
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "buffpup_ears",
+    "model_id": "bounce_styles:buffpup_ears.geo.json",
+    "texture_id": "bounce_styles:buffpupears.png",
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "aicandii_horns",
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "aicandii",
+    "model_id": "bounce_styles:aicandii_customv6.geo.json",
+    "texture_id": "bounce_styles:candii_customv6.png",
+    "slots": [
+      "head",
+      "body"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "rose_hat",
+    "model_id": "bounce_styles:rose.geo.json",
+    "texture_id": "bounce_styles:rose.png",
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "rosstril",
+    "animation_id": "bounce_styles:rosstril.animation.json",
+    "transition_ticks": 0,
+    "animations": {
+      "sneaking": "crouch"
+    },
+    "slots": [
+      "body",
+      "head",
+      "legs"
+    ],
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ]
+  },
+  {
+    "name": "ross_horns",
+    "model_id": "bounce_styles:ross.geo.json",
+    "texture_id": "bounce_styles:ross.png",
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "chainsaw_man_helmet",
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "shiaears",
+    "texture_id": "bounce_styles:shia_ears.png",
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "ross_new",
+    "model_id": "bounce_styles:ross_new.geo.json",
+    "texture_id": "bounce_styles:ross_styles.png",
+    "slots": [
+      "head",
+      "body"
+    ],
+    "hidden_parts": []
+  },
+]
