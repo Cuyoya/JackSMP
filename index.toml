@@ -49,6 +49,10 @@ file = "config/defaultoptions/config/veinmining-client.toml"
 hash = "22bf73ba5e168ffca17b4b0465b803bfe65109d8414eab0f9fa16228483e38c3"
 
 [[files]]
+file = "config/defaultoptions/config/xaerominimap-common.txt"
+hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
+
+[[files]]
 file = "config/defaultoptions/config/xaerominimap.txt"
 hash = "97494cd76fe01407df2ad3e25206eef5b0027ae0276e9f9e812930c91583b55c"
 
@@ -62,11 +66,11 @@ hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "55dc54a6d9afba1855efa2d90a9174dc68eb5ffe7977847dae928924da969c38"
+hash = "1cc430ed43b11bd891d318910c3424e973821a8085a0ec7efe47420a9993e4ab"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "50cabff8b53e691c5cf7abe43acf76d01c5e57369f9c265c048fe92b3b848577"
+hash = "aa37c6e856235f2cb99484302a72c6e4c0767414179c5e8dcacc806d80594884"
 
 [[files]]
 file = "config/easy_npc/easy_npc-common.toml"
