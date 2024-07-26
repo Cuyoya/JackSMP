@@ -10754,6 +10754,10 @@ file = "styles/Guts.zip"
 hash = "616cb8647b8e7bb25c84b70e7c776ee0982b372fa1aef31e04e8088fafe08307"
 
 [[files]]
+file = "styles/MyusagiiBunnyEars.zip"
+hash = "35bc71b7fdc55173a0b9afb530e53f2de36d4068699a4514c5808af5735be3ab"
+
+[[files]]
 file = "styles/Oni.zip"
 hash = "97f5f992670e7405cefb91015a2756109bfe0d34f338c569182a24e0d92bcd5e"
 
@@ -10799,4 +10803,4 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "e2959a218fefd7f5a50cbae3cce93e347ffdbbaf56a0697d1ac0538b0b12b0ab"
+hash = "4251cb1d93f57166973fdcfaeefa7c4250652227af166a6b6c067efb3e0a1c93"
