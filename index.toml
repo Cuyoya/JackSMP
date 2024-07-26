@@ -10746,6 +10746,10 @@ file = "styles/Choco.zip"
 hash = "222e285ae5e472e5d721561f577337877037de3a0fdcc1e9956044cd9df95a63"
 
 [[files]]
+file = "styles/ChocoGremlin.zip"
+hash = "e29c3ebf57be2962e0e86a2593e2579dcd9c2626ee6ed342e82b88c7153c1969"
+
+[[files]]
 file = "styles/DogEars.zip"
 hash = "385bcaee5b45607c8a0b49b08155b109d29bc6b7c74950fa204eff0b25e1ebff"
 
@@ -10807,4 +10811,4 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "4251cb1d93f57166973fdcfaeefa7c4250652227af166a6b6c067efb3e0a1c93"
+hash = "7206eb2860ad5f91632f54fe6997a5ee12cbb63c71622c33d60d2724e4346a56"
