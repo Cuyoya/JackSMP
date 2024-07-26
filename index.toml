@@ -1676,7 +1676,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-control-utility.pw.toml"
-hash = "38c2f138c42d7970efbed527cedebbeb7e0b56b34b6344f41d590a73aed8affe"
+hash = "6740cba7898af921362994f31a954e9fa70fd1dda1f910c02600a200269a1d20"
 metafile = true
 
 [[files]]
