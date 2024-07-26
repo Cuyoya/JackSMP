@@ -301,4 +301,12 @@
     ],
     "hidden_parts": []
   },
+  {
+    "name": "chocohead",
+    "hidden_parts": [
+    ],
+    "slots": [
+      "head"
+    ]
+  },
 ]
