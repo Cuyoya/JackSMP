@@ -26,7 +26,7 @@ hash = "1158136d56415420939caf28d25f4748966e9e7822f8bc06727348842717c1c5"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "cb3e8465a82ee3b5ddf7722d1fe05519a5b11291066aee58b986ff591d4e88d9"
+hash = "be59849095ac7cea8b75d5275d4a9d2f90355b178a4140412b17fc9a19e72693"
 
 [[files]]
 file = "config/defaultoptions/config/MouseTweaks.cfg"
