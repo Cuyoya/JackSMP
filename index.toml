@@ -10871,6 +10871,10 @@ file = "styles/Stagelight SMP Styles 2.zip"
 hash = "23c8002ccb05c826dcb240c874bded4b4859de04f51464344fd0a85f6cba67d4"
 
 [[files]]
+file = "styles/Stagelight SMP Styles 3.zip"
+hash = "eaa2bf3d94bbca1cd38e9d3451eff48b12a34484c424c62391480f2627a334dc"
+
+[[files]]
 file = "styles/Ushimama.zip"
 hash = "172afba84051d4211fbd4a926c96521fa0e89d4ce58ebdc802358dce22f02f52"
 
@@ -10892,4 +10896,4 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "fb6b55cf689510dad7975ad3e52eae9fc01dce441ce8ffd1a3f54d1baafe7caf"
+hash = "aa6d4294a72aad3decf6eaf72842a538bd35c597b1d712955d29c5cbad676751"
