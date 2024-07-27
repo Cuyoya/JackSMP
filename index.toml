@@ -457,6 +457,14 @@ file = "global_packs/required_data/Stagelight SMP Tweaks/pack.mcmeta"
 hash = "2639ae18bc02ad7f8a47bac31d63e44a692ec19aaf2bcf5d12b700a807edc31a"
 
 [[files]]
+file = "global_packs/required_data/minecells fix datapack/data/minecells/structures/overworld_portal.nbt"
+hash = "5c827d618ec88a6c39409237d5a04d9d5a46f619ced6a4bed0f1ae04a7a87b97"
+
+[[files]]
+file = "global_packs/required_data/minecells fix datapack/pack.mcmeta"
+hash = "dde90b5da5695a03b80ed6292ca05176f0172055ac677a8ae52d8cb221ed709f"
+
+[[files]]
 file = "global_packs/required_data/no-mending.pw.toml"
 hash = "b4f622159cfa5a5ba623943bbea2192b308b15a4cd9938d20d68fba396085879"
 metafile = true
@@ -492,6 +500,74 @@ hash = "d32278837d0355b42e44cc0ad13a987efc65775556b128f734329c1586e7ca9a"
 [[files]]
 file = "global_packs/required_resources/StagelightSMP/pack.png"
 hash = "cb6f0a584cba8053c0c55041e634c087c91220a981cc37116260bf03862d1ec1"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/portal_close.json"
+hash = "ddc385c724461c4ccbd2a5e58cda4c5e3837fb76be276b6915902a036cde1924"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/compressable_block.json"
+hash = "3b1929b9214160fea5c9200a6cd87caf49fd98cd5336b92b3f5615e090b9f1ac"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/portal_close.json"
+hash = "ba0c508d13fc8ba302f76a8604ffe78acaf06f83352070a2e9c33b2f1cde5056"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/birch_log_top.png"
+hash = "7127d988e865ddaa53faa23251b8703c3c4003d0f82f35489daee2a39a562c4e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/portal_close.png"
+hash = "79b463511493ef5a3224e63a097246722e76978ea8f9dcb9af7ccddd8ae9416f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tier_i.png"
+hash = "e8e36f43b2c441cb7ddbaf0f78af8f4a49b677f88afd4d862f97c49b38c38bf6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tier_ii.png"
+hash = "e4bb142381282850c2499392877dad4a24cfa3e4ec3ae91b2cafd06ccf0b858b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tier_iii.png"
+hash = "e6673c1a864a4fe2356d476844a339aaad23b2cf0296128279c874ade0e11aa9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tier_iv.png"
+hash = "b847b3b645b77261b180044bfc27b3d7b9fa71ff268c8e8f1c763fd216b1a0be"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tier_ix.png"
+hash = "2433e72158cc0708cec9bfc6a092bd25a44f2d2a04efad7d2a4e3ef392f6ebb2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tier_v.png"
+hash = "60d3646d07b1e0318c23ebf95b22a64fcfe4b0ef3d76cdbffd7dfc20b681421e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tier_vi.png"
+hash = "8cd0b310a42c8baadc5c56becc802359788b995264a58ec35689e2ec6deffd57"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tier_vii.png"
+hash = "dd6e010e5e4fb711a9af98d31288d534221dc31d22bda40513327848166e9daf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tier_viii.png"
+hash = "71525c0c3a17d2f10e91e46f96d3ee6c30d4b763d7b7f6f0dc8d068c2b8d7cc0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/decor_loot.png"
+hash = "465e8db8621bc742e50459614917dc997a2d009a68f617784e9d0640a8c85b24"
+
+[[files]]
+file = "kubejs/server_scripts/minecells_gate.js"
+hash = "d7a393a943ceda85a881e08af1c80a0b5774e923d560772b2ecb07fa55c89c3e"
+
+[[files]]
+file = "kubejs/startup_scripts/portal_closed_block.js"
+hash = "2215de1ae762be833166dccf3c74d64b7fd2269c817625b773f6f693e9f7d919"
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
@@ -565,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
@@ -1214,6 +1290,11 @@ hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "07efd4cf1c3424849a3b79a7213a3655ebdada80fd901dba0cdcae11d1bbb6af"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
 metafile = true
@@ -1575,7 +1656,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
+hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
 
 [[files]]
