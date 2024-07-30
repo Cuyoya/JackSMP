@@ -5,8 +5,8 @@
     "animations":{
       "idle": "idle",
       "walking": "walk",
-      "sneaking": "crouch",
-      "sprinting": "run"
+      "sneaking": "sneak",
+      "sprinting": "sprint"
     },
     "hidden_parts": [
     ],
@@ -21,8 +21,24 @@
     "animations":{
       "idle": "idle",
       "walking": "walk",
-      "sneaking": "crouch",
-      "sprinting": "run"
+      "sneaking": "sneak",
+      "sprinting": "sprint"
+    },
+    "hidden_parts": [
+    ],
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "martmists",
+    "animation_id": "martmists.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sneaking": "sneak",
+      "sprinting": "sprint"
     },
     "hidden_parts": [
     ],
@@ -42,10 +58,10 @@
     "name": "shinominya",
     "animation_id": "bounce_styles:shinominya.animation.json",
     "animations":{
-      "idle": "idle",
-      "walking": "walk",
-      "sneaking": "crouch",
-      "sprinting": "run"
+          "idle": "idle",
+          "walking": "walk",
+          "sneaking": "crouch",
+          "sprinting": "run"
     },
     "hidden_parts": [
     ],
@@ -487,5 +503,5 @@
       "head",
       "body"
     ]
-  },
+  }
 ]

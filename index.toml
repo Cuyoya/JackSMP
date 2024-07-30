@@ -10848,6 +10848,10 @@ file = "styles/KiraKuroto.zip"
 hash = "416cdfd50d5ad775ef0803b23b0ff4255804a64e2e504c9b8683da73d7f83371"
 
 [[files]]
+file = "styles/Martmists.zip"
+hash = "9912e13d5d76776007db3bfa7303e7e40925bb1c0bdb71cbee809bb8508d5b7f"
+
+[[files]]
 file = "styles/MyusagiiBunnyEars.zip"
 hash = "35bc71b7fdc55173a0b9afb530e53f2de36d4068699a4514c5808af5735be3ab"
 
@@ -10905,4 +10909,4 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "3e189b55034b78e214a77bf180e5da51e2831b8df7a940f9c48d6bf4a771f9de"
+hash = "3ba35653af47e313c4b004730f3b161463b79bc2371cf4753c2820761492957a"
