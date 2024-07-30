@@ -5,10 +5,6 @@ file = "config/Advancedperipherals/world.toml"
 hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
 
 [[files]]
-file = "config/MythicMountsConfig.json"
-hash = "e30c792e9e73473aa9bf50ab50e3a83875e92cb57c7e94914cc33a2c27643527"
-
-[[files]]
 file = "config/alexsmobs.toml"
 hash = "8b7791bee8611f4062ef42a702b5589fd84f60e3137078ae9f8e34c3f383e5d8"
 
@@ -10848,6 +10844,10 @@ file = "styles/Guts.zip"
 hash = "616cb8647b8e7bb25c84b70e7c776ee0982b372fa1aef31e04e8088fafe08307"
 
 [[files]]
+file = "styles/KiraKuroto.zip"
+hash = "a54d000e72c9eb13db364e1507511f7c457c8075ffb65804492574318594c870"
+
+[[files]]
 file = "styles/MyusagiiBunnyEars.zip"
 hash = "35bc71b7fdc55173a0b9afb530e53f2de36d4068699a4514c5808af5735be3ab"
 
@@ -10858,6 +10858,10 @@ hash = "97f5f992670e7405cefb91015a2756109bfe0d34f338c569182a24e0d92bcd5e"
 [[files]]
 file = "styles/Popcorn.zip"
 hash = "541ef9cc639d099c211cd4bd2462d0cdbabd0cd019bcfc1129b0a8ae67485e62"
+
+[[files]]
+file = "styles/Shii_Hiromata.zip"
+hash = "9a4273b5c0f8bf4ba6e2dbd73982de0edfa1435affa298ba0bfb131fb009c2a4"
 
 [[files]]
 file = "styles/ShinoFox.zip"
@@ -10901,4 +10905,4 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "aa6d4294a72aad3decf6eaf72842a538bd35c597b1d712955d29c5cbad676751"
+hash = "3e189b55034b78e214a77bf180e5da51e2831b8df7a940f9c48d6bf4a771f9de"
