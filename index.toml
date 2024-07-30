@@ -26,7 +26,7 @@ hash = "1158136d56415420939caf28d25f4748966e9e7822f8bc06727348842717c1c5"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "cb3e8465a82ee3b5ddf7722d1fe05519a5b11291066aee58b986ff591d4e88d9"
+hash = "be59849095ac7cea8b75d5275d4a9d2f90355b178a4140412b17fc9a19e72693"
 
 [[files]]
 file = "config/defaultoptions/config/MouseTweaks.cfg"
@@ -570,6 +570,11 @@ file = "kubejs/startup_scripts/portal_closed_block.js"
 hash = "2215de1ae762be833166dccf3c74d64b7fd2269c817625b773f6f693e9f7d919"
 
 [[files]]
+file = "mods/achievements-optimizer.pw.toml"
+hash = "2b55b29e563c7bdd3879e67e70816a48640071ba7927bb8294dcfaff94738677"
+metafile = true
+
+[[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
 hash = "9dd3563341d313147558b690e07cd6750889c914a0a5545cc3890cad69c599ba"
 metafile = true
@@ -1096,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "5203d9b655e72ba5eff9cfb9ad0945788b4852dc76e717a28ce4a59bc2a69560"
+hash = "a4639b27eb4d85c398f8b51b6efb7be40caf2a2cb9622bce9c60439d35ff8f67"
 metafile = true
 
 [[files]]
