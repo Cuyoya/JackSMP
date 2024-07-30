@@ -1,5 +1,37 @@
 [
   {
+    "name": "kirakuroto",
+    "animation_id": "bounce_styles:kirakuroto.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sneaking": "crouch",
+      "sprinting": "run"
+    },
+    "hidden_parts": [
+    ],
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "shii_hiromata",
+    "animation_id": "shii_hiromata.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sneaking": "crouch",
+      "sprinting": "run"
+    },
+    "hidden_parts": [
+    ],
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
     "name": "strippin_hat",
     "slots": [
       "head"
