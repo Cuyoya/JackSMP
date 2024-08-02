@@ -2905,6 +2905,10 @@ file = "scripts/Bridges/gsegsegseaaa.zs"
 hash = "cbd208102f7990799da448a21d55839d5abcd610256abd4028748aa22d2b988c"
 
 [[files]]
+file = "scripts/Cage.zs"
+hash = "28d999084d7e76b28b13ac8ce40c31ff0f834c1e93dd2ea028a1c7fab86a2ef2"
+
+[[files]]
 file = "scripts/Carpenter Recipes/!acarpenter_tags.zs"
 hash = "f39f3471380afca0ce87742ea9d402e20f4118b0ed7f02eb1dff1c8977e7f8bf"
 
@@ -3074,7 +3078,7 @@ hash = "3390382c8312daea70b7186b5053ccf4de20332bfc29f2470d6c7e5763e452e2"
 
 [[files]]
 file = "scripts/Carpenter Recipes/bStonecutter.zs"
-hash = "31e2b60927196cfaad6a5c9ab7ec2da943a97a4fc38d46c631f60af121c1c5b7"
+hash = "c2bf2aa5f96495ba6d667406a4bb7297e899ca48a64c4e466a42a74f9c3be53f"
 
 [[files]]
 file = "scripts/Carpenter Recipes/bToilerPaperHolder.zs"
@@ -4031,6 +4035,10 @@ hash = "7ca62dfa751e98e3d52521fb73887500d1ed079843fffde303b8b54e82a20fca"
 [[files]]
 file = "scripts/Copper/bCopperSword.zs"
 hash = "8039761786fa61da3b00dc3c411455f096b8cdf3735cf4d8dbe8d1e9f2d73133"
+
+[[files]]
+file = "scripts/Crafter.zs"
+hash = "cb49818fc368cb7e2dc03e92c6bde2d4a8c6338e01bd427fccb6a7e0baf2896f"
 
 [[files]]
 file = "scripts/Decorative Blocks/aRemovalDecorativeBlocks.zs"
@@ -7338,7 +7346,7 @@ hash = "4eb2b516f21219116ef919c1327dd7f31c4949e74cdb28bf39d83e867fd1dd4e"
 
 [[files]]
 file = "scripts/Misc/bDurasteelEngine.zs"
-hash = "519107ae54578bc84fe8edb2d8cdad8ff9113659aa18a822002194c43e61fb93"
+hash = "100f702ddc57cadda0d7c93621fb6933fce8ced612fcbad7bc32e64a24834354"
 
 [[files]]
 file = "scripts/Misc/bEarthdive.zs"
@@ -9133,14 +9141,6 @@ file = "scripts/chestfix.zs"
 hash = "bfc48b7edc9b513e2c1e0a550aecf1fbf2bceb23723800a6624e8ee045fabcc3"
 
 [[files]]
-file = "scripts/generated0.zs"
-hash = "cb49818fc368cb7e2dc03e92c6bde2d4a8c6338e01bd427fccb6a7e0baf2896f"
-
-[[files]]
-file = "scripts/generated1.zs"
-hash = "28d999084d7e76b28b13ac8ce40c31ff0f834c1e93dd2ea028a1c7fab86a2ef2"
-
-[[files]]
 file = "scripts/horsearmor/NoWolf.zs"
 hash = "6cdb666dfd7bffa4e3a64a6bf3ba78d9528debb4e6b3714538993cd8333e41a7"
 
@@ -9315,6 +9315,10 @@ hash = "4c2f1fd5c83981a07f40b7adb549b02ba958254ce15bf2639022430a0be4412e"
 [[files]]
 file = "scripts/idk Blacksmith stuff/aDankKatana.zs"
 hash = "90770ca902e00ae7696ef58a963059ab742f148c48a8d376a61882bd32f521a9"
+
+[[files]]
+file = "scripts/idk Blacksmith stuff/aDiamondAxe.zs"
+hash = "fc21e53976b6546dd672518b89bf4ca9cca1749ac3afaff3acb5ae56e2a584b3"
 
 [[files]]
 file = "scripts/idk Blacksmith stuff/aDiamondExcavator.zs"
@@ -10031,6 +10035,10 @@ hash = "62609a4c6ba7466fe697c457efc34dce07dee6752167fef2f4b70599b0a65e47"
 [[files]]
 file = "scripts/idk Blacksmith stuff/bDankKatana.zs"
 hash = "52210298552cc657b5dc62c382b748b1038897ce2c9a838c6e532fd4f176dd3e"
+
+[[files]]
+file = "scripts/idk Blacksmith stuff/bDiamondAxe.zs"
+hash = "4a9a08b64e802d30b4c48c6c541b80c3911d27924295c0d6c1ce3d10394d984d"
 
 [[files]]
 file = "scripts/idk Blacksmith stuff/bDiamondExcavator.zs"
@@ -10888,12 +10896,20 @@ file = "styles/Stagelight SMP Styles 3.zip"
 hash = "eaa2bf3d94bbca1cd38e9d3451eff48b12a34484c424c62391480f2627a334dc"
 
 [[files]]
+file = "styles/Succucow.zip"
+hash = "95242a00ee70fb390b474bc6902b02d7eeefe9dedb3aaedd8c58a3f2c7c303a2"
+
+[[files]]
 file = "styles/Ushimama.zip"
 hash = "172afba84051d4211fbd4a926c96521fa0e89d4ce58ebdc802358dce22f02f52"
 
 [[files]]
 file = "styles/Wiggler.zip"
 hash = "ffb796f00c2798b9aa6e20eaf5af88e4a6830613e07cc014349b04138d21bdb9"
+
+[[files]]
+file = "styles/geomimic.zip"
+hash = "8c9e7cab60f4d32c91bc6fd4ffcf1f5da829b4492a00f0611eb64108b8cdf16f"
 
 [[files]]
 file = "styles/oversized_yiay_tshirt.zip"
@@ -10909,4 +10925,4 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "3ba35653af47e313c4b004730f3b161463b79bc2371cf4753c2820761492957a"
+hash = "febea68f39318431ed529a4031effd036747c884376b13c424003511cc4cefb2"
