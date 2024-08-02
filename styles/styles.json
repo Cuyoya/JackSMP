@@ -16,6 +16,44 @@
     ]
   },
   {
+    "name": "geomimic",
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body",
+      "legs"
+    ]
+  },
+  {
+    "name": "succucow",
+    "animation_id": "bounce_styles:succucow.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sneaking": "sneak",
+      "sprinting": "run"
+    },
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
     "name": "shii_hiromata",
     "animation_id": "shii_hiromata.animation.json",
     "animations":{
