@@ -10698,7 +10698,7 @@ hash = "9d0a5abb0794cc5bcccdfcf713b176a375de24ef1c0ebde8b170a51ada6870ff"
 
 [[files]]
 file = "scripts/removeToolsAndArmorLoot.zs"
-hash = "5681b4b150efa18bf88e3f9c492ec726bbd452fc9b85a385a4451ab33ac5d68b"
+hash = "083ec60557d77c57e912a5d92d7fe7aeb00ae0857d2a7596f2a1b06bcbede472"
 
 [[files]]
 file = "scripts/webdisplay/webdisplays (1).zs"
