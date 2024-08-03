@@ -10852,6 +10852,10 @@ file = "styles/Guts.zip"
 hash = "616cb8647b8e7bb25c84b70e7c776ee0982b372fa1aef31e04e8088fafe08307"
 
 [[files]]
+file = "styles/Kira.zip"
+hash = "50a87ec233bf53acee11941a0a3dee1c32f7513eecd0597b1ec47ad950c0deb1"
+
+[[files]]
 file = "styles/KiraKuroto.zip"
 hash = "416cdfd50d5ad775ef0803b23b0ff4255804a64e2e504c9b8683da73d7f83371"
 
@@ -10870,6 +10874,10 @@ hash = "97f5f992670e7405cefb91015a2756109bfe0d34f338c569182a24e0d92bcd5e"
 [[files]]
 file = "styles/Popcorn.zip"
 hash = "541ef9cc639d099c211cd4bd2462d0cdbabd0cd019bcfc1129b0a8ae67485e62"
+
+[[files]]
+file = "styles/PopcornDBH.zip"
+hash = "c2ee158b25dc2a581277988e91612b99d44b249c9048a7c546c033ed6d4696b7"
 
 [[files]]
 file = "styles/Shii_Hiromata.zip"
@@ -10904,12 +10912,16 @@ file = "styles/Ushimama.zip"
 hash = "172afba84051d4211fbd4a926c96521fa0e89d4ce58ebdc802358dce22f02f52"
 
 [[files]]
+file = "styles/Vulpixie.zip"
+hash = "c2faeb24166044183febe054c169930402ac816bf2a5226e1bfb2d9ba0465370"
+
+[[files]]
 file = "styles/Wiggler.zip"
 hash = "ffb796f00c2798b9aa6e20eaf5af88e4a6830613e07cc014349b04138d21bdb9"
 
 [[files]]
 file = "styles/geomimic.zip"
-hash = "8c9e7cab60f4d32c91bc6fd4ffcf1f5da829b4492a00f0611eb64108b8cdf16f"
+hash = "32342cc497ed19e9266a670f9a918ec103d61799c9a0fcd33c16374ba8160abf"
 
 [[files]]
 file = "styles/oversized_yiay_tshirt.zip"
@@ -10925,4 +10937,4 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "febea68f39318431ed529a4031effd036747c884376b13c424003511cc4cefb2"
+hash = "08a18427fe0ae70fd2422ce58bfba3e0bf58724e32c8cf12976c987c856c332a"
