@@ -413,6 +413,10 @@ file = "global_packs/required_data/Stagelight SMP Tweaks/data/minecraft/worldgen
 hash = "0e26a45ab0cd2184e3ae6e8af0680b6bd6cce946554215108613f43e441ea081"
 
 [[files]]
+file = "global_packs/required_data/Stagelight SMP Tweaks/data/numismatic-overhaul/tags/entity_types/the_bourgeoisie.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
 file = "global_packs/required_data/Stagelight SMP Tweaks/data/nuo/advancements/bottom_overworld.json"
 hash = "c95c042e967b4b3862b211956cd557adb2c48770cef42e8663686323f9a8a637"
 
