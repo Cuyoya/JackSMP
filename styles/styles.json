@@ -16,6 +16,19 @@
     ]
   },
   {
+    "name": "kira",
+    "animation_id": "bounce_styles:kira.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sprinting": "sprint"
+    },
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
     "name": "geomimic",
     "hidden_parts": [
       "head",
