@@ -16,6 +16,22 @@
     ]
   },
   {
+    "name": "mimic",
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body",
+      "legs"
+    ]
+  },
+  {
     "name": "vulpixie",
     "animation_id": "bounce_styles:vulpixie.animation.json",
     "animations":{
@@ -49,22 +65,6 @@
     "slots": [
       "head",
       "body"
-    ]
-  },
-  {
-    "name": "geomimic",
-    "hidden_parts": [
-      "head",
-      "body",
-      "left_arm",
-      "right_arm",
-      "left_leg",
-      "right_leg"
-    ],
-    "slots": [
-      "head",
-      "body",
-      "legs"
     ]
   },
   {
