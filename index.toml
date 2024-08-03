@@ -233,14 +233,6 @@ file = "emi.json"
 hash = "8253ead3099c0120856b079cff2c6f368dc791c201156f7bec54bc312d62b853"
 
 [[files]]
-file = "global_packs/required_data/Stagelight SMP Tweaks/data/custom_structures/data/structure_effects/tags/woldgen/structure/applies_effects.json"
-hash = "1a2b4b8adf4ed76687a0c8c6d3f2012894d15b0350a74bb11f58b0eda90e0f1b"
-
-[[files]]
-file = "global_packs/required_data/Stagelight SMP Tweaks/data/custom_structures/pack.mcmeta"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "global_packs/required_data/Stagelight SMP Tweaks/data/endrem/loot_modifiers/abandoned_mineshaft.json"
 hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
 
@@ -451,6 +443,10 @@ hash = "709e081bb8c9167e96e6038ac67c7b5a7fc684880e65ba8facf30831c503290d"
 [[files]]
 file = "global_packs/required_data/Stagelight SMP Tweaks/data/nuo/predicates/top_nether.json"
 hash = "806092ee481fd9c0c8efeca324e3c6a79f26f0e463677aed680edb571885de7d"
+
+[[files]]
+file = "global_packs/required_data/Stagelight SMP Tweaks/data/structure_effects/tags/woldgen/structure/applies_effects.json"
+hash = "a9dda9e52336e19d558e6124e84526189aae0872ad028b3d199eb1e2f11459c1"
 
 [[files]]
 file = "global_packs/required_data/Stagelight SMP Tweaks/pack.mcmeta"
