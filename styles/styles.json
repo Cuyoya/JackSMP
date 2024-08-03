@@ -16,6 +16,29 @@
     ]
   },
   {
+    "name": "vulpixie",
+    "animation_id": "bounce_styles:vulpixie.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sneaking": "sneak",
+      "sprinting": "sprint",
+      "sleeping": "sleeping",
+      "swimming": "swim",
+      "flying": "fly"
+    },
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "popcorndbh",
+    "slots": [
+      "head"
+    ]
+  },
+  {
     "name": "kira",
     "animation_id": "bounce_styles:kira.animation.json",
     "animations":{
