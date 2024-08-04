@@ -10698,7 +10698,7 @@ hash = "9d0a5abb0794cc5bcccdfcf713b176a375de24ef1c0ebde8b170a51ada6870ff"
 
 [[files]]
 file = "scripts/removeToolsAndArmorLoot.zs"
-hash = "083ec60557d77c57e912a5d92d7fe7aeb00ae0857d2a7596f2a1b06bcbede472"
+hash = "eb31cd19423cee702d55017b7e212ccecefb3abfaf5a33cdbc7718d6346231fe"
 
 [[files]]
 file = "scripts/webdisplay/webdisplays (1).zs"
@@ -10848,6 +10848,10 @@ file = "styles/Doge.zip"
 hash = "93831b311ea1d39800d768ae0b2f3558f1cc699a1f6647005869b1c9cd126107"
 
 [[files]]
+file = "styles/Epherma.zip"
+hash = "1bb9196f6b17b7b17ae91e94a6463a4c2d2d36f3306292374723ffdc5d301e78"
+
+[[files]]
 file = "styles/Guts.zip"
 hash = "616cb8647b8e7bb25c84b70e7c776ee0982b372fa1aef31e04e8088fafe08307"
 
@@ -10920,8 +10924,20 @@ file = "styles/Wiggler.zip"
 hash = "ffb796f00c2798b9aa6e20eaf5af88e4a6830613e07cc014349b04138d21bdb9"
 
 [[files]]
-file = "styles/geomimic.zip"
-hash = "32342cc497ed19e9266a670f9a918ec103d61799c9a0fcd33c16374ba8160abf"
+file = "styles/boonwarchan.zip"
+hash = "f969735ac891ba3b5ad450fb56df803e2d3c8fe3137b8de6f0570c7f3cc7b83a"
+
+[[files]]
+file = "styles/chancyclown.zip"
+hash = "e1528906ed4ac1f1a56984ac61c4057b5b458d5b946984052d801ecbbe8884ac"
+
+[[files]]
+file = "styles/chancymimic.zip"
+hash = "3e8663505a884f5b96ec9c77701f4377a4bc29536b038808b6306f077f672b2b"
+
+[[files]]
+file = "styles/chancynecoarc.zip"
+hash = "f13e58399f4b0d056599a50972f3b10f60841923af91471beb54b3c05470b689"
 
 [[files]]
 file = "styles/oversized_yiay_tshirt.zip"
@@ -10937,4 +10953,4 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "08a18427fe0ae70fd2422ce58bfba3e0bf58724e32c8cf12976c987c856c332a"
+hash = "493cca8fa0ee9d42480f725d953a73f147848fba33d2321280b873ad7b82fa9c"
