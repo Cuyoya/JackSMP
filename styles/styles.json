@@ -16,6 +16,68 @@
     ]
   },
   {
+    "name": "necoarc",
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body",
+      "legs"
+    ]
+  },
+  {
+    "name": "clown",
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body",
+      "legs"
+    ]
+  },
+  {
+    "name": "epherma",
+    "animation_id": "bounce_styles:epherma.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sprinting": "run",
+      "sneaking": "sneak"
+    },
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "warchan",
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body",
+      "legs"
+    ]
+  },
+  {
     "name": "mimic",
     "hidden_parts": [
       "head",
