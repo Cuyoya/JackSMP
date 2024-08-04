@@ -1,0 +1,7 @@
+name = "bountiful-patched"
+filename = "Bountiful-6.0.3+1.20.1-fabric.jar"
+
+[download]
+url = "https://maven.martmists.com/snapshots/io/ejekta/bountiful/Bountiful-6.0.3+1.20.1-fabric.jar"
+hash-format = "sha256"
+hash = "57f9ba7b5c982ca65338a76f0adf3b8ea7241925aa702ca48c6836da8f9b2254"

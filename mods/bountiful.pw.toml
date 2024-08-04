@@ -1,7 +1,0 @@
-name = "bountiful"
-filename = "Bountiful-6.0.3+1.20.1-forge.jar"
-
-[download]
-url = "https://maven.martmists.com/snapshots/io/ejekta/bountiful/Bountiful-6.0.3+1.20.1-forge.jar"
-hash-format = "sha256"
-hash = "7ce59fe5e2545b7f541bdceabe62472da2c82fe16b8048d793d2c05568236259"
