@@ -43,5 +43,14 @@ loot.modifiers.register(
     ])
 );
 villagerTrades.removeEnchantBookForEmeraldsTrade(<profession:minecraft:librarian>, 1);
-
-
+villagerTrades.removeTradesSelling(<profession:minecraft:armorer>, 1, <item:minecraft:diamond_helmet>);
+villagerTrades.removeTradesSelling(<profession:minecraft:armorer>, 1, <item:minecraft:diamond_chestplate>);
+villagerTrades.removeTradesSelling(<profession:minecraft:armorer>, 1, <item:minecraft:diamond_leggings>);
+villagerTrades.removeTradesSelling(<profession:minecraft:armorer>, 1, <item:minecraft:diamond_boots>);
+villagerTrades.removeTradesSelling(<profession:minecraft:toolsmith>, 1, <item:minecraft:diamond_axe>);
+villagerTrades.removeTradesSelling(<profession:minecraft:toolsmith>, 1, <item:minecraft:diamond_shovel>);
+villagerTrades.removeTradesSelling(<profession:minecraft:toolsmith>, 1, <item:minecraft:diamond_pickaxe>);
+villagerTrades.removeTradesSelling(<profession:minecraft:weaponsmith>, 1, <item:minecraft:diamond_sword>);
+villagerTrades.removeTradesSelling(<profession:minecraft:leatherworker>, 1, <item:minecraft:saddle>);
+villagerTrades.removeTradesSelling(<profession:minecraft:fletcher>, 1, <item:minecraft:bow>);
+villagerTrades.removeTradesSelling(<profession:minecraft:fletcher>, 1, <item:minecraft:crossbow>);
