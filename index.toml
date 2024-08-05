@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/bountiful-patched.pw.toml"
-hash = "4d3cd45a68dc7104b9834818cf73c8bf543131c3a11d5f76037b6ed37d1c4048"
+hash = "4c50c0cb884e9f4e1bd6fc7142917203a32318936a6c6acc42533283c7eaec6c"
 metafile = true
 
 [[files]]
