@@ -1747,7 +1747,7 @@ metafile = true
 
 [[files]]
 file = "mods/stagelight.pw.toml"
-hash = "2c3876f2cacf0097bf2a53955137ca278da88803c684ffc4a97dc06054049973"
+hash = "70d89988afe2d4d65ce8f5ba78fdff65f5f7d7a99bf00b9d28ba9e4947bdf67a"
 metafile = true
 
 [[files]]
@@ -10840,6 +10840,10 @@ file = "styles/ChocoGremlin.zip"
 hash = "e29c3ebf57be2962e0e86a2593e2579dcd9c2626ee6ed342e82b88c7153c1969"
 
 [[files]]
+file = "styles/Clown.zip"
+hash = "9cf0f212d69ca42fb24e99f59a4655f244e05b367c49534d2452f5002561f3f3"
+
+[[files]]
 file = "styles/DogEars.zip"
 hash = "385bcaee5b45607c8a0b49b08155b109d29bc6b7c74950fa204eff0b25e1ebff"
 
@@ -10924,20 +10928,12 @@ file = "styles/Wiggler.zip"
 hash = "ffb796f00c2798b9aa6e20eaf5af88e4a6830613e07cc014349b04138d21bdb9"
 
 [[files]]
-file = "styles/boonwarchan.zip"
-hash = "f969735ac891ba3b5ad450fb56df803e2d3c8fe3137b8de6f0570c7f3cc7b83a"
+file = "styles/mimic.zip"
+hash = "85fbdf9094cf8a7260964554af33c0cdef6bad4c62dc3d69b6b35fa65634e81e"
 
 [[files]]
-file = "styles/chancyclown.zip"
-hash = "e1528906ed4ac1f1a56984ac61c4057b5b458d5b946984052d801ecbbe8884ac"
-
-[[files]]
-file = "styles/chancymimic.zip"
-hash = "3e8663505a884f5b96ec9c77701f4377a4bc29536b038808b6306f077f672b2b"
-
-[[files]]
-file = "styles/chancynecoarc.zip"
-hash = "f13e58399f4b0d056599a50972f3b10f60841923af91471beb54b3c05470b689"
+file = "styles/necoarc.zip"
+hash = "ab7ab78281f390d08e2c24d351460e2b7bab792c99885157ca1aba942be42648"
 
 [[files]]
 file = "styles/oversized_yiay_tshirt.zip"
@@ -10954,3 +10950,7 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 [[files]]
 file = "styles/styles.json"
 hash = "493cca8fa0ee9d42480f725d953a73f147848fba33d2321280b873ad7b82fa9c"
+
+[[files]]
+file = "styles/warchan.zip"
+hash = "0673742edf5e6f6564cb3cc7d831d3eadcfa1b83e1478e8e0443dc14733a6ec7"
