@@ -7230,7 +7230,7 @@ hash = "154d8591ca7a6944d3ef0957f6ce8a5814e90390bfddd5658194496ca7475913"
 
 [[files]]
 file = "scripts/Misc/aHydraChestplate.zs"
-hash = "6b253109769583e9777807b6c1bdfc6da55eecbdf72050281fe63dd99feaab2a"
+hash = "69fd0d75409a8a80bc1d5a1a10854f2029ba560b4ceb2ab748a8d839f0c25c13"
 
 [[files]]
 file = "scripts/Misc/aHydraPants.zs"
@@ -10841,7 +10841,7 @@ hash = "e29c3ebf57be2962e0e86a2593e2579dcd9c2626ee6ed342e82b88c7153c1969"
 
 [[files]]
 file = "styles/Clown.zip"
-hash = "9cf0f212d69ca42fb24e99f59a4655f244e05b367c49534d2452f5002561f3f3"
+hash = "b3d9c7febe7d576f52a2b8030ec539e04e9deeba285311dcda89a8131f97bb95"
 
 [[files]]
 file = "styles/DogEars.zip"
@@ -10866,6 +10866,10 @@ hash = "50a87ec233bf53acee11941a0a3dee1c32f7513eecd0597b1ec47ad950c0deb1"
 [[files]]
 file = "styles/KiraKuroto.zip"
 hash = "416cdfd50d5ad775ef0803b23b0ff4255804a64e2e504c9b8683da73d7f83371"
+
+[[files]]
+file = "styles/Magicandybar.zip"
+hash = "b0f3180b356ba06b1005dad07323cc1153a30beaa0340947faaad97b678e40f9"
 
 [[files]]
 file = "styles/Martmists.zip"
@@ -10916,6 +10920,10 @@ file = "styles/Succucow.zip"
 hash = "95242a00ee70fb390b474bc6902b02d7eeefe9dedb3aaedd8c58a3f2c7c303a2"
 
 [[files]]
+file = "styles/Twintails.zip"
+hash = "6ac9f8cdc82dfe539e20890b2f4246744dc405e792ef1174a32941cc995c09f0"
+
+[[files]]
 file = "styles/Ushimama.zip"
 hash = "172afba84051d4211fbd4a926c96521fa0e89d4ce58ebdc802358dce22f02f52"
 
@@ -10929,11 +10937,11 @@ hash = "ffb796f00c2798b9aa6e20eaf5af88e4a6830613e07cc014349b04138d21bdb9"
 
 [[files]]
 file = "styles/mimic.zip"
-hash = "85fbdf9094cf8a7260964554af33c0cdef6bad4c62dc3d69b6b35fa65634e81e"
+hash = "14ff8f7fa9c456977b1f0f15cb4cfa6ec8b7bb109817579d77112feb388d79ac"
 
 [[files]]
 file = "styles/necoarc.zip"
-hash = "ab7ab78281f390d08e2c24d351460e2b7bab792c99885157ca1aba942be42648"
+hash = "9bd01d4761348c81fc458c09b2936d9b699e16fd3c7ba69dd51433793e655543"
 
 [[files]]
 file = "styles/oversized_yiay_tshirt.zip"
@@ -10949,8 +10957,8 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "493cca8fa0ee9d42480f725d953a73f147848fba33d2321280b873ad7b82fa9c"
+hash = "cdefd0045c527a600c7fd339086f38417add79bc490d7b0d9f759020d3f8e700"
 
 [[files]]
 file = "styles/warchan.zip"
-hash = "0673742edf5e6f6564cb3cc7d831d3eadcfa1b83e1478e8e0443dc14733a6ec7"
+hash = "c67237251ec5b9bd109a20c279d5d8cd74a2e3a25916c97aff380766bfc13a31"
