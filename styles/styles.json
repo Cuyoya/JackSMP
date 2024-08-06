@@ -1,5 +1,34 @@
 [
   {
+    "name": "twintails",
+    "texture_id": "bounce_styles:twintails_hat.png",
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": []
+  },
+  {
+    "name": "candybar",
+    "model_id": "bounce_styles:candybar.geo.json",
+    "texture_id": "bounce_styles:candybar.png",
+    "animation_id": "bounce_styles:candybar.animation.json",
+    "animations":{
+      "walking": "walk",
+      "sneaking": "sneak"
+    },
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "body"
+    ]
+  },
+  {
     "name": "kirakuroto",
     "animation_id": "bounce_styles:kirakuroto.animation.json",
     "animations":{
