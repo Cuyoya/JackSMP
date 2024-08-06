@@ -62,11 +62,11 @@ hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "1cc430ed43b11bd891d318910c3424e973821a8085a0ec7efe47420a9993e4ab"
+hash = "9cd37e4b7bc7d12e6c396c3f043855a4d53d11db585866cdc6159c08522215dd"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "aa37c6e856235f2cb99484302a72c6e4c0767414179c5e8dcacc806d80594884"
+hash = "395f7b7edf5900a0fbc99b478a7cf2d38fefbe7b0c2dee1c6e3d49dcbde408de"
 
 [[files]]
 file = "config/easy_npc/easy_npc-common.toml"
@@ -4654,7 +4654,7 @@ hash = "347ac2f39a5d88d760fe66d29de5f9e20c7c97a43054e903185587ae2ea2d3cd"
 
 [[files]]
 file = "scripts/Enchanted Books/VeinMining.zs"
-hash = "17cfbbe75190f4b20ba92333abb7508b231ab7df247ec21e47c8ce22e65beb41"
+hash = "eeaa2475525f4372d810c6bfd964f65e809da57e6caf76910ba91f65a8fe551a"
 
 [[files]]
 file = "scripts/Engineer Recipes/aAbacus.zs"
