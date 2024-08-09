@@ -1751,7 +1751,7 @@ metafile = true
 
 [[files]]
 file = "mods/stagelight.pw.toml"
-hash = "70d89988afe2d4d65ce8f5ba78fdff65f5f7d7a99bf00b9d28ba9e4947bdf67a"
+hash = "b330018d5d10572e8f0297235d79356c734e6f33df3cf420f81827f8bff7e732"
 metafile = true
 
 [[files]]
