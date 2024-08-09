@@ -8,6 +8,62 @@
     "hidden_parts": []
   },
   {
+    "name": "peter",
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body",
+      "legs"
+    ]
+  },
+  {
+    "name": "cuyoyagift",
+    "hidden_parts": [
+      "head",
+      "body",
+      "left_arm",
+      "right_arm",
+      "left_leg",
+      "right_leg"
+    ],
+    "slots": [
+      "head",
+      "body",
+      "legs"
+    ]
+  },
+  {
+    "name": "cass",
+    "animation_id": "bounce_styles:cass.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk",
+      "sneaking": "sneak"
+    },
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "andechhead",
+    "model_id": "bounce_styles:andechhead.geo.json",
+    "texture_id": "bounce_styles:andechhead.png",
+    "slots": [
+      "head"
+    ],
+    "hidden_parts": [
+	"head"
+	]
+  },
+  {
     "name": "candybar",
     "model_id": "bounce_styles:candybar.geo.json",
     "texture_id": "bounce_styles:candybar.png",
@@ -45,7 +101,7 @@
     ]
   },
   {
-    "name": "necoarc",
+    "name": "necoarc2",
     "hidden_parts": [
       "head",
       "body",
