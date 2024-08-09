@@ -85,7 +85,7 @@
 		[common.backpackSettings.netheriteTierBackpack]
 			#Number of inventory slots for the tier
 			#Range: 1 ~ 63
-			inventorySlotCount = 27
+			inventorySlotCount = 36
 			#Number of tool slots for the tier
 			#Range: 0 ~ 6
 			toolSlotCount = 6
