@@ -10856,6 +10856,10 @@ file = "styles/Clown.zip"
 hash = "b3d9c7febe7d576f52a2b8030ec539e04e9deeba285311dcda89a8131f97bb95"
 
 [[files]]
+file = "styles/Comfy.zip"
+hash = "82e2ed2771609e05f1ccbe6ac70f8b21d889ccba2820842570a39ae8e92c124a"
+
+[[files]]
 file = "styles/DogEars.zip"
 hash = "385bcaee5b45607c8a0b49b08155b109d29bc6b7c74950fa204eff0b25e1ebff"
 
@@ -10981,7 +10985,7 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "d1393cf9a0b8a5fc42f3ae36f9fbd778db4c2eff75574e344b0623c0b5962699"
+hash = "15748f00d862ca9b8d170ee461885f261dd22c8c925ee651de0faf5406ef5e6b"
 
 [[files]]
 file = "styles/warchan.zip"
