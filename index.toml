@@ -173,6 +173,10 @@ file = "config/mcdw/mcdw_enchantment_settings_config.json5"
 hash = "0153b28b2dcab0f3a4622a552a232860c3f05e8bf35e0ad63239526473daa2ff"
 
 [[files]]
+file = "config/mcdw/mcdw_enchantments_config.json5"
+hash = "3af93b7d8aeebf35ec1d431b341c657b8b40abb1d337f6ba21d0276bf1b0d90d"
+
+[[files]]
 file = "config/mcdw/mcdw_loot_config.json5"
 hash = "7f56ec8a35479ea55f699cf57d9cdf753707afd451d05cf0e09bdd759870559c"
 
@@ -218,7 +222,7 @@ hash = "3f90ed931884b7b5f4772dc08b0a2773abed119a701f115acfb1c0d5fda67a37"
 
 [[files]]
 file = "config/travelersbackpack-common.toml"
-hash = "e4010af1da19456053be77e16c98b6893633addf941a0b3dc529b114cee7b1e1"
+hash = "2b6185b9b6bf5a0cc2e41fa41b084fd412eac7ab5760def7a77701d91fb92031"
 
 [[files]]
 file = "config/veinmining-common.toml"
@@ -1747,7 +1751,7 @@ metafile = true
 
 [[files]]
 file = "mods/stagelight.pw.toml"
-hash = "70d89988afe2d4d65ce8f5ba78fdff65f5f7d7a99bf00b9d28ba9e4947bdf67a"
+hash = "b330018d5d10572e8f0297235d79356c734e6f33df3cf420f81827f8bff7e732"
 metafile = true
 
 [[files]]
@@ -4075,6 +4079,10 @@ hash = "3af677abe97a5e43f3ccd493c7543c4790bd409e2b664e11cb9973509f66ded5"
 [[files]]
 file = "scripts/Decorative Blocks/bbarPanel.zs"
 hash = "32cdceb51aef785de416ee1e67433a0e12916a81d233594460c392f817e932be"
+
+[[files]]
+file = "scripts/DirtTags"
+hash = "4e7bf7a4e9ba45d4716bd7c6562941fbf6e8087abc51fdaf3fdf15099783c0f4"
 
 [[files]]
 file = "scripts/Doors/AAAAAAA yes (1).zs"
@@ -10832,6 +10840,10 @@ file = "styles/Alan.zip"
 hash = "478724bae22b6d95dd08580c7cb4a3066a7d2dbcb3cdd8eecedb40ea3b2e7b7f"
 
 [[files]]
+file = "styles/Cassaafrass.zip"
+hash = "ae1d8c73b06014f08b566d2c2c0aa4240261f280e3149bf46e7b2d625a0ae566"
+
+[[files]]
 file = "styles/Choco.zip"
 hash = "222e285ae5e472e5d721561f577337877037de3a0fdcc1e9956044cd9df95a63"
 
@@ -10936,16 +10948,28 @@ file = "styles/Wiggler.zip"
 hash = "ffb796f00c2798b9aa6e20eaf5af88e4a6830613e07cc014349b04138d21bdb9"
 
 [[files]]
+file = "styles/andechhead.zip"
+hash = "66b2581b245b7e8ab02e6bb4d56fd532bda2a802205b5207b44fbdd61239ff8c"
+
+[[files]]
+file = "styles/cuyoyagift.zip"
+hash = "001e2ae18c52b8cd45b70443106b4a9df5601c9d2aefc098d39938de3e3c47ad"
+
+[[files]]
 file = "styles/mimic.zip"
-hash = "14ff8f7fa9c456977b1f0f15cb4cfa6ec8b7bb109817579d77112feb388d79ac"
+hash = "9f192073def39d17122743dc432f80e75426542a4bf8fd74ece2ec8da8725b83"
 
 [[files]]
 file = "styles/necoarc.zip"
-hash = "9bd01d4761348c81fc458c09b2936d9b699e16fd3c7ba69dd51433793e655543"
+hash = "6f54386da1c72bd35851f61bf89cdd9a34f90d3742e5f7ce079fe6be1dc37163"
 
 [[files]]
 file = "styles/oversized_yiay_tshirt.zip"
 hash = "76fb290f227ae44d3ec53c4b6e42eca165ecc031d1eb7c9f2906610e36568d72"
+
+[[files]]
+file = "styles/peter.zip"
+hash = "e235222d6ae170a746cf8a7918e09b895b61f23a602bd4c1aae9056e6e57ff32"
 
 [[files]]
 file = "styles/presets.json"
@@ -10957,7 +10981,7 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "cdefd0045c527a600c7fd339086f38417add79bc490d7b0d9f759020d3f8e700"
+hash = "d1393cf9a0b8a5fc42f3ae36f9fbd778db4c2eff75574e344b0623c0b5962699"
 
 [[files]]
 file = "styles/warchan.zip"
