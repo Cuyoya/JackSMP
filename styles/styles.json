@@ -8,6 +8,18 @@
     "hidden_parts": []
   },
   {
+    "name": "comfy",
+    "animation_id": "bounce_styles:comfy.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk"
+    },
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
     "name": "peter",
     "hidden_parts": [
       "head",
