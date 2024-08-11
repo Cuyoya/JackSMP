@@ -20,7 +20,19 @@
     ]
   },
   {
-    "name": "cuyoyagift",
+    "name": "shii",
+    "animation_id": "bounce_styles:shii.animation.json",
+    "animations":{
+      "idle": "idle",
+      "walking": "walk"
+    },
+    "slots": [
+      "head",
+      "body"
+    ]
+  },
+  {
+    "name": "skibidicuyoya",
     "hidden_parts": [
       "head",
       "body",

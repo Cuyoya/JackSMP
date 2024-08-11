@@ -1,0 +1,14 @@
+<tag:blocks:minecraft:dirt>.add(<tag:blocks:forge:ores>);
+<tag:blocks:minecraft:dirt>.add(<tag:blocks:chipped:torch>);
+<tag:blocks:minecraft:dirt>.add(<tag:items:forge:cobblestone>);
+<tag:blocks:minecraft:dirt>.add(<block:dungeonnowloading:dungeon_wall_torch>);
+<tag:blocks:minecraft:dirt>.add(<block:dungeonnowloading:gold_ingot_pile>);
+<tag:blocks:minecraft:dirt>.add(<block:dungeonnowloading:iron_ingot_pile>);
+<tag:blocks:minecraft:dirt>.add(<block:dungeonnowloading:chaos_spawner_diamond_edge>);
+<tag:blocks:minecraft:dirt>.add(<tag:blocks:forge:stone>);
+<tag:blocks:minecraft:dirt>.add(<block:dungeonnowloading:chaos_spawner_diamond_vertex>);
+<tag:blocks:minecraft:dirt>.add(<tag:blocks:minecraft:ice>);
+<tag:blocks:minecraft:dirt>.add(<block:bosses_of_mass_destruction:gauntlet_blackstone>);
+<tag:blocks:minecraft:dirt>.add(<tag:items:forge:netherrack>);
+<tag:blocks:minecraft:dirt>.add(<block:minecraft:nether_wart>);
+<tag:blocks:minecraft:dirt>.add(<block:minecraft:soul_sand>);
