@@ -4081,8 +4081,8 @@ file = "scripts/Decorative Blocks/bbarPanel.zs"
 hash = "32cdceb51aef785de416ee1e67433a0e12916a81d233594460c392f817e932be"
 
 [[files]]
-file = "scripts/DirtTags"
-hash = "4e7bf7a4e9ba45d4716bd7c6562941fbf6e8087abc51fdaf3fdf15099783c0f4"
+file = "scripts/DirtTags.zs"
+hash = "ae0cb1ffdedcc2d6b11e9705ccb3ca97bb0c24bf7ff4d2187da2231d7599503f"
 
 [[files]]
 file = "scripts/Doors/AAAAAAA yes (1).zs"
@@ -10908,6 +10908,10 @@ file = "styles/PopcornDBH.zip"
 hash = "c2ee158b25dc2a581277988e91612b99d44b249c9048a7c546c033ed6d4696b7"
 
 [[files]]
+file = "styles/Shii.zip"
+hash = "939148de70a5b3c1dd0e4d5c1ca4d2bf5326c9cbac79b291d53435a39025df12"
+
+[[files]]
 file = "styles/Shii_Hiromata.zip"
 hash = "9a4273b5c0f8bf4ba6e2dbd73982de0edfa1435affa298ba0bfb131fb009c2a4"
 
@@ -10956,10 +10960,6 @@ file = "styles/andechhead.zip"
 hash = "66b2581b245b7e8ab02e6bb4d56fd532bda2a802205b5207b44fbdd61239ff8c"
 
 [[files]]
-file = "styles/cuyoyagift.zip"
-hash = "001e2ae18c52b8cd45b70443106b4a9df5601c9d2aefc098d39938de3e3c47ad"
-
-[[files]]
 file = "styles/mimic.zip"
 hash = "9f192073def39d17122743dc432f80e75426542a4bf8fd74ece2ec8da8725b83"
 
@@ -10972,12 +10972,16 @@ file = "styles/oversized_yiay_tshirt.zip"
 hash = "76fb290f227ae44d3ec53c4b6e42eca165ecc031d1eb7c9f2906610e36568d72"
 
 [[files]]
-file = "styles/peter.zip"
-hash = "e235222d6ae170a746cf8a7918e09b895b61f23a602bd4c1aae9056e6e57ff32"
+file = "styles/petergriffin.zip"
+hash = "13c0f8ab845fd9439c0aab3d5cebf914143c8b6e70eeeac5c2c00b2ba71a2b1e"
 
 [[files]]
 file = "styles/presets.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "styles/skibidicuyoya.zip"
+hash = "8c95edfe3d6415cd3dfc51fb3845a891fbedb953911b6f3bb37bf981cb261eb7"
 
 [[files]]
 file = "styles/sockshat.zip"
@@ -10985,7 +10989,7 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "15748f00d862ca9b8d170ee461885f261dd22c8c925ee651de0faf5406ef5e6b"
+hash = "ba8e00bd9017ba0822d6459f90c10cf168ae57fa29d5ce2d1f77ad456da3a7d9"
 
 [[files]]
 file = "styles/warchan.zip"
