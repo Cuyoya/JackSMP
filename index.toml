@@ -10868,6 +10868,10 @@ file = "styles/Doge.zip"
 hash = "93831b311ea1d39800d768ae0b2f3558f1cc699a1f6647005869b1c9cd126107"
 
 [[files]]
+file = "styles/ENVI.zip"
+hash = "a853e960fbaec74b1c71e3602d1b64835ad26c71084c1f7caeb601aa3a7840d5"
+
+[[files]]
 file = "styles/Epherma.zip"
 hash = "1bb9196f6b17b7b17ae91e94a6463a4c2d2d36f3306292374723ffdc5d301e78"
 
@@ -10989,7 +10993,7 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "ba8e00bd9017ba0822d6459f90c10cf168ae57fa29d5ce2d1f77ad456da3a7d9"
+hash = "527ba1ce5ccf011f3ebf8deec0c35309fc6422b81722477c0adbbcd37c68d885"
 
 [[files]]
 file = "styles/warchan.zip"
