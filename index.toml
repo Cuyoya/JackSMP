@@ -10976,10 +10976,6 @@ file = "styles/oversized_yiay_tshirt.zip"
 hash = "76fb290f227ae44d3ec53c4b6e42eca165ecc031d1eb7c9f2906610e36568d72"
 
 [[files]]
-file = "styles/petergriffin.zip"
-hash = "13c0f8ab845fd9439c0aab3d5cebf914143c8b6e70eeeac5c2c00b2ba71a2b1e"
-
-[[files]]
 file = "styles/presets.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -10993,7 +10989,7 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "527ba1ce5ccf011f3ebf8deec0c35309fc6422b81722477c0adbbcd37c68d885"
+hash = "74f6367b96327be7807539136282397957889607dea45e90ca0f84425f369cfc"
 
 [[files]]
 file = "styles/warchan.zip"
