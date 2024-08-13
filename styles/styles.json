@@ -21,22 +21,6 @@
     ]
   },
   {
-    "name": "peter",
-    "hidden_parts": [
-      "head",
-      "body",
-      "left_arm",
-      "right_arm",
-      "left_leg",
-      "right_leg"
-    ],
-    "slots": [
-      "head",
-      "body",
-      "legs"
-    ]
-  },
-  {
     "name": "comfy",
     "animation_id": "bounce_styles:comfy.animation.json",
     "animations":{
