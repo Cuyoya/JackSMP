@@ -470,6 +470,22 @@ hash = "b4f622159cfa5a5ba623943bbea2192b308b15a4cd9938d20d68fba396085879"
 metafile = true
 
 [[files]]
+file = "global_packs/required_resources/SpyglassTweak/assets/minecraft/sounds.json"
+hash = "aba863372aa72854e8d6052c93dfd9389217d0e030017131e9d1994558097d3c"
+
+[[files]]
+file = "global_packs/required_resources/SpyglassTweak/assets/minecraft/sounds/item/spyglass/use.ogg"
+hash = "e68220e7ac4faacc4bd3e85e20589035aa0f28e65a692e8ae08084cf204d3d8f"
+
+[[files]]
+file = "global_packs/required_resources/SpyglassTweak/assets/minecraft/textures/misc/spyglass_scope.png"
+hash = "637cf1248a316717b45a278103b79fb40a9c084b2a2e1fcd82a1c0fadfe166a6"
+
+[[files]]
+file = "global_packs/required_resources/SpyglassTweak/pack.mcmeta"
+hash = "77e24064d761899c98300ab771d924cda48242496488b8aff39e7e1567a4c4c5"
+
+[[files]]
 file = "global_packs/required_resources/StagelightSMP/assets/minecraft/texts/end.txt"
 hash = "fac29ff03a89887c9696dd2894349050fb13d5fa27e58d7a2d2ac43718f51ecf"
 
