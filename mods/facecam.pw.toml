@@ -1,0 +1,7 @@
+name = "facecam"
+filename = "Minecraft.FaceCam-0.2.0.jar"
+
+[download]
+url = "https://github.com/RyanV97/Minecraft-Facecam/releases/download/1.20.1-0.2.0/Minecraft.FaceCam-0.2.0.jar"
+hash-format = "sha256"
+hash = "04abfdbf4d5ed5d1cfa974ff39296adaaf605997490567314a31108307e876de"

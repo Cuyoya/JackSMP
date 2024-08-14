@@ -1066,6 +1066,11 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/facecam.pw.toml"
+hash = "86068b487917a99561644dccc541bbe079a0c63a6468daa59fcab092e7c8ccbd"
+metafile = true
+
+[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "25fa919ea97a60c39737bdd490e3a8f78361f42416453d83bd9a291908b821b2"
 metafile = true
