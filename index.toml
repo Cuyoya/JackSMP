@@ -1067,7 +1067,7 @@ metafile = true
 
 [[files]]
 file = "mods/facecam.pw.toml"
-hash = "86068b487917a99561644dccc541bbe079a0c63a6468daa59fcab092e7c8ccbd"
+hash = "5b63ceabb11dc193f217b1948921ff529f6d406c3dca77b1bbc45c43a73789fb"
 metafile = true
 
 [[files]]

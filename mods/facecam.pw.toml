@@ -1,5 +1,5 @@
 name = "facecam"
-filename = "Minecraft.FaceCam-0.2.0.jar"
+filename = "Minecraft.FaceCam-0.2.0.jar.disabled"
 
 [download]
 url = "https://github.com/RyanV97/Minecraft-Facecam/releases/download/1.20.1-0.2.0/Minecraft.FaceCam-0.2.0.jar"
