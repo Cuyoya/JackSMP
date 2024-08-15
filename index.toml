@@ -9,6 +9,10 @@ file = "config/alexsmobs.toml"
 hash = "8b7791bee8611f4062ef42a702b5589fd84f60e3137078ae9f8e34c3f383e5d8"
 
 [[files]]
+file = "config/battlemusic-client.toml"
+hash = "4b3bfa5f96efc4f381146bb40c66a7221ce6cc7a2bf20b38be67b3b101cd5f97"
+
+[[files]]
 file = "config/betterendisland-forge-1_20.toml"
 hash = "9feed9bbb26e2ed73a7bdbbeead0a27d7779fde38b511cd39d81027ff8d6e38c"
 
@@ -1772,7 +1776,7 @@ metafile = true
 
 [[files]]
 file = "mods/stagelight.pw.toml"
-hash = "4ec564f48828ddf9013c8afbc8b4eec1a9cb607a938551700903aedb4f2e55e2"
+hash = "9fb4d21e10e0d27b0c7b6128583a7497d64d8cd9ac43d03c3990046956282ad2"
 metafile = true
 
 [[files]]
@@ -11002,7 +11006,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "styles/skibidicuyoya.zip"
-hash = "8c95edfe3d6415cd3dfc51fb3845a891fbedb953911b6f3bb37bf981cb261eb7"
+hash = "c8b1e28261d041993035489f269298f6bbd5b3e4402642b9b88f4cefb870a3c7"
 
 [[files]]
 file = "styles/sockshat.zip"

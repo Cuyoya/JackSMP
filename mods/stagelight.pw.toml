@@ -1,7 +1,7 @@
 name = "stagelight"
-filename = "stagelight-1.0.2-forge-1.20.1.jar"
+filename = "stagelight-1.0.3-forge-1.20.1.jar"
 
 [download]
-url = "https://maven.martmists.com/snapshots/net/mcreator/stagelight-1.0.2-forge-1.20.1.jar"
+url = "https://maven.martmists.com/snapshots/net/mcreator/stagelight-1.0.3-forge-1.20.1.jar"
 hash-format = "sha256"
-hash = "5e6fe6c02164851e282c03eae1087bf939a483a4d5bc0561653abd42553e2e2e"
+hash = "f1532e8a75812675b83af6a7fbcc84cd6aeadc6cd29a9f8b6e40cb43a1bf2986"
