@@ -1,0 +1,7 @@
+name = "facecam"
+filename = "Minecraft.FaceCam-0.2.0.jar.disabled"
+
+[download]
+url = "https://github.com/RyanV97/Minecraft-Facecam/releases/download/1.20.1-0.2.0/Minecraft.FaceCam-0.2.0.jar"
+hash-format = "sha256"
+hash = "802a2860866fcf03a4cdb2bf8802d7535a6ad30cc41845a0813f144c72d2173b"
