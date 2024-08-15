@@ -2,10 +2,10 @@
 ["battlemusic configs"]
 	#Volume of battle music, set to zero to mute
 	#Range: 0.0 ~ 5.0
-	volume = 0.5
+	volume = 1
 	#
 	#Whether battle music's volume is affected by the music slider
-	linked_to_music_volume = false
+	linked_to_music_volume = true
 	#
 	#How much the battle music changes in pitch when at low health    
 	#    > Values below zero shift the pitch down, above zero shift the pitch up    
