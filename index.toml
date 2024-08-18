@@ -680,6 +680,11 @@ hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
 metafile = true
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "8b07789513bc51a5405bcd56e703e2e0b091d1a8d0a1b07640dce8570fe60572"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "f9b6555134ce76c22fc28099e006089f76805fb94d90a44aa8f93b76d99f9553"
 metafile = true
