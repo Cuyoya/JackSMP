@@ -10,7 +10,7 @@ hash = "8b7791bee8611f4062ef42a702b5589fd84f60e3137078ae9f8e34c3f383e5d8"
 
 [[files]]
 file = "config/battlemusic-client.toml"
-hash = "4b3bfa5f96efc4f381146bb40c66a7221ce6cc7a2bf20b38be67b3b101cd5f97"
+hash = "d9ed85531367dd2d99e69f17f86e81f504316c949806cf3afa7fe6d43fc3fb4f"
 
 [[files]]
 file = "config/betterendisland-forge-1_20.toml"
@@ -1071,7 +1071,7 @@ metafile = true
 
 [[files]]
 file = "mods/facecam.pw.toml"
-hash = "aae88768321cfca1e2522227ad6922d665d6ce9e778e57621cfbaff549d6f238"
+hash = "02961775129b251e3e1937c45f8234ceb3d9dfa319733626b9f0901d54bb6367"
 metafile = true
 
 [[files]]
@@ -4163,7 +4163,7 @@ hash = "6716b5af4fffefe297941b52fca4073acbd38695de9ea8a380814475c22ef013"
 
 [[files]]
 file = "scripts/Doors/BlackGarageDoor.zs"
-hash = "3dfbcd2cf4bdbaf519ac1a542f75ed2174ace3bd86f2dcf57b22839250bb8e34"
+hash = "22bcd61ddaf0b5050888127084e27bbb9791417859627e8f002e9c02cd1e0fda"
 
 [[files]]
 file = "scripts/Doors/BlackwoodDoor.zs"
@@ -4211,7 +4211,7 @@ hash = "01753b61c95002904e9706f3204a7929027fb37091b9021cf1f1c6b5d079800e"
 
 [[files]]
 file = "scripts/Doors/GrayGarageDoor.zs"
-hash = "9b5ece59fd93f5020858ed5c382c9edf36ec3c96edf41fe1d1755508d2c233bb"
+hash = "517c4817616581d6255296e05006d44907545638ac723ed6834874dc31b8945e"
 
 [[files]]
 file = "scripts/Doors/IronDoor.zs"
@@ -4287,7 +4287,7 @@ hash = "4a73981d38b96f8d4a526af1131b90f13fa31abf10778a14c5094ba536b80386"
 
 [[files]]
 file = "scripts/Doors/SilverGarageDoor.zs"
-hash = "24be97d240086025241e2cf47cd29ce1eab6fecc3602f42188ca25e4e34dc41f"
+hash = "a4024f049bf5441ff6559d656e07cc16690d1d6ac0eff4badcafc62e7e9786e3"
 
 [[files]]
 file = "scripts/Doors/SococoDoor.zs"
@@ -4299,7 +4299,7 @@ hash = "a44ded677717e3a933628556e9432079e81ac68ef98e7ebc74393489a5d59d53"
 
 [[files]]
 file = "scripts/Doors/StoreDoor.zs"
-hash = "1e889008b88df2ef34218100651ae9ccce7a0bb1011ed2f15bb0d13fa3f17631"
+hash = "77e6e8aaaa49ecf2ad9bca10f2197d7c992acf313c73f6e2de5c1132ae71376a"
 
 [[files]]
 file = "scripts/Doors/SwampCypressDoor.zs"
@@ -4319,7 +4319,7 @@ hash = "ddee5e532278f7d10ecdbce62d1a90536198af43972389b68206802f6388424a"
 
 [[files]]
 file = "scripts/Doors/WhiteGarageDoor.zs"
-hash = "54b9fdbf6aadd218dbfa798de7913002317f9a7cb2d8c41be18e7137159e74bd"
+hash = "8aa885d1765f9c807667cd295bb91b3babff90c75e37c7f04a3a132af838ab64"
 
 [[files]]
 file = "scripts/Doors/WhiteOakDoor.zs"
@@ -4567,7 +4567,7 @@ hash = "07597698eeb3502ff9078371dbf8b1b5bd18353244a1a6f76281f9144e975f00"
 
 [[files]]
 file = "scripts/Doors/slidingglassdoor.zs"
-hash = "e5628be31d0679e1bccdadb1d4de92215827d8345e3ce43a89d0e7f1d4b50428"
+hash = "37634ec8f4b1b638968e98f8831c4342cc086d30b9f7dbad5859fbfbf1d261eb"
 
 [[files]]
 file = "scripts/Enchanted Books/Acrobat.zs"
@@ -4639,7 +4639,7 @@ hash = "623f5804b544fb67fe9ee44d80b16f4c49471553466fa3cf5f8fa20effe8e793"
 
 [[files]]
 file = "scripts/Enchanted Books/Mending.zs"
-hash = "260508022d9fd1fdf199ca310bdb019dfc8f788da02af3e62deedd3883506ebd"
+hash = "553abe1d1e6f8fe2ff22bacc062ad5f267c3644833995c1e02e90aff9fc83926"
 
 [[files]]
 file = "scripts/Enchanted Books/Multi-Roll.zs"
