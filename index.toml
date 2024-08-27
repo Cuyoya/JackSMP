@@ -665,8 +665,18 @@ hash = "6c94a8add3023cd603937b3ec2f30cde229851d8b77fc057151d05e6304fed8c"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+metafile = true
+
+[[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "322e648d87378d771f41448ab01cfa90bf1568cad05064c835df0c1e95724499"
 metafile = true
 
 [[files]]
