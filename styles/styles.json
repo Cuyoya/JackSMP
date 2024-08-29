@@ -8,6 +8,25 @@
     "hidden_parts": []
   },
   {
+    "name": "strippin",
+    "animations":{
+	  "sleeping": "animation.strippin.sleeping",
+      "idle": "animation.strippin.idle",
+	  "walking": "animation.strippin.walk",
+      "sneaking": "animation.strippin.sneak",
+	  "sprinting": "animation.strippin.sprint",
+	  "swimming": "animation.strippin.swim",
+	  "flying": "animation.strippin.fly"
+    },
+    "hidden_parts": [
+	  "head"
+    ],
+    "slots": [
+      "head",
+	  "body"
+    ]
+  },
+  {
     "name": "envi",
     "animation_id": "bounce_styles:envi.animation.json",
     "animations":{
