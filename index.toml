@@ -10980,6 +10980,10 @@ file = "styles/Stagelight SMP Styles 3.zip"
 hash = "eaa2bf3d94bbca1cd38e9d3451eff48b12a34484c424c62391480f2627a334dc"
 
 [[files]]
+file = "styles/Strippin Style.zip"
+hash = "d9a57d099e805a4f1fc831b5b08ba216746c6a1cf74f2f797fb3ce684143729e"
+
+[[files]]
 file = "styles/Succucow.zip"
 hash = "95242a00ee70fb390b474bc6902b02d7eeefe9dedb3aaedd8c58a3f2c7c303a2"
 
@@ -11029,7 +11033,7 @@ hash = "067bc0c59f9df32b8830b4b5b23491cae03cb37d756714399082a969ab6b960e"
 
 [[files]]
 file = "styles/styles.json"
-hash = "74f6367b96327be7807539136282397957889607dea45e90ca0f84425f369cfc"
+hash = "8d89bed5dcdf770eff889f438bc286a1e14c03f7760035bc3204854ab1714405"
 
 [[files]]
 file = "styles/warchan.zip"
