@@ -885,6 +885,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "938a4216af658b169da48e2d738d5d197d4c1410b8c88ffcfd6ea8392c1fed87"
 metafile = true
@@ -1390,6 +1395,16 @@ hash = "f89072240962d6626670a875ae6158ef85b068cf67eaf97a0a3ffd661287f260"
 metafile = true
 
 [[files]]
+file = "mods/manyideas-core.pw.toml"
+hash = "138932c84890c25da9e9a2ae1d8b450b627d6c13e2cd048e60fd4cfec7cd76ea"
+metafile = true
+
+[[files]]
+file = "mods/manyideas-halloween.pw.toml"
+hash = "ccd9cab3ac997100979d6014c18c0c29825dbda6d3c15caa2ca250b745f3a029"
+metafile = true
+
+[[files]]
 file = "mods/mcda.pw.toml"
 hash = "20289e74d91caca88a0f2e26a7ae4581ab509baed8f4561fae8443f4c1263a31"
 metafile = true
@@ -1855,6 +1870,11 @@ hash = "96a70e936c5a3df0d07ac5b8b51614577f97c0b5e42ad22caa70f46f8347d39e"
 metafile = true
 
 [[files]]
+file = "mods/the-graveyard-forge.pw.toml"
+hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
+metafile = true
+
+[[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "8b61be8290331fdd738f338692c4aeaa234ffc0bb287451200e87eac39142e2b"
 metafile = true
@@ -1935,6 +1955,11 @@ hash = "762fc9b6eaf8e8698cea5d010e4b15e543d5d10b4a4b352b861674f52b32296f"
 metafile = true
 
 [[files]]
+file = "mods/whisperwoods.pw.toml"
+hash = "3521a08891eb0a771a0fd3d513dae10a0acde59c7d06bd2f52c5743995ae2d5e"
+metafile = true
+
+[[files]]
 file = "mods/worldeditcui-forge.pw.toml"
 hash = "645abd4b0dd0bebeb1da113cc6d31d2ecbc1963f97d0e9137fde2048667c0e0e"
 metafile = true
@@ -1967,6 +1992,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
 
 [[files]]
